@@ -36,7 +36,7 @@ http://live.savitar.tv/Disney/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU
 #EXTINF:0,DISNEY (Backup)
 https://nl2.streamlive.to/vlc/2tag4dzgwof5ma2/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xOS8yMDE5IDI6MzI6MDcgQU0maGFzaF92YWx1ZT0ybFM1V1ZMTHIzdThzemMydkdSRkV3PT0mdmFsaWRtaW51dGVzPTYwJnN0cm1fbGVuPTE5JmlkPTA=
 #EXTINF:0,DISNEY JR
-http://live.savitar.tv/DisneyJr/myStream/chunks.m3u8?nimblesessionid=48477050&wmsAuthSign=c2VydmVyX3RpbWU9OS8xOC8yMDE5IDM6MDk6MDMgUE0maGFzaF92YWx1ZT1UcXpPc3hxUWpjbGVjeHhaSGhTVkJRPT0mdmFsaWRtaW51dGVzPTM2MCZpZD0w
+https://nl2.streamlive.to/vlc/dxpaczzf2hzf03w/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xOS8yMDE5IDY6Mjc6NDMgUE0maGFzaF92YWx1ZT1Sa3JIc3V4cDdGWk0zVVFTUWthbm1BPT0mdmFsaWRtaW51dGVzPTYwJnN0cm1fbGVuPTE5JmlkPTA=
 #EXTINF:0,DISNEY XD
 http://live.savitar.tv/DisneyXD/myStream/chunks.m3u8?nimblesessionid=48477437&wmsAuthSign=c2VydmVyX3RpbWU9OS8xOC8yMDE5IDM6MTA6MDkgUE0maGFzaF92YWx1ZT14VW43aUNtd2JPZ3VDaGwyOEhMQ1FRPT0mdmFsaWRtaW51dGVzPTM2MCZpZD0w
 #EXTINF:0,DISNEY MOVIES
