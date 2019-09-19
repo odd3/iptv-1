@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:0,A&E
-http://live.savitar.tv/AE/myStream/chunks.m3u8?nimblesessionid=48600542&wmsAuthSign=c2VydmVyX3RpbWU9OS8xOC8yMDE5IDc6NDg6NTkgUE0maGFzaF92YWx1ZT1zK01jYWpVSkFZZ0RnT1BkUDdrOU5nPT0mdmFsaWRtaW51dGVzPTM2MCZpZD0w
+https://nl2.streamlive.to/vlc/c9xubagk4py0f5q/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xOS8yMDE5IDU6MTU6MzQgUE0maGFzaF92YWx1ZT13aHovWWJ4anRvMVgzVlN6MEdCR1pnPT0mdmFsaWRtaW51dGVzPTYwJnN0cm1fbGVuPTE5JmlkPTA=
 #EXTINF:0,ABC
 https://acdn.locastnet.org/proxy/nyc2/wabc_src.m3u8
 #EXTINF:0,AMC
