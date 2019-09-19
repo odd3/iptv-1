@@ -50,7 +50,7 @@ http://peer2.savitar.tv/ESPN/myStream/chunks.m3u8?nimblesessionid=32404172&wmsAu
 #EXTINF:0,ESPN 2
 http://peer3.savitar.tv/ESPN2/myStream/chunks.m3u8?nimblesessionid=3374564&wmsAuthSign=c2VydmVyX3RpbWU9OS8xOC8yMDE5IDM6MTU6NDggUE0maGFzaF92YWx1ZT1lbDREbVZFSkNwVG5rVkRwYy9ZSmVnPT0mdmFsaWRtaW51dGVzPTM2MCZpZD0w
 #EXTINF:0,FOOD NETWORK
-http://live.savitar.tv/FoodNetwork/myStream/chunks.m3u8?nimblesessionid=48480392&wmsAuthSign=c2VydmVyX3RpbWU9OS8xOC8yMDE5IDM6MTY6NTEgUE0maGFzaF92YWx1ZT1VdnpTb0Q0UVNvaEliU2s0cGpJWEx3PT0mdmFsaWRtaW51dGVzPTM2MCZpZD0w
+https://nl2.streamlive.to/vlc/qc6xkzf4h48bz2e/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xOS8yMDE5IDY6Mzc6NDAgUE0maGFzaF92YWx1ZT02KzQrY1NQTmhqeTYxQ1pXWHVjREhRPT0mdmFsaWRtaW51dGVzPTYwJnN0cm1fbGVuPTE5JmlkPTA=
 #EXTINF:0,FOX
 https://acdn.locastnet.org/proxy/nyc2/wnyw_src.m3u8
 #EXTINF:0,FOX BUSINESS
