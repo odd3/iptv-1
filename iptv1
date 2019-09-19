@@ -60,7 +60,7 @@ http://peer3.savitar.tv/FS1/myStream/chunks.m3u8?nimblesessionid=3376062&wmsAuth
 #EXTINF:0,FOX SPORTS 2
 http://peer3.savitar.tv/FS2/myStream/chunks.m3u8?nimblesessionid=3376228&wmsAuthSign=c2VydmVyX3RpbWU9OS8xOC8yMDE5IDM6MjE6NTYgUE0maGFzaF92YWx1ZT01QUk5MU5mYUJTU1M5UldOZlBVMFp3PT0mdmFsaWRtaW51dGVzPTM2MCZpZD0w
 #EXTINF:0,FX
-https://videoserver2.org/live/p_0-WJuJNswuPr51Pzs6aw/1568840932/d4c503dbcdd0aaa79724dd4b79b5c8c6.m3u8
+https://nl2.streamlive.to/vlc/hv08g6bsanc70fw/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xOS8yMDE5IDY6Mzk6MDkgUE0maGFzaF92YWx1ZT1vcFlpL1g2bXJNS0tOSUNwY2hZVm1RPT0mdmFsaWRtaW51dGVzPTYwJnN0cm1fbGVuPTE5JmlkPTA=
 #EXTINF:0,FXM
 http://live.savitar.tv/FXMovie/myStream/chunks.m3u8?nimblesessionid=48484022&wmsAuthSign=c2VydmVyX3RpbWU9OS8xOC8yMDE5IDM6MjU6NDYgUE0maGFzaF92YWx1ZT1tRXZaaXIrMDh1MjBJdDZaRWg1dzl3PT0mdmFsaWRtaW51dGVzPTM2MCZpZD0w
 #EXTINF:0,FXX
@@ -74,7 +74,7 @@ http://peer2.savitar.tv/Hallmark/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3Rp
 #EXTINF:0,HALLMARK MOVIES AND MYSTERIES
 http://live.savitar.tv/HMM/myStream/chunks.m3u8?nimblesessionid=48486237&wmsAuthSign=c2VydmVyX3RpbWU9OS8xOC8yMDE5IDM6MzE6MzAgUE0maGFzaF92YWx1ZT1GaVBvcnY5ak9tT1l2b0VGRTFSN09nPT0mdmFsaWRtaW51dGVzPTM2MCZpZD0w
 #EXTINF:0,HBO
-https://ul.cdn946.net:8443/hls/8v202t.m3u8?s=bTxU88s8LxFhIawtF3Uecw&e=1568854334
+https://nl2.streamlive.to/vlc/a1wn1j3ra1w0cv0/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xOS8yMDE5IDY6NDE6MDIgUE0maGFzaF92YWx1ZT15Yk5sckFRRkJUWSsxYTJKZHllTi9nPT0mdmFsaWRtaW51dGVzPTYwJnN0cm1fbGVuPTE5JmlkPTA=
 #EXTINF:0,HGTV
 http://live.savitar.tv/HGTV/myStream/chunks.m3u8?nimblesessionid=48487090&wmsAuthSign=c2VydmVyX3RpbWU9OS8xOC8yMDE5IDM6MzQ6MDAgUE0maGFzaF92YWx1ZT1lblo2UVYvd3kxQk14Qys0ajhnM0dRPT0mdmFsaWRtaW51dGVzPTM2MCZpZD0w
 #EXTINF:0,HISTORY CHANNEL
