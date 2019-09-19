@@ -4,7 +4,7 @@ http://live.savitar.tv/AE/myStream/chunks.m3u8?nimblesessionid=48600542&wmsAuthS
 #EXTINF:0,ABC
 https://acdn.locastnet.org/proxy/nyc2/wabc_src.m3u8
 #EXTINF:0,AMC
-https://videoserver2.org/live/ydfPhG0aEmW42qEJt_zS3w/1568841296/c0371e35a2b3244f5edda7947172d954.m3u8
+http://peer4.savitar.tv/AMC/myStream/chunks.m3u8?nimblesessionid=1249551&wmsAuthSign=c2VydmVyX3RpbWU9OS8xOS8yMDE5IDQ6MDA6NDQgUE0maGFzaF92YWx1ZT1HQ0xKZHNIaWVSMDZDdDVTYmtYamFnPT0mdmFsaWRtaW51dGVzPTM2MCZpZD0w
 #EXTINF:0,ANIMAL PLANET
 https://videoserver2.org/live/usIBNu8f8NPeQm8adLfUEw/1568841432/a0f8ddb8c8251a68f136648b32c0f62d.m3u8
 #EXTINF:0,BBC AMERICA
