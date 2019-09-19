@@ -34,7 +34,7 @@ http://tv4embed.net/playershadow2.php?http://iptv.pro4hdtv.com:8000/live/Burim/B
 #EXTINF:0,DISCOVERY CHANNEL
 https://videoserver2.org/live/3YyuUaXXMmw0DQsWAVZ8cQ/1568842069/075d66993151c178df1ed9840202d983.m3u8
 #EXTINF:0,DISNEY
-http://tv4embed.net/playershadow3.php?http://wowza2.mysoltv.com:1992/Latino_Disney_XD/index.m3u8
+http://live.savitar.tv/Disney/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xOS8yMDE5IDQ6MDM6MzIgUE0maGFzaF92YWx1ZT1zSFRPOHo5Sm01emNCK0Roc2lYenNBPT0mdmFsaWRtaW51dGVzPTM2MCZpZD0w
 #EXTINF:0,DISNEY (Backup)
 https://nl2.streamlive.to/vlc/2tag4dzgwof5ma2/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xOS8yMDE5IDI6MzI6MDcgQU0maGFzaF92YWx1ZT0ybFM1V1ZMTHIzdThzemMydkdSRkV3PT0mdmFsaWRtaW51dGVzPTYwJnN0cm1fbGVuPTE5JmlkPTA=
 #EXTINF:0,DISNEY JR
