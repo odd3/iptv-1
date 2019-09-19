@@ -78,13 +78,13 @@ https://nl2.streamlive.to/vlc/a1wn1j3ra1w0cv0/playlist.m3u8?wmsAuthSign=c2VydmVy
 #EXTINF:0,HGTV
 http://live.savitar.tv/HGTV/myStream/chunks.m3u8?nimblesessionid=48487090&wmsAuthSign=c2VydmVyX3RpbWU9OS8xOC8yMDE5IDM6MzQ6MDAgUE0maGFzaF92YWx1ZT1lblo2UVYvd3kxQk14Qys0ajhnM0dRPT0mdmFsaWRtaW51dGVzPTM2MCZpZD0w
 #EXTINF:0,HISTORY CHANNEL
-http://tv4embed.net/playershadow.php?http://mypanel.tv:8080/live/bwegi76uhc/2iu2fombrg/17802.m3u8
+https://nl2.streamlive.to/vlc/c3lrzhisg6fdwwd/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xOS8yMDE5IDY6NDI6MTMgUE0maGFzaF92YWx1ZT1qMC9yTnVqc09vVWZZQ1gvR0dLT1dBPT0mdmFsaWRtaW51dGVzPTYwJnN0cm1fbGVuPTE5JmlkPTA=
 #EXTINF:0,HLN
 http://live.savitar.tv/HLN/myStream/chunks.m3u8?nimblesessionid=48488166&wmsAuthSign=c2VydmVyX3RpbWU9OS8xOC8yMDE5IDM6MzY6NTEgUE0maGFzaF92YWx1ZT1mY0lWV1ViQnE1MUNGdEZMcnc5SmtBPT0mdmFsaWRtaW51dGVzPTM2MCZpZD0w
 #EXTINF:0,INVESTIGATION DISCOVERY
 http://live.savitar.tv/ID/myStream/chunks.m3u8?nimblesessionid=48488636&wmsAuthSign=c2VydmVyX3RpbWU9OS8xOC8yMDE5IDM6Mzg6MTMgUE0maGFzaF92YWx1ZT15VUQwOGYrWHNiSTV4RHI0cmVMZTZRPT0mdmFsaWRtaW51dGVzPTM2MCZpZD0w
 #EXTINF:0,LIFETIME
-http://peer2.savitar.tv/Lifetime/myStream/chunks.m3u8?nimblesessionid=32410301&wmsAuthSign=c2VydmVyX3RpbWU9OS8xOC8yMDE5IDM6Mzk6NDEgUE0maGFzaF92YWx1ZT1GRGEydmRnWlVaczJRVHJxSkhKald3PT0mdmFsaWRtaW51dGVzPTM2MCZpZD0w
+https://nl2.streamlive.to/vlc/5uon546q8gjsaor/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xOS8yMDE5IDY6NDM6NDQgUE0maGFzaF92YWx1ZT1yc2w3VVFFaHNiaGRNYit5QTQxMDRBPT0mdmFsaWRtaW51dGVzPTYwJnN0cm1fbGVuPTE5JmlkPTA=
 #EXTINF:0,LIFETIME MOVIES
 http://live.savitar.tv/LifetimeM/myStream/chunks.m3u8?nimblesessionid=48489572&wmsAuthSign=c2VydmVyX3RpbWU9OS8xOC8yMDE5IDM6NDA6MzUgUE0maGFzaF92YWx1ZT15ZEVBNUg5d0J6bFVBSGppSFUwcTdRPT0mdmFsaWRtaW51dGVzPTM2MCZpZD0w
 #EXTINF:0,MLB NETWORK
@@ -102,7 +102,7 @@ http://peer4.savitar.tv/NBCSN/myStream/chunks.m3u8?nimblesessionid=1103943&wmsAu
 #EXTINF:0,NFL NETWORK
 http://peer4.savitar.tv/NFL/myStream/chunks.m3u8?nimblesessionid=1104422&wmsAuthSign=c2VydmVyX3RpbWU9OS8xOC8yMDE5IDM6NTU6MDMgUE0maGFzaF92YWx1ZT1pK09SU0tZZXB3OEQ3VXZ2c09YaTBnPT0mdmFsaWRtaW51dGVzPTM2MCZpZD0w
 #EXTINF:0,NICKELODEON
-http://live.savitar.tv/Nickelodeon/myStream/chunks.m3u8?nimblesessionid=48606239&wmsAuthSign=c2VydmVyX3RpbWU9OS8xOC8yMDE5IDg6MDE6NTggUE0maGFzaF92YWx1ZT1DQVBCVkV3UmZTVTNrS1BqYlorVDd3PT0mdmFsaWRtaW51dGVzPTM2MCZpZD0w
+https://nl2.streamlive.to/vlc/64jaber5pjqj2cr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xOS8yMDE5IDY6NDQ6NTEgUE0maGFzaF92YWx1ZT1DeitXKzduY2NCc2tYa2M0K3E1SVhnPT0mdmFsaWRtaW51dGVzPTYwJnN0cm1fbGVuPTE5JmlkPTA=
 #EXTINF:0,NICK
 https://nl2.streamlive.to/vlc/64jaber5pjqj2cr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xOS8yMDE5IDI6MzY6MzggQU0maGFzaF92YWx1ZT1VR25uTzlyNjhnWEtHbzVyT0RrZ1RRPT0mdmFsaWRtaW51dGVzPTYwJnN0cm1fbGVuPTE5JmlkPTA=
 #EXTINF:0,NICKTOONS
