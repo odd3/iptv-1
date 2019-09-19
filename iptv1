@@ -26,7 +26,7 @@ http://live.savitar.tv/CMT/myStream/chunks.m3u8?nimblesessionid=48475787&wmsAuth
 #EXTINF:0,CNBC
 https://nl2.streamlive.to/vlc/685pyxdk4td3wo5/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xOS8yMDE5IDY6MjE6MDAgUE0maGFzaF92YWx1ZT1LZ0lDSzJDaEVaV0VDMFdadWlnSGRnPT0mdmFsaWRtaW51dGVzPTYwJnN0cm1fbGVuPTE5JmlkPTA=
 #EXTINF:0,CNN 
-https://1861340594.rsc.cdn77.org/zF7XuQEdfGfQ15Ew7tg93w==,1568784610/ls-54548-1/tracks-v1a1/mono.m3u8
+https://1861340594.rsc.cdn77.org/rxcWXiPI08Yb1Kk3zdOAzA==,1568923209/ls-54548-1/tracks-v1a1/mono.m3u8
 #EXTINF:0,COMEDY CENTRAL
 http://live.savitar.tv/Comedy/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xOS8yMDE5IDQ6MTY6MDcgUE0maGFzaF92YWx1ZT1YTEVXbXZXUC9lVWZTUFVTTVV3VGNBPT0mdmFsaWRtaW51dGVzPTM2MCZpZD0w
 #EXTINF:0,DISCOVERY CHANNEL
