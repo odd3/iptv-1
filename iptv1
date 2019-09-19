@@ -10,7 +10,7 @@ http://live.savitar.tv/Animal/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU
 #EXTINF:0,BBC
 http://ott-cdn.ucom.am/s24/01.m3u8
 #EXTINF:0,BET
-http://live.savitar.tv/BET/myStream/chunks.m3u8?nimblesessionid=48473608&wmsAuthSign=c2VydmVyX3RpbWU9OS8xOC8yMDE5IDI6NTg6MzUgUE0maGFzaF92YWx1ZT1BWWs1UWNKcXRDaVZSY25QMkFDM0R3PT0mdmFsaWRtaW51dGVzPTM2MCZpZD0w
+https://nl2.streamlive.to/vlc/r3t8xd8ss6pdequ/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xOS8yMDE5IDU6Mjc6MDEgUE0maGFzaF92YWx1ZT0rMXFIUjNOREJTaGlVKzBUOGZsd0N3PT0mdmFsaWRtaW51dGVzPTYwJnN0cm1fbGVuPTE5JmlkPTA=
 #EXTINF:0,BLOOMBERG
 https://liveproduseast.global.ssl.fastly.net/us/Channel-USTV-AWS-virginia-1/Source-USTV-1000-1_live.m3u8
 #EXTINF:0,BOOMERANG
