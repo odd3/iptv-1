@@ -21,6 +21,10 @@ http://ustvgo.tv/bravo-channel-live-free/
 https://nl2.streamlive.to/vlc/9m54z44v84k7qqc/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xOS8yMDE5IDY6MTM6MjUgUE0maGFzaF92YWx1ZT13YkJYVTY5TGNrWjRlSGZPTExzK1RnPT0mdmFsaWRtaW51dGVzPTYwJnN0cm1fbGVuPTE5JmlkPTA=
 #EXTINF:0,CBS
 https://acdn.locastnet.org/proxy/nyc2/wcbs_src.m3u8
+#EXTINF:0,CINEMAX
+http://50.7.186.123:8081/live/53/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xOS8yMDE5IDEwOjIwOjE5IFBNJmhhc2hfdmFsdWU9R3RFbkdwQWhhSy9HVmFaalBDcVl3QT09JnZhbGlkbWludXRlcz0xNjAmc3RybV9sZW49Nw==
+#EXTINF:0,CINEMAX (Backup)
+http://50.7.186.123:8081/live/53/chunks.m3u8?nimblesessionid=11418542&wmsAuthSign=c2VydmVyX3RpbWU9OS8xOS8yMDE5IDEwOjIwOjE5IFBNJmhhc2hfdmFsdWU9R3RFbkdwQWhhSy9HVmFaalBDcVl3QT09JnZhbGlkbWludXRlcz0xNjAmc3RybV9sZW49Nw==
 #EXTINF:0,CMT
 http://live.savitar.tv/CMT/myStream/chunks.m3u8?nimblesessionid=48475787&wmsAuthSign=c2VydmVyX3RpbWU9OS8xOC8yMDE5IDM6MDU6MTMgUE0maGFzaF92YWx1ZT1zRWtheUw3UXo3VkpGOG5qMitTekFnPT0mdmFsaWRtaW51dGVzPTM2MCZpZD0w
 #EXTINF:0,CNBC
