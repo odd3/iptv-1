@@ -18,9 +18,7 @@ https://nl2.streamlive.to/vlc/tv3vaz0an5va0m5/playlist.m3u8?wmsAuthSign=c2VydmVy
 #EXTINF:0,BRAVO
 https://nl2.streamlive.to/vlc/685pyxdk4td3wo5/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xOS8yMDE5IDU6MDM6MDggUE0maGFzaF92YWx1ZT0xZnVLcjY2bXh3ME9WZm5EWEhrcFV3PT0mdmFsaWRtaW51dGVzPTYwJnN0cm1fbGVuPTE5JmlkPTA=
 #EXTINF:0,CARTOON NETWORK
-http://get.123tv.live/channel/58744c6468374f667a6a42366a4363494f6e727270773d3d/240/cartoonnetwork.m3u8?1&json=Q2FydG9vbiBOZXR3b3JrfHxodHRwOi8vMTIzdHZub3cuY29tL3dwLWNvbnRlbnQvdXBsb2Fkcy8yMDE4LzA4L2NhcnRvb24tbmV0d29yay5wbmc=
-#EXTINF:0,CARTOON NETWORK (Backup)
-http://sv8.dailymotion.com.1cdn.host/live/ctnw/playlist.m3u8
+https://nl2.streamlive.to/vlc/9m54z44v84k7qqc/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xOS8yMDE5IDY6MTM6MjUgUE0maGFzaF92YWx1ZT13YkJYVTY5TGNrWjRlSGZPTExzK1RnPT0mdmFsaWRtaW51dGVzPTYwJnN0cm1fbGVuPTE5JmlkPTA=
 #EXTINF:0,CBS
 https://acdn.locastnet.org/proxy/nyc2/wcbs_src.m3u8
 #EXTINF:0,CMT
