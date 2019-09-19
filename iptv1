@@ -7,8 +7,8 @@ https://acdn.locastnet.org/proxy/nyc2/wabc_src.m3u8
 http://peer4.savitar.tv/AMC/myStream/chunks.m3u8?nimblesessionid=1249551&wmsAuthSign=c2VydmVyX3RpbWU9OS8xOS8yMDE5IDQ6MDA6NDQgUE0maGFzaF92YWx1ZT1HQ0xKZHNIaWVSMDZDdDVTYmtYamFnPT0mdmFsaWRtaW51dGVzPTM2MCZpZD0w
 #EXTINF:0,ANIMAL PLANET
 http://live.savitar.tv/Animal/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xOS8yMDE5IDQ6MDg6MDMgUE0maGFzaF92YWx1ZT1pY1I3YlVQRlIxa2VnR3c4eXVjU2VBPT0mdmFsaWRtaW51dGVzPTM2MCZpZD0w
-#EXTINF:0,BBC AMERICA
-https://videoserver1.org/live/nvyu9kTzHoKvdUpxjtBGvQ/1568841768/40fd83186c01e9ecf6b94cc0de4a0a21.m3u8
+#EXTINF:0,BBC
+http://ott-cdn.ucom.am/s24/01.m3u8
 #EXTINF:0,BET
 http://live.savitar.tv/BET/myStream/chunks.m3u8?nimblesessionid=48473608&wmsAuthSign=c2VydmVyX3RpbWU9OS8xOC8yMDE5IDI6NTg6MzUgUE0maGFzaF92YWx1ZT1BWWs1UWNKcXRDaVZSY25QMkFDM0R3PT0mdmFsaWRtaW51dGVzPTM2MCZpZD0w
 #EXTINF:0,BLOOMBERG
