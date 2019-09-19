@@ -72,7 +72,7 @@ http://live.savitar.tv/GOLF/myStream/chunks.m3u8?nimblesessionid=48484928&wmsAut
 #EXTINF:0,GSN
 http://195.181.169.169/GSN/myStream/chunks.m3u8?nimblesessionid=32408035&wmsAuthSign=c2VydmVyX3RpbWU9OS8xOC8yMDE5IDM6Mjk6MTQgUE0maGFzaF92YWx1ZT1EM1dKMXZZb0ZydDFDRjhxYjJrMWF3PT0mdmFsaWRtaW51dGVzPTI0MA==
 #EXTINF:0,HALLMARK
-http://peer3.savitar.tv/Hallmark/myStream/chunks.m3u8?nimblesessionid=3364058&wmsAuthSign=c2VydmVyX3RpbWU9OS8xOC8yMDE5IDI6MzE6MjYgUE0maGFzaF92YWx1ZT1HVENBKzVnYzVvcVR3bTVJWU9iaUZ3PT0mdmFsaWRtaW51dGVzPTM2MCZpZD0w
+http://peer2.savitar.tv/Hallmark/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xOS8yMDE5IDQ6MTg6NDEgUE0maGFzaF92YWx1ZT12bk91cXBVdm1XMi8zY2duZENRRmJnPT0mdmFsaWRtaW51dGVzPTM2MCZpZD0w
 #EXTINF:0,HALLMARK MOVIES AND MYSTERIES
 http://live.savitar.tv/HMM/myStream/chunks.m3u8?nimblesessionid=48486237&wmsAuthSign=c2VydmVyX3RpbWU9OS8xOC8yMDE5IDM6MzE6MzAgUE0maGFzaF92YWx1ZT1GaVBvcnY5ak9tT1l2b0VGRTFSN09nPT0mdmFsaWRtaW51dGVzPTM2MCZpZD0w
 #EXTINF:0,HBO
