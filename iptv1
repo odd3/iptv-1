@@ -14,7 +14,7 @@ http://live.savitar.tv/BET/myStream/chunks.m3u8?nimblesessionid=48473608&wmsAuth
 #EXTINF:0,BLOOMBERG
 https://liveproduseast.global.ssl.fastly.net/us/Channel-USTV-AWS-virginia-1/Source-USTV-1000-1_live.m3u8
 #EXTINF:0,BOOMERANG
-http://peer2.savitar.tv/Boomerang/myStream/chunks.m3u8?nimblesessionid=32400112&wmsAuthSign=c2VydmVyX3RpbWU9OS8xOC8yMDE5IDM6MDA6MDAgUE0maGFzaF92YWx1ZT15Ly9BS3B3UytPWDZHLzliVUllR3JBPT0mdmFsaWRtaW51dGVzPTM2MCZpZD0w
+https://nl2.streamlive.to/vlc/tv3vaz0an5va0m5/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xOS8yMDE5IDU6MjM6NTUgUE0maGFzaF92YWx1ZT1jbXIzMTZYRjdGQUZERFlXSFliUFFRPT0mdmFsaWRtaW51dGVzPTYwJnN0cm1fbGVuPTE5JmlkPTA=
 #EXTINF:0,BRAVO
 https://nl2.streamlive.to/vlc/685pyxdk4td3wo5/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xOS8yMDE5IDU6MDM6MDggUE0maGFzaF92YWx1ZT0xZnVLcjY2bXh3ME9WZm5EWEhrcFV3PT0mdmFsaWRtaW51dGVzPTYwJnN0cm1fbGVuPTE5JmlkPTA=
 #EXTINF:0,CARTOON NETWORK
