@@ -127,8 +127,8 @@ http://live.savitar.tv/POP/myStream/chunks.m3u8?nimblesessionid=48499426&wmsAuth
 http://peer2.savitar.tv/Science/myStream/chunks.m3u8?nimblesessionid=32417982&wmsAuthSign=c2VydmVyX3RpbWU9OS8xOC8yMDE5IDQ6MDc6NTUgUE0maGFzaF92YWx1ZT1GQkFVUVk3b3hrNW1WQXF4UElOVDdRPT0mdmFsaWRtaW51dGVzPTM2MCZpZD0w
 #EXTINF:0,SHOWTIME
 http://peer4.savitar.tv/Showtime/myStream/chunks.m3u8?nimblesessionid=1105688&wmsAuthSign=c2VydmVyX3RpbWU9OS8xOC8yMDE5IDQ6MTA6NDUgUE0maGFzaF92YWx1ZT0yZDF0MWk0YXNMZklHbTNJRE56cExBPT0mdmFsaWRtaW51dGVzPTM2MCZpZD0w
-#EXTINF:0,STARZ
-http://peer2.savitar.tv/StarZ/myStream/chunks.m3u8?nimblesessionid=32419711&wmsAuthSign=c2VydmVyX3RpbWU9OS8xOC8yMDE5IDQ6MTM6MDcgUE0maGFzaF92YWx1ZT16ZnZKZ3k3ZTBWcGJGWXJ6MVJRQWxRPT0mdmFsaWRtaW51dGVzPTM2MCZpZD0w
+#EXTINF:0,STAR MOVIES
+http://livecdnh1.tvanywhere.ae/hls/star_movies/05.m3u8
 #EXTINF:0,SUNDANCE TV
 http://185.246.209.109:8080/SUNDANCE/tracks-v1a1/mono.m3u8?
 #EXTINF:0,SYFY
