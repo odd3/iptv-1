@@ -148,7 +148,7 @@ http://peer3.savitar.tv/TruTV/myStream/chunks.m3u8?nimblesessionid=3393381&wmsAu
 #EXTINF:0,TVLAND
 http://live.savitar.tv/TVLand/myStream/chunks.m3u8?nimblesessionid=48509921&wmsAuthSign=c2VydmVyX3RpbWU9OS8xOC8yMDE5IDQ6Mjk6MjAgUE0maGFzaF92YWx1ZT10SzVsVHE1OHgyeWxRdjZHdXp0bnFBPT0mdmFsaWRtaW51dGVzPTM2MCZpZD0w
 #EXTINF:0,UNIVISION
-http://peer3.savitar.tv/Univision/myStream/chunks.m3u8?nimblesessionid=3394405&wmsAuthSign=c2VydmVyX3RpbWU9OS8xOC8yMDE5IDQ6MzE6MDggUE0maGFzaF92YWx1ZT00cCtMMEFudFB1ZmlLUmxHQ1NLWmdnPT0mdmFsaWRtaW51dGVzPTM2MCZpZD0w
+http://185.246.209.109:8080/UNIVISION/tracks-v1a1/mono.m3u8?
 #EXTINF:0,USA NETWORK
 https://videoserver1.org/live/sP4WTKi_4MuB1_Odq_t1-Q/1568842827/0e367435d4bc1a89ea7506cf0eadb3a7.m3u8
 #EXTINF:0,VH1
