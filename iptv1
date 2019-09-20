@@ -155,3 +155,29 @@ https://videoserver1.org/live/sP4WTKi_4MuB1_Odq_t1-Q/1568842827/0e367435d4bc1a89
 http://live.savitar.tv/VH1/myStream/chunks.m3u8?nimblesessionid=48511825&wmsAuthSign=c2VydmVyX3RpbWU9OS8xOC8yMDE5IDQ6MzM6NDQgUE0maGFzaF92YWx1ZT1DSnNyOC9SMElKSGVTK2RicTIzQXJBPT0mdmFsaWRtaW51dGVzPTM2MCZpZD0w
 #EXTINF:0,WE TV
 http://live.savitar.tv/WETV/myStream/chunks.m3u8?nimblesessionid=48512460&wmsAuthS
+#EXTINF:0,ABC
+https://acdn.locastnet.org/proxy/nyc2/wabc_src.m3u8
+#EXTINF:0,BBC
+http://ott-cdn.ucom.am/s24/01.m3u8
+#EXTINF:0,BLOOMBERG
+https://liveproduseast.global.ssl.fastly.net/us/Channel-USTV-AWS-virginia-1/Source-USTV-1000-1_live.m3u8
+#EXTINF:0,CBS
+https://acdn.locastnet.org/proxy/nyc2/wcbs_src.m3u8
+#EXTINF:0,FOX
+https://acdn.locastnet.org/proxy/nyc2/wnyw_src.m3u8
+#EXTINF:0,SUNDANCE TV
+http://185.246.209.109:8080/SUNDANCE/tracks-v1a1/mono.m3u8?
+#EXTINF:0,SYFY
+http://185.246.209.109:8080/SYFY/tracks-v1a1/mono.m3u8?
+#EXTINF:0,TBS 
+http://185.246.209.109:8080/TBS/tracks-v1a1/mono.m3u8?
+#EXTINF:0,TCM
+http://185.246.209.109:8080/TCM/tracks-v1a1/mono.m3u8?
+#EXTINF:0,THE CW
+http://185.246.209.109:8080/CW/tracks-v1a1/mono.m3u8?
+#EXTINF:0,UNIVISION
+http://185.246.209.109:8080/UNIVISION/tracks-v1a1/mono.m3u8?
+
+
+
+
