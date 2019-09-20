@@ -136,7 +136,7 @@ http://185.246.209.109:8080/SYFY/tracks-v1a1/mono.m3u8?
 #EXTINF:0,TBS 
 http://185.246.209.109:8080/TBS/tracks-v1a1/mono.m3u8?
 #EXTINF:0,TCM
-http://live.savitar.tv/TCM/myStream/chunks.m3u8?nimblesessionid=48505431&wmsAuthSign=c2VydmVyX3RpbWU9OS8xOC8yMDE5IDQ6MTk6MTkgUE0maGFzaF92YWx1ZT1kMmpGNkp2c3JLK2hkQzVtbG0rVEJnPT0mdmFsaWRtaW51dGVzPTM2MCZpZD0w
+http://185.246.209.109:8080/TCM/tracks-v1a1/mono.m3u8?
 #EXTINF:0,THE CW
 https://videoserver1.org/live/YvlkG0hoEJ7qBk3XWRoKEg/1568842617/296e56c668bc8bd6b0044d3e4f034153.m3u8
 #EXTINF:0,TLC
