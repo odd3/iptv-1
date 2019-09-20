@@ -78,7 +78,7 @@ http://peer2.savitar.tv/Hallmark/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3Rp
 #EXTINF:0,HALLMARK MOVIES AND MYSTERIES
 http://live.savitar.tv/HMM/myStream/chunks.m3u8?nimblesessionid=48486237&wmsAuthSign=c2VydmVyX3RpbWU9OS8xOC8yMDE5IDM6MzE6MzAgUE0maGFzaF92YWx1ZT1GaVBvcnY5ak9tT1l2b0VGRTFSN09nPT0mdmFsaWRtaW51dGVzPTM2MCZpZD0w
 #EXTINF:0,HBO
-https://nl2.streamlive.to/vlc/a1wn1j3ra1w0cv0/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xOS8yMDE5IDY6NDE6MDIgUE0maGFzaF92YWx1ZT15Yk5sckFRRkJUWSsxYTJKZHllTi9nPT0mdmFsaWRtaW51dGVzPTYwJnN0cm1fbGVuPTE5JmlkPTA=
+http://185.246.209.109:8080/HBO_ZONE/tracks-v1a1/mono.m3u8
 #EXTINF:0,HGTV
 http://live.savitar.tv/HGTV/myStream/chunks.m3u8?nimblesessionid=48487090&wmsAuthSign=c2VydmVyX3RpbWU9OS8xOC8yMDE5IDM6MzQ6MDAgUE0maGFzaF92YWx1ZT1lblo2UVYvd3kxQk14Qys0ajhnM0dRPT0mdmFsaWRtaW51dGVzPTM2MCZpZD0w
 #EXTINF:0,HISTORY CHANNEL
@@ -165,6 +165,8 @@ https://liveproduseast.global.ssl.fastly.net/us/Channel-USTV-AWS-virginia-1/Sour
 https://acdn.locastnet.org/proxy/nyc2/wcbs_src.m3u8
 #EXTINF:0,FOX
 https://acdn.locastnet.org/proxy/nyc2/wnyw_src.m3u8
+#EXTINF:0,HBO
+http://185.246.209.109:8080/HBO_ZONE/tracks-v1a1/mono.m3u8
 #EXTINF:0,SUNDANCE TV
 http://185.246.209.109:8080/SUNDANCE/tracks-v1a1/mono.m3u8?
 #EXTINF:0,SYFY
