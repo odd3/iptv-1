@@ -29,6 +29,8 @@ http://50.7.186.123:8081/live/53/chunks.m3u8?nimblesessionid=11418542&wmsAuthSig
 http://live.savitar.tv/CMT/myStream/chunks.m3u8?nimblesessionid=48475787&wmsAuthSign=c2VydmVyX3RpbWU9OS8xOC8yMDE5IDM6MDU6MTMgUE0maGFzaF92YWx1ZT1zRWtheUw3UXo3VkpGOG5qMitTekFnPT0mdmFsaWRtaW51dGVzPTM2MCZpZD0w
 #EXTINF:0,CNBC
 https://d3sjmtxha86r3t.cloudfront.net/nbc/smil:cnbc.smil/chunklist_b2500000.m3u8
+#EXTINF:0,CMT (Backup)
+https://dogs.cdn.livenewschat.eu/hls/cnbc_live/index.m3u8
 #EXTINF:0,CNN 
 https://1861340594.rsc.cdn77.org/rxcWXiPI08Yb1Kk3zdOAzA==,1568923209/ls-54548-1/tracks-v1a1/mono.m3u8
 #EXTINF:0,COMEDY CENTRAL
