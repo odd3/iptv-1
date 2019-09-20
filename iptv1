@@ -128,10 +128,8 @@ http://peer4.savitar.tv/Showtime/myStream/chunks.m3u8?nimblesessionid=1105688&wm
 #EXTINF:0,STARZ
 http://peer2.savitar.tv/StarZ/myStream/chunks.m3u8?nimblesessionid=32419711&wmsAuthSign=c2VydmVyX3RpbWU9OS8xOC8yMDE5IDQ6MTM6MDcgUE0maGFzaF92YWx1ZT16ZnZKZ3k3ZTBWcGJGWXJ6MVJRQWxRPT0mdmFsaWRtaW51dGVzPTM2MCZpZD0w
 #EXTINF:0,SUNDANCE TV
-https://videoserver2.org/live/uMo9Gq0HTl2UaoFoIAERNQ/1568842463/c56e8c8e1099dea2b69cd0dc54ed7c64.m3u8
+http://185.246.209.109:8080/SUNDANCE/tracks-v1a1/mono.m3u8?
 #EXTINF:0,SYFY
-https://videoserver1.org/live/UXesiPvXzIk7nuFxt3bMCg/1568842531/d8320fedb4a90fb06c9f7bff96a7e619.m3u8
-#EXTINF:0,SYFY (Backup) 
 http://185.246.209.109:8080/SYFY/tracks-v1a1/mono.m3u8?
 #EXTINF:0,TBS 
 http://185.246.209.109:8080/TBS/tracks-v1a1/mono.m3u8?
