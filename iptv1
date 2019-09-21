@@ -25,6 +25,8 @@ https://jsc.mgid.com/s/t/streamlive.to.718746.js?t=20198201
 https://bcliveunivsecure-lh.akamaihd.net/i/news_1@500579/index_2000_av-p.m3u8?sd=10&rebase=on
 #EXTINF:0,CBS
 https://bks40001.gttstreamtv.com/kaceaeei5aaaaaaaaec1pxdaaaaaaaaaaaacd2qiwzmkuajg/0001748/CBS-audio_128052_eng=128000-video=800000.m3u8
+#EXTINF:,0 CBS (Backup)
+https://bks40001.gttstreamtv.com/kaceaeei5aaaaaaaaec1pxdaaaaaaaaaaaaed0iiwzmme2ag/0001720/CBS-audio_128052_eng=128000-video=500000.m3u8
 #EXTINF:0,CBS +1
 https://svc-lvanvato-cxtv-wjax.cmgvideo.com/wjax/564k/index.m3u8
 #EXTINF:0,CINEMAX
