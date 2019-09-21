@@ -22,7 +22,7 @@ https://tvpc.tv/ustv/chunklist.m3u8?q=h&type=m3u8&ce=1568939273&token=6257214f95
 #EXTINF:0,CARTOON NETWORK
 https://jsc.mgid.com/s/t/streamlive.to.718746.js?t=20198201
 #EXTINF:0,CBS
-https://acdn.locastnet.org/proxy/nyc2/wcbs_src.m3u8
+https://bks40001.gttstreamtv.com/kaceaeei5aaaaaaaaec1pxdaaaaaaaaaaaaeuyiivzqkt1eg/0001723/CBS-audio_128052_eng=128000-video=1800000.m3u8
 #EXTINF:0,CINEMAX
 http://50.7.186.123:8081/live/53/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xOS8yMDE5IDEwOjIwOjE5IFBNJmhhc2hfdmFsdWU9R3RFbkdwQWhhSy9HVmFaalBDcVl3QT09JnZhbGlkbWludXRlcz0xNjAmc3RybV9sZW49Nw==
 #EXTINF:0,CINEMAX (Backup)
@@ -165,7 +165,7 @@ http://ott-cdn.ucom.am/s24/01.m3u8
 #EXTINF:0,BLOOMBERG
 https://liveproduseast.global.ssl.fastly.net/us/Channel-USTV-AWS-virginia-1/Source-USTV-1000-1_live.m3u8
 #EXTINF:0,CBS
-https://acdn.locastnet.org/proxy/nyc2/wcbs_src.m3u8
+https://bks40001.gttstreamtv.com/kaceaeei5aaaaaaaaec1pxdaaaaaaaaaaaaeuyiivzqkt1eg/0001723/CBS-audio_128052_eng=128000-video=1800000.m3u8
 #EXTINF:0,FOX
 https://acdn.locastnet.org/proxy/nyc2/wnyw_src.m3u8
 #EXTINF:0,HBO
