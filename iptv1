@@ -83,6 +83,8 @@ http://live.savitar.tv/FXX/myStream/chunks.m3u8?nimblesessionid=48484475&wmsAuth
 http://live.savitar.tv/GOLF/myStream/chunks.m3u8?nimblesessionid=48484928&wmsAuthSign=c2VydmVyX3RpbWU9OS8xOC8yMDE5IDM6Mjg6MTUgUE0maGFzaF92YWx1ZT01ajh2dDZNNUdyd1YzeTNrWTVaRFdBPT0mdmFsaWRtaW51dGVzPTM2MCZpZD0w
 #EXTINF:0,GSN
 http://195.181.169.169/GSN/myStream/chunks.m3u8?nimblesessionid=32408035&wmsAuthSign=c2VydmVyX3RpbWU9OS8xOC8yMDE5IDM6Mjk6MTQgUE0maGFzaF92YWx1ZT1EM1dKMXZZb0ZydDFDRjhxYjJrMWF3PT0mdmFsaWRtaW51dGVzPTI0MA==
+#EXTINF:0,H2
+http://livecdnh1.tvanywhere.ae/hls/h2/05.m3u8
 #EXTINF:0,HALLMARK
 http://peer2.savitar.tv/Hallmark/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xOS8yMDE5IDQ6MTg6NDEgUE0maGFzaF92YWx1ZT12bk91cXBVdm1XMi8zY2duZENRRmJnPT0mdmFsaWRtaW51dGVzPTM2MCZpZD0w
 #EXTINF:0,HALLMARK MOVIES AND MYSTERIES
@@ -133,10 +135,8 @@ http://live.savitar.tv/Paramount/myStream/chunks.m3u8?nimblesessionid=48498160&w
 https://videoserver1.org/live/3bGHEatfgvD34R0qNTBQxg/1568842371/fe22365235b496368609515523bfb971.m3u8
 #EXTINF:0,POP
 http://185.246.209.109:8080/POP/tracks-v1a1/index.m3u8
-#EXTINF:0,SCIENCE
-http://peer2.savitar.tv/Science/myStream/chunks.m3u8?nimblesessionid=32417982&wmsAuthSign=c2VydmVyX3RpbWU9OS8xOC8yMDE5IDQ6MDc6NTUgUE0maGFzaF92YWx1ZT1GQkFVUVk3b3hrNW1WQXF4UElOVDdRPT0mdmFsaWRtaW51dGVzPTM2MCZpZD0w
 #EXTINF:0,SHOWTIME
-http://peer4.savitar.tv/Showtime/myStream/chunks.m3u8?nimblesessionid=1105688&wmsAuthSign=c2VydmVyX3RpbWU9OS8xOC8yMDE5IDQ6MTA6NDUgUE0maGFzaF92YWx1ZT0yZDF0MWk0YXNMZklHbTNJRE56cExBPT0mdmFsaWRtaW51dGVzPTM2MCZpZD0w
+http://80.80.160.168/live/7/live.m3u8
 #EXTINF:0,STAR MOVIES
 http://livecdnh1.tvanywhere.ae/hls/star_movies/05.m3u8
 #EXTINF:0,SUNDANCE TV
