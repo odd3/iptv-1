@@ -164,7 +164,7 @@ http://185.246.209.109:8080/CW/tracks-v1a1/mono.m3u8?
 #EXTINF:0,TLC
 http://80.80.160.168/live/2/live.m3u8
 #EXTINF:0,TNT
-http://peer2.savitar.tv/TNT/myStream/chunks.m3u8?nimblesessionid=32422984&wmsAuthSign=c2VydmVyX3RpbWU9OS8xOC8yMDE5IDQ6MjU6NTkgUE0maGFzaF92YWx1ZT1La0JHVllWR1R5dW9tVWZZejlpeUZ3PT0mdmFsaWRtaW51dGVzPTM2MCZpZD0w
+http://185.246.209.109:8080/live/chineseunicorn/uJACA2N7Nr/11050.m3u8
 #EXTINF:0,TRAVEL
 http://live.savitar.tv/Travel/myStream/chunks.m3u8?nimblesessionid=48509049&wmsAuthSign=c2VydmVyX3RpbWU9OS8xOC8yMDE5IDQ6Mjc6MTggUE0maGFzaF92YWx1ZT1LOUM1Z25GK3EyNjFuaUNkOFFVdVZBPT0mdmFsaWRtaW51dGVzPTM2MCZpZD0w
 #EXTINF:0,TRUTV
