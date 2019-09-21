@@ -92,7 +92,9 @@ http://live.savitar.tv/HGTV/myStream/chunks.m3u8?nimblesessionid=48487090&wmsAut
 #EXTINF:0,HISTORY CHANNEL
 https://nl2.streamlive.to/vlc/c3lrzhisg6fdwwd/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xOS8yMDE5IDY6NDI6MTMgUE0maGFzaF92YWx1ZT1qMC9yTnVqc09vVWZZQ1gvR0dLT1dBPT0mdmFsaWRtaW51dGVzPTYwJnN0cm1fbGVuPTE5JmlkPTA=
 #EXTINF:0,HLN
-http://live.savitar.tv/HLN/myStream/chunks.m3u8?nimblesessionid=48488166&wmsAuthSign=c2VydmVyX3RpbWU9OS8xOC8yMDE5IDM6MzY6NTEgUE0maGFzaF92YWx1ZT1mY0lWV1ViQnE1MUNGdEZMcnc5SmtBPT0mdmFsaWRtaW51dGVzPTM2MCZpZD0w
+https://1674331492.rsc.cdn77.org/LS-ATL-54548-7/tracks-v1a1/mono.m3u8
+#EXTINF:0,IFC
+http://185.246.209.109:8080/IFC/tracks-v1a1/index.m3u8
 #EXTINF:0,INVESTIGATION DISCOVERY
 http://live.savitar.tv/ID/myStream/chunks.m3u8?nimblesessionid=48488636&wmsAuthSign=c2VydmVyX3RpbWU9OS8xOC8yMDE5IDM6Mzg6MTMgUE0maGFzaF92YWx1ZT15VUQwOGYrWHNiSTV4RHI0cmVMZTZRPT0mdmFsaWRtaW51dGVzPTM2MCZpZD0w
 #EXTINF:0,LIFETIME
@@ -128,7 +130,7 @@ http://live.savitar.tv/Paramount/myStream/chunks.m3u8?nimblesessionid=48498160&w
 #EXTINF:0,PBS
 https://videoserver1.org/live/3bGHEatfgvD34R0qNTBQxg/1568842371/fe22365235b496368609515523bfb971.m3u8
 #EXTINF:0,POP
-https://edge-1192-ch-gv.filmon.com/live/320.low.stream/playlist.m3u8?id=0ad5aac39bb13fbeeca37613ab175c0f15fa0f26122adf09264d9a7fc1d5da8939d60127acf68cfb7210489255d93134ad1a3f3c2ec026ce03e4930e3e1ce7c31bd881d2e64bf602368fbe8632d22dffce2e7aa19f28c737c209d574531e78e5c500b3b2f5ad3cb74e589e705634ba441d47a5b6c2838274a68f95a6ce81898fbd2fd3c16f8c741119ead664d75f1aa09b2fe3f18e31eac5
+http://185.246.209.109:8080/POP/tracks-v1a1/index.m3u8
 #EXTINF:0,SCIENCE
 http://peer2.savitar.tv/Science/myStream/chunks.m3u8?nimblesessionid=32417982&wmsAuthSign=c2VydmVyX3RpbWU9OS8xOC8yMDE5IDQ6MDc6NTUgUE0maGFzaF92YWx1ZT1GQkFVUVk3b3hrNW1WQXF4UElOVDdRPT0mdmFsaWRtaW51dGVzPTM2MCZpZD0w
 #EXTINF:0,SHOWTIME
@@ -155,6 +157,8 @@ http://live.savitar.tv/Travel/myStream/chunks.m3u8?nimblesessionid=48509049&wmsA
 http://peer3.savitar.tv/TruTV/myStream/chunks.m3u8?nimblesessionid=3393381&wmsAuthSign=c2VydmVyX3RpbWU9OS8xOC8yMDE5IDQ6Mjg6MTggUE0maGFzaF92YWx1ZT1PczhtU0RJMjFnV2dRUEZxQnRRY1NRPT0mdmFsaWRtaW51dGVzPTM2MCZpZD0w
 #EXTINF:0,TVLAND
 http://live.savitar.tv/TVLand/myStream/chunks.m3u8?nimblesessionid=48509921&wmsAuthSign=c2VydmVyX3RpbWU9OS8xOC8yMDE5IDQ6Mjk6MjAgUE0maGFzaF92YWx1ZT10SzVsVHE1OHgyeWxRdjZHdXp0bnFBPT0mdmFsaWRtaW51dGVzPTM2MCZpZD0w
+#EXTINF:0,TV ONE
+http://185.246.209.109:8080/TVONE/tracks-v1a1/index.m3u8
 #EXTINF:0,UNIVISION
 http://185.246.209.109:8080/UNIVISION/tracks-v1a1/mono.m3u8?
 #EXTINF:0,USA NETWORK
