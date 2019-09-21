@@ -14,7 +14,7 @@ http://80.80.160.168/live/1/500000/live.m3u8
 #EXTINF:0,BBC
 http://ott-cdn.ucom.am/s24/01.m3u8
 #EXTINF:0,BET
-http://live.savitar.tv/BET/myStream/chunks.m3u8?nimblesessionid=49577585&wmsAuthSign=c2VydmVyX3RpbWU9OS8yMC8yMDE5IDE6Mjk6NTggQU0maGFzaF92YWx1ZT1HRWw5TmxvaEhTaFlzN0k3MzIvY293PT0mdmFsaWRtaW51dGVzPTM2MCZpZD0w
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca670f6593a5d78f0e85aed/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=19b70f7d-30c0-4ede-9a23-83600637213d&deviceId=05adad54-d314-4eae-84b6-4fecf221e693&deviceVersion=75.0.3770.142&appVersion=2.7.1-5725cf052c6d5a7776009f53b7086f64da9ef528&deviceDNT=0&userId=&advertisingId=&deviceLat=37.751&deviceLon=-97.822&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&serverSideAds=true
 #EXTINF:0,BLOOMBERG
 https://liveproduseast.global.ssl.fastly.net/us/Channel-USTV-AWS-virginia-1/Source-USTV-1000-1_live.m3u8
 #EXTINF:0,BOOMERANG
