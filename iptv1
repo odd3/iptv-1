@@ -133,6 +133,8 @@ http://live.savitar.tv/Paramount/myStream/chunks.m3u8?nimblesessionid=48498160&w
 http://190.80.3.28/PBS/PBS.isml/index.m3u8
 #EXTINF:0,POP
 http://185.246.209.109:8080/POP/tracks-v1a1/index.m3u8
+#EXTINF:0,REELZ
+http://185.246.209.109:8080/REELZ/tracks-v1a1/index.m3u8
 #EXTINF:0,SHOWTIME
 http://80.80.160.168/live/7/live.m3u8
 #EXTINF:0,STAR MOVIES
