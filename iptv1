@@ -60,7 +60,7 @@ http://peer3.savitar.tv/ESPN2/myStream/chunks.m3u8?nimblesessionid=3374564&wmsAu
 #EXTINF:0,FOOD NETWORK
 https://edge-1180-ch-gv.filmon.com/live/20.low.stream/playlist.m3u8?id=035bca1a71b11fce016d28acd3dbea51cbc96ddfe5b9ed3f8fe3286df6a738d3500c6d9d74da5c0bc95cc9ae0149c1c99bfc1e71e81638c535f95d35b8a420d9b05a603baab1d569841e47bd3b53c58e56eee4bee5bfe89c6eeebb8e5366f156679552dbf72cecd34ee4d1dfe5ef14b7e3b80fb5b93c284998356c582a7af672e685ace0371940a34ac3456492ed44f67635e8ca5438c719
 #EXTINF:0,FOX
-https://acdn.locastnet.org/proxy/nyc2/wnyw_src.m3u8
+http://get.123tv.live/channel/727556374357373137584565477a6d61315974756c413d3d/77/fox.m3u8?1&json=Rk9YIE5ldHdvcmt8fGh0dHA6Ly8xMjN0dm5vdy5jb20vd3AtY29udGVudC91cGxvYWRzLzIwMTgvMDgvZm94LnBuZw==
 #EXTINF:0,FOX BUSINESS
 http://live.savitar.tv/FoxBusiness/myStream/chunks.m3u8?nimblesessionid=48481142&wmsAuthSign=c2VydmVyX3RpbWU9OS8xOC8yMDE5IDM6MTg6NTQgUE0maGFzaF92YWx1ZT10YlFPRkJiSmRSZVJtSTlWNWZubjZ3PT0mdmFsaWRtaW51dGVzPTM2MCZpZD0w
 #EXTINF:0,FOX SPORTS 1
