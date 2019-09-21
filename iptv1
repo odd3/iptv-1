@@ -56,7 +56,7 @@ http://get.123tv.live/channel/685162562b4958354a6275484b494a753163694e6a673d3d/2
 #EXTINF:0,DISNEY JR
 https://content-ause4.uplynk.com/channel/2696c852412a4041ba3b771e0a5e3c74/h.m3u8?exp=1557726334&ct=c&cid=2696c852412a4041ba3b771e0a5e3c74&iph=dfedfaaeca06c9f40140cd2a0ac49a55790c044d07d90e043edad3ab32e2f603&rays=hjigfedcba&euid=5F8C9D89-CA39-4C23-9A6B-2A6A0A145CCB_013_1_001_live_04-06-99_1.1.1.15&cdn=ec&stgcfg=datg&pp2ip=0&delay=10800&ddp=1&expand=drmOff&v=3&sig=a07044f5b44c510bab5cd40a76b8b5839f0711064f090d2747280ebd7798e0dc&pbs=377d94b7fb794124b73c58474a01270a
 #EXTINF:0,DISNEY XD
-http://live.savitar.tv/DisneyXD/myStream/chunks.m3u8?nimblesessionid=49277566&wmsAuthSign=c2VydmVyX3RpbWU9OS8xOS8yMDE5IDY6NTY6MzEgUE0maGFzaF92YWx1ZT1DSmJoUVJYRjVpbUdNeXpjQW4vYWl3PT0mdmFsaWRtaW51dGVzPTM2MCZpZD0w
+http://185.246.209.109:8080/DISNEY_XD/tracks-v1a1/index.m3u8
 #EXTINF:0,DISNEY MOVIES
 https://videoserver1.org/live/vJGmFOZ-I5dTCIkB3GcOOw/1568843000/f4e5ac94a94ed1c0cc8b4d4256e2bee3.m3u8
 #EXTINF:0,DIY
