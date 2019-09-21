@@ -130,7 +130,7 @@ http://live.savitar.tv/Oxygen/myStream/chunks.m3u8?nimblesessionid=48602027&wmsA
 #EXTINF:0,PARAMOUNT NETWORK
 http://live.savitar.tv/Paramount/myStream/chunks.m3u8?nimblesessionid=48498160&wmsAuthSign=c2VydmVyX3RpbWU9OS8xOC8yMDE5IDQ6MDM6MDMgUE0maGFzaF92YWx1ZT1TaDQydjkwWXpkcXhTeHp2d0VwaExnPT0mdmFsaWRtaW51dGVzPTM2MCZpZD0w
 #EXTINF:0,PBS
-https://videoserver1.org/live/3bGHEatfgvD34R0qNTBQxg/1568842371/fe22365235b496368609515523bfb971.m3u8
+http://190.80.3.28/PBS/PBS.isml/index.m3u8
 #EXTINF:0,POP
 http://185.246.209.109:8080/POP/tracks-v1a1/index.m3u8
 #EXTINF:0,SHOWTIME
