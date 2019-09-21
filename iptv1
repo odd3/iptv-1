@@ -52,7 +52,7 @@ http://live.savitar.tv/DIY/myStream/chunks.m3u8?nimblesessionid=48478211&wmsAuth
 #EXTINF:0,E!
 http://peer3.savitar.tv/E/myStream/chunks.m3u8?nimblesessionid=3373638&wmsAuthSign=c2VydmVyX3RpbWU9OS8xOC8yMDE5IDM6MTM6NDAgUE0maGFzaF92YWx1ZT1HSEtWNDNscUJxMHRmTzhkbVZyS1hnPT0mdmFsaWRtaW51dGVzPTM2MCZpZD0w
 #EXTINF:0,ESPN
-http://peer2.savitar.tv/ESPN/myStream/chunks.m3u8?nimblesessionid=32404172&wmsAuthSign=c2VydmVyX3RpbWU9OS8xOC8yMDE5IDM6MTQ6NDQgUE0maGFzaF92YWx1ZT1TZi93TWE2ZGpUcXIvUFZJZ3JjN3hRPT0mdmFsaWRtaW51dGVzPTM2MCZpZD0w
+https://ul.cdn946.net:8443/hls/2vewskxuho8rq.m3u8?s=n0AagPGV7KKgUashQPE4Gg&e=1569046581
 #EXTINF:0,ESPN 2
 http://peer3.savitar.tv/ESPN2/myStream/chunks.m3u8?nimblesessionid=3374564&wmsAuthSign=c2VydmVyX3RpbWU9OS8xOC8yMDE5IDM6MTU6NDggUE0maGFzaF92YWx1ZT1lbDREbVZFSkNwVG5rVkRwYy9ZSmVnPT0mdmFsaWRtaW51dGVzPTM2MCZpZD0w
 #EXTINF:0,FOOD NETWORK
