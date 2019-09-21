@@ -21,6 +21,8 @@ http://185.246.209.109:8080/BOOMERANG/tracks-v1a1/mono.m3u8?
 https://tvpc.tv/ustv/chunklist.m3u8?q=h&type=m3u8&ce=1568939273&token=6257214f955502d3d6153ac0ad4096d0&fn=e203edfac6981c23702741da237ae9a1.m3u8&ip=190.93.109.253&key=dkNiUmhYL2xqNy94aWM3TWlabmNIUk1WTzAxTlhoOVBhU2pHYlVIVXluNmdlSk1yRHY4Y2k5R0N3ZWZ3QXRzRGFtWTVYVzNCQU54UFJwN1A0ajlRUjRaL0dEVDliZWZpSFYxeHpsMFFabnpZcjI2TmxJMnNZWklNYTZwbDZyVlp2RWlSM05yOGU3Q3VFb0N0K1FvcnEvQUtyQlNJS2N0QVVlNEg4WnpVU3ozSElVTVV2ZG1waURRdmZ4YkdyS0VzZEtPMUp2eTFWU1FrNEd0Z1ZLdldFNlBIenJ2a1ZZSE84NW1XNy8vNWNxWWFWVkEvRTZuQU5pVDllYk5OajB1eUQ1ckdsVFRDQ2Q4cEV6cVMxSFpoYlE9PQ==
 #EXTINF:0,CARTOON NETWORK
 https://jsc.mgid.com/s/t/streamlive.to.718746.js?t=20198201
+#EXTINF:0,CBN
+https://bcliveunivsecure-lh.akamaihd.net/i/news_1@500579/index_2000_av-p.m3u8?sd=10&rebase=on
 #EXTINF:0,CBS
 https://bks40001.gttstreamtv.com/kaceaeei5aaaaaaaaec1pxdaaaaaaaaaaaaeuyiivzqkt1eg/0001723/CBS-audio_128052_eng=128000-video=1800000.m3u8
 #EXTINF:0,CINEMAX
