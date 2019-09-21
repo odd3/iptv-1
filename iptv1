@@ -95,6 +95,8 @@ http://peer2.savitar.tv/Hallmark/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3Rp
 http://live.savitar.tv/HMM/myStream/chunks.m3u8?nimblesessionid=48486237&wmsAuthSign=c2VydmVyX3RpbWU9OS8xOC8yMDE5IDM6MzE6MzAgUE0maGFzaF92YWx1ZT1GaVBvcnY5ak9tT1l2b0VGRTFSN09nPT0mdmFsaWRtaW51dGVzPTM2MCZpZD0w
 #EXTINF:0,HBO
 http://185.246.209.109:8080/HBO_ZONE/tracks-v1a1/mono.m3u8
+#EXTINF:0,HBO 2
+http://203.153.218.28:9981/stream/channelid/1316004766?ticket=8603609D96360D7B639AB97584FF09E1086B3284&profile=pass
 #EXTINF:0,HGTV
 http://live.savitar.tv/HGTV/myStream/chunks.m3u8?nimblesessionid=48487090&wmsAuthSign=c2VydmVyX3RpbWU9OS8xOC8yMDE5IDM6MzQ6MDAgUE0maGFzaF92YWx1ZT1lblo2UVYvd3kxQk14Qys0ajhnM0dRPT0mdmFsaWRtaW51dGVzPTM2MCZpZD0w
 #EXTINF:0,HISTORY CHANNEL
