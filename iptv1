@@ -111,10 +111,6 @@ https://nl2.streamlive.to/vlc/5uon546q8gjsaor/playlist.m3u8?wmsAuthSign=c2VydmVy
 http://live.savitar.tv/LifetimeM/myStream/chunks.m3u8?nimblesessionid=48489572&wmsAuthSign=c2VydmVyX3RpbWU9OS8xOC8yMDE5IDM6NDA6MzUgUE0maGFzaF92YWx1ZT15ZEVBNUg5d0J6bFVBSGppSFUwcTdRPT0mdmFsaWRtaW51dGVzPTM2MCZpZD0w
 #EXTINF:0,MAX PRIME
 http://161.0.157.9/PLTV/88888888/224/3221226834/01.m3u8
-#EXTINF:0,MLB NETWORK
-http://peer3.savitar.tv/MLB/myStream/chunks.m3u8?nimblesessionid=3380587&wmsAuthSign=c2VydmVyX3RpbWU9OS8xOC8yMDE5IDM6NDE6NDYgUE0maGFzaF92YWx1ZT1SZUJHUGQ5SlpaMUlrMitDSExWQ2t3PT0mdmFsaWRtaW51dGVzPTM2MCZpZD0w
-#EXTINF:0,MOTORTREND
-http://live.savitar.tv/MotorTrend/myStream/chunks.m3u8?nimblesessionid=48490495&wmsAuthSign=c2VydmVyX3RpbWU9OS8xOC8yMDE5IDM6NDI6NTkgUE0maGFzaF92YWx1ZT1WOExYZG9lekZaN2VqM2NtMmJOdkNBPT0mdmFsaWRtaW51dGVzPTM2MCZpZD0w
 #EXTINF:0,MTV
 https://ul.cdn946.net:8443/hls/sfwmagdf.m3u8?s=cvuIlhtNuENvKo_8vgGtBA&e=1568871897
 #EXTINF:0,NATIONAL GEOGRAPHIC 
