@@ -184,6 +184,8 @@ http://185.246.209.109:8080/TCM/tracks-v1a1/mono.m3u8?
 http://185.246.209.109:8080/CW/tracks-v1a1/mono.m3u8?
 #EXTINF:0,THE CW (WST)
 http://190.80.3.28/CW/CW.isml/index.m3u8?fluxustv.m3u8
+#EXTINF:0,THE WORKS
+https://mgm-ssai.akamaized.net/amagi_hls_data_mgmAAAAAA-theworks/CDN/720x404_1425600/index.m3u8
 #EXTINF:0,TLC
 http://80.80.160.168/live/2/live.m3u8
 #EXTINF:0,TNT
