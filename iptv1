@@ -164,6 +164,8 @@ http://185.246.209.109:8080/QVC/tracks-v1a1/index.m3u8
 http://185.246.209.109:8080/REELZ/tracks-v1a1/index.m3u8
 #EXTINF:0,SHOWTIME 
 http://80.80.160.168/live/7/live.m3u8
+#EXTINF:0,SHOWTIME SHOWCASE
+http://185.246.209.109:8080/SHOWTIME_SHOWCASE/index.m3u8
 #EXTINF:0,SPIKE
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5812bcc8237a6ff45d16c407/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=19b70f7d-30c0-4ede-9a23-83600637213d&deviceId=05adad54-d314-4eae-84b6-4fecf221e693&deviceVersion=75.0.3770.142&appVersion=2.7.1-5725cf052c6d5a7776009f53b7086f64da9ef528&deviceDNT=0&userId=&advertisingId=&deviceLat=37.751&deviceLon=-97.822&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&serverSideAds=true
 #EXTINF:0,STAR MOVIES
