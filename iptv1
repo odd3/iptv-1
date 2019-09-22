@@ -136,6 +136,8 @@ http://livecdnh1.tvanywhere.ae/hls/nat_geo_wild/05.m3u8
 #EXTINF:0,NBC 
 http://peer3.savitar.tv/NBC/myStream/chunks.m3u8?nimblesessionid=3381932&wmsAuthSign=c2VydmVyX3RpbWU9OS8xOC8yMDE5IDM6NDc6MzAgUE0maGFzaF92YWx1ZT1jVkJBUlVlM3VXQ0xPQ3VtZ3ZUUWdnPT0mdmFsaWRtaW51dGVzPTM2MCZpZD0w
 #EXTINF:0,NICKELODEON
+https://nl2.streamlive.to/vlc/64jaber5pjqj2cr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yMi8yMDE5IDk6NTM6MDkgUE0maGFzaF92YWx1ZT1QeGI3ajlTazRVQ3NCYTNQN1l4UjVBPT0mdmFsaWRtaW51dGVzPTYwJnN0cm1fbGVuPTE5JmlkPTA=
+#EXTINF:0,NICK
 http://203.207.56.228/live/iptv009.m3u8
 #EXTINF:0,NICK JR
 http://185.246.209.109:8080/NICKJR/index.m3u8
@@ -157,6 +159,10 @@ http://185.246.209.109:8080/REELZ/tracks-v1a1/index.m3u8
 http://80.80.160.168/live/7/live.m3u8
 #EXTINF:0,SHOWTIME SHOWCASE
 http://185.246.209.109:8080/SHOWTIME_SHOWCASE/index.m3u8
+#EXTINF:0,SKY CINEMA COLLECTION
+https://1.ip2stream.icu/live/sky_cinema_hits_hd/playlist.m3u8
+#EXTINF:0,SKY CINEMA COMEDY
+https://1.ip2stream.icu/live/sky_cinema_comedy_hd/playlist.m3u8
 #EXTINF:0,SPIKE
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5812bcc8237a6ff45d16c407/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=19b70f7d-30c0-4ede-9a23-83600637213d&deviceId=05adad54-d314-4eae-84b6-4fecf221e693&deviceVersion=75.0.3770.142&appVersion=2.7.1-5725cf052c6d5a7776009f53b7086f64da9ef528&deviceDNT=0&userId=&advertisingId=&deviceLat=37.751&deviceLon=-97.822&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&serverSideAds=true
 #EXTINF:0,STAR MOVIES
@@ -197,32 +203,48 @@ https://nimble.dashmedia.tv/onestudio/western4u/playlist.m3u8
 http://live.savitar.tv/WETV/myStream/chunks.m3u8?nimblesessionid=48512460&wmsAuthS
 #EXTINF:0,Z LIVING
 https://y5w8j4a9.ssl.hwcdn.net/zlivingusa_r/index.m3u8
-#EXTINF:0,ABC
-http://185.246.209.109:8080/ABC/tracks-v1a1/mono.m3u8?#EXTINF:0,BBC
-http://ott-cdn.ucom.am/s24/01.m3u8
-#EXTINF:0,BLOOMBERG
-https://liveproduseast.global.ssl.fastly.net/us/Channel-USTV-AWS-virginia-1/Source-USTV-1000-1_live.m3u8
-#EXTINF:0,CBS
-https://bks40001.gttstreamtv.com/kaceaeei5aaaaaaaaec1pxdaaaaaaaaaaaaeuyiivzqkt1eg/0001723/CBS-audio_128052_eng=128000-video=1800000.m3u8
-#EXTINF:0,FOX
-https://acdn.locastnet.org/proxy/nyc2/wnyw_src.m3u8
-#EXTINF:0,HBO
-http://185.246.209.109:8080/HBO_ZONE/tracks-v1a1/mono.m3u8
-#EXTINF:0,SHOWTIME SHOWCASE
-http://185.246.209.109:8080/SHOWTIME_SHOWCASE/index.m3u8
-#EXTINF:0,SUNDANCE TV
-http://185.246.209.109:8080/SUNDANCE/tracks-v1a1/mono.m3u8?
-#EXTINF:0,SYFY
-http://185.246.209.109:8080/SYFY/tracks-v1a1/mono.m3u8?
-#EXTINF:0,TBS 
-http://185.246.209.109:8080/TBS/tracks-v1a1/mono.m3u8?
-#EXTINF:0,TCM
-http://185.246.209.109:8080/TCM/tracks-v1a1/mono.m3u8?
-#EXTINF:0,THE CW
-http://185.246.209.109:8080/CW/tracks-v1a1/mono.m3u8?
-#EXTINF:0,UNIVISION
-http://185.246.209.109:8080/UNIVISION/tracks-v1a1/mono.m3u8?
-
+#EXTINF:0,80'S REWIND
+https://stitcher.pluto.tv/stitch/hls/channel/5ca525b650be2571e3943c63/master.m3u8?deviceType=&deviceMake=&deviceVersion=&deviceId=&appVersion=&deviceDNT=0&deviceModel=&embedPartner=pluto.tv&sid=duaohqlqf26jfvbh443n3ie5g0
+#EXTINF:0,4K TV
+http://stitcher.pluto.tv/stitch/hls/channel/553838c8c0b860c11a631f3a/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=b4c19bad-f2ee-41c2-8e28-fbd87d36e3a3&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
+#EXTINF:0,ACTION MOVIES
+http://stitcher.pluto.tv/stitch/hls/channel/561d7d484dc7c8770484914a/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=2&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
+#EXTINF:0,ADVENTURE TV
+http://stitcher.pluto.tv/stitch/hls/channel/5938876b78d8d9c074c3c657/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=2&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
+#EXTINF:0,BET
+https://stitcher.pluto.tv/stitch/hls/channel/5ca670f6593a5d78f0e85aed/master.m3u8?deviceType=&deviceMake=&deviceVersion=&deviceId=&appVersion=&deviceDNT=0&deviceModel=&embedPartner=pluto.tv&sid=gcuqage0urlhccbp8kbecjc830
+#EXTINF:0,CLASSIC MOVIES
+https://stitcher.pluto.tv/stitch/hls/channel/569546031a619b8f07ce6e25/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=6e360db0-724b-11e8-be77-bf4d1417b012&deviceId=889540f0-712d-11e8-b9ec-8ba319deeadf&deviceVersion=37.0.2049.0&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.5783&deviceLon=-90.6666&app_name=&appName=&appStoreUrl=&serverSideAds=true
+#EXTINF:0,COMEDY
+https://stitcher.pluto.tv/stitch/hls/channel/5a4d3a00ad95e4718ae8d8db/master.m3u8?deviceType=&deviceMake=&deviceVersion=&deviceId=&appVersion=&deviceDNT=0&deviceModel=&embedPartner=pluto.tv&sid=qb3stkgum0jt2soq367mu97333
+#EXTINF:0,COMEDY CENTRAL
+https://stitcher.pluto.tv/stitch/hls/channel/5ca671f215a62078d2ec0abf/master.m3u8?deviceType=&deviceMake=&deviceVersion=&deviceId=&appVersion=&deviceDNT=0&deviceModel=&embedPartner=pluto.tv&sid=ecuqage0urlhccbp8kbecjc830
+#EXTINF:0,DOG THE BOUNTY HUNTER
+https://stitcher.pluto.tv/stitch/hls/channel/5bee1a7359ee03633e780238/master.m3u8?deviceType=&deviceMake=&deviceVersion=&deviceId=&appVersion=&deviceDNT=0&deviceModel=&embedPartner=pluto.tv&sid=x24jbjrh2o33lln3jns6j2tmn0
+#EXTINF:0,HOLLYWOOD MOVIES 2
+http://aldirect.hls.huya.com/huyalive/29169025-2686219962-11537226886652362752-2710080226-10057-A-0-1_1200.m3u8
+#EXTINF:0,HOLLYWOOD MOVIES 5
+http://aldirect.hls.huya.com/huyalive/29169025-2686220018-11537227127170531328-2847699120-10057-A-1524041208-1_1200.m3u8
+#EXTINF:0,HOLLYWOOD MOVIES 7
+http://js.hls.huya.com/huyalive/30765679-2478268764-10644083292078342144-2847699106-10057-A-0-1_1200.m3u8
+#EXTINF:0,HOLLYWOOD MOVIES 8
+http://js.hls.huya.com/huyalive/30765679-2478268764-10644083292078342144-2847699106-10057-A-0-1_1200.m3u8
+#EXTINF:0,HOLLYWOOD MOVIES 10
+http://aldirect.hls.huya.com/huyalive/30765679-2504742278-10757786168918540288-3049003128-10057-A-0-1_1200.m3u8
+#EXTINF:0,FLIX OF FLURY
+https://stitcher.pluto.tv/stitch/hls/channel/58e55b14ad8e9c364d55f717/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=2da9e920-7245-11e8-9b3e-a1006a2fd228&deviceId=889540f0-712d-11e8-b9ec-8ba319deeadf&deviceVersion=37.0.2049.0&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.5783&deviceLon=-90.6666&app_name=&appName=&appStoreUrl=&serverSideAds=true
+#EXTINF:0,MOVIE 1
+http://stitcher.pluto.tv/stitch/hls/channel/564b9ed65fbbbca07e8d09d2/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=4eeea560-71a7-11e8-bcb5-a1b59b812cd7&deviceId=889540f0-712d-11e8-b9ec-8ba319deeadf&deviceVersion=37.0.2049.0&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.5783&deviceLon=-90.6666&app_name=&appName=&appStoreUrl=&serverSideAds=true
+#EXTINF:0,MOVIES 2
+http://stitcher.pluto.tv/stitch/hls/channel/59976841a09fd13c9b590ce8/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=2&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
+#EXTINF:0,PARAMOUNT MOVIES CHANNEL
+https://stitcher.pluto.tv/stitch/hls/channel/5cb0cae7a461406ffe3f5213/master.m3u8?deviceType=&deviceMake=&deviceVersion=&deviceId=&appVersion=&deviceDNT=0&deviceModel=&embedPartner=pluto.tv&sid=pcuqage0urlhccbp8kbecjc830
+#EXTINF:0,RETRO TOONS
+https://stitcher.pluto.tv/stitch/hls/channel/5c5c2b9d8002db3c3e0b1c6d/master.m3u8?deviceType=&deviceMake=&deviceVersion=&deviceId=&appVersion=&deviceDNT=0&deviceModel=&embedPartner=pluto.tv&sid=a45b9ea1nuf9ijm985tiag4ge6
+#EXTINF:0,24/7 TOM AND JERRY
+https://ws.flv.nimo.tv/live/su1599512427554r538093ee8e9c2edd24251f82cda6fd16_high.flv?fluxustv.flv
+#EXTINF:0,24/7 HORROR
+https://stitcher.pluto.tv/stitch/hls/channel/569546031a619b8f07ce6e25/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=6e360db0-724b-11e8-be77-bf4d1417b012&deviceId=889540f0-712d-11e8-b9ec-8ba319deeadf&deviceVersion=37.0.2049.0&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.5783&deviceLon=-90.6666&app_name=&appName=&appStoreUrl=&serverSideAds=true
 
 
 
