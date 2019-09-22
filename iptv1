@@ -70,7 +70,7 @@ https://puffer.stanford.edu/753f49ab-fadc-433d-984e-fd55b8c12e64
 #EXTINF:0,FOX BUSINESS
 http://185.246.209.109:8080/FOX_BUSINESS/tracks-v1a1/index.m3u8
 #EXTINF:0,FOX SPORTS 1
-http://peer3.savitar.tv/FS1/myStream/chunks.m3u8?nimblesessionid=3376062&wmsAuthSign=c2VydmVyX3RpbWU9OS8xOC8yMDE5IDM6MjA6NTEgUE0maGFzaF92YWx1ZT1WbWNMT1pOZE9VOGhPbUlucjlYYlVBPT0mdmFsaWRtaW51dGVzPTM2MCZpZD0w
+http://185.246.209.109:8080/FOX_SPORTS1/tracks-v1a1/index.m3u8
 #EXTINF:0,FOX SPORTS 2
 http://peer3.savitar.tv/FS2/myStream/chunks.m3u8?nimblesessionid=3376228&wmsAuthSign=c2VydmVyX3RpbWU9OS8xOC8yMDE5IDM6MjE6NTYgUE0maGFzaF92YWx1ZT01QUk5MU5mYUJTU1M5UldOZlBVMFp3PT0mdmFsaWRtaW51dGVzPTM2MCZpZD0w
 #EXTINF:0,FX
