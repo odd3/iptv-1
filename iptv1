@@ -125,6 +125,8 @@ https://nl2.streamlive.to/vlc/5uon546q8gjsaor/playlist.m3u8?wmsAuthSign=c2VydmVy
 http://live.savitar.tv/LifetimeM/myStream/chunks.m3u8?nimblesessionid=48489572&wmsAuthSign=c2VydmVyX3RpbWU9OS8xOC8yMDE5IDM6NDA6MzUgUE0maGFzaF92YWx1ZT15ZEVBNUg5d0J6bFVBSGppSFUwcTdRPT0mdmFsaWRtaW51dGVzPTM2MCZpZD0w
 #EXTINF:0,MAX PRIME
 http://161.0.157.9/PLTV/88888888/224/3221226834/01.m3u8
+#EXTINF:0,MAV TV
+http://185.246.209.109:8080/MAV_TV/tracks-v1a1/index.m3u8
 #EXTINF:0,MTV
 https://ul.cdn946.net:8443/hls/sfwmagdf.m3u8?s=cvuIlhtNuENvKo_8vgGtBA&e=1568871897
 #EXTINF:0,NATIONAL GEOGRAPHIC 
