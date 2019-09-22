@@ -59,6 +59,8 @@ https://videoserver1.org/live/vJGmFOZ-I5dTCIkB3GcOOw/1568843000/f4e5ac94a94ed1c0
 http://live.savitar.tv/DIY/myStream/chunks.m3u8?nimblesessionid=48478211&wmsAuthSign=c2VydmVyX3RpbWU9OS8xOC8yMDE5IDM6MTE6MzEgUE0maGFzaF92YWx1ZT1jR1JKci9OQWh5UzdlbXN1bExuZ3NRPT0mdmFsaWRtaW51dGVzPTM2MCZpZD0w
 #EXTINF:0,E!
 http://peer3.savitar.tv/E/myStream/chunks.m3u8?nimblesessionid=3373638&wmsAuthSign=c2VydmVyX3RpbWU9OS8xOC8yMDE5IDM6MTM6NDAgUE0maGFzaF92YWx1ZT1HSEtWNDNscUJxMHRmTzhkbVZyS1hnPT0mdmFsaWRtaW51dGVzPTM2MCZpZD0w
+#EXTINF:0,EDGE SPORTS
+https://imgedge.akamaized.net/amagi_hls_data_imgAAA2AA-edgesports/CDN/1920x1080_5628000/index.m3u8?fluxustv.m3u8
 #EXTINF:0,ESPN
 http://185.246.209.109:8080/ESPN_CLASSIC/tracks-v1a1/index.m3u8
 #EXTINF:0,ESPN 2
