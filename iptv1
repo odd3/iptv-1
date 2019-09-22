@@ -64,7 +64,7 @@ https://imgedge.akamaized.net/amagi_hls_data_imgAAA2AA-edgesports/CDN/1920x1080_
 #EXTINF:0,ESPN
 http://185.246.209.109:8080/ESPN_CLASSIC/tracks-v1a1/index.m3u8
 #EXTINF:0,ESPN 2
-http://peer3.savitar.tv/ESPN2/myStream/chunks.m3u8?nimblesessionid=3374564&wmsAuthSign=c2VydmVyX3RpbWU9OS8xOC8yMDE5IDM6MTU6NDggUE0maGFzaF92YWx1ZT1lbDREbVZFSkNwVG5rVkRwYy9ZSmVnPT0mdmFsaWRtaW51dGVzPTM2MCZpZD0w
+http://80.80.160.168/live/6/live.m3u8
 #EXTINF:0,ESPN NEWS
 http://185.246.209.109:8080/ESPN_NEWS/index.m3u8
 #EXTINF:0,FOOD NETWORK
