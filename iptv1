@@ -63,6 +63,8 @@ http://peer3.savitar.tv/E/myStream/chunks.m3u8?nimblesessionid=3373638&wmsAuthSi
 http://185.246.209.109:8080/ESPN_CLASSIC/tracks-v1a1/index.m3u8
 #EXTINF:0,ESPN 2
 http://peer3.savitar.tv/ESPN2/myStream/chunks.m3u8?nimblesessionid=3374564&wmsAuthSign=c2VydmVyX3RpbWU9OS8xOC8yMDE5IDM6MTU6NDggUE0maGFzaF92YWx1ZT1lbDREbVZFSkNwVG5rVkRwYy9ZSmVnPT0mdmFsaWRtaW51dGVzPTM2MCZpZD0w
+#EXTINF:0,ESPN NEWS
+http://185.246.209.109:8080/ESPN_NEWS/index.m3u8
 #EXTINF:0,FOOD NETWORK
 https://live2.hoolatv.com/live/foodnetwork_hi/chunks.m3u8?__fvd__
 #EXTINF:0,FOX
@@ -126,6 +128,8 @@ http://peer4.savitar.tv/NFL/myStream/chunks.m3u8?nimblesessionid=1104422&wmsAuth
 #EXTINF:0,NICKELODEON
 http://203.207.56.228/live/iptv009.m3u8
 #EXTINF:0,NICK
+#EXTINF:0,NICK JR
+http://185.246.209.109:8080/NICKJR/index.m3u8
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca673e0d0bd6c2689c94ce3/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=0c9d9262-bcd4-4b33-a78f-afea1ee4a67e&deviceId=781d4c79-fb21-4162-97a4-9f543683f22a&deviceVersion=74.0.3729.131&appVersion=2.5.1-f9a6096b469cfe5e4f1cc92cc697e8500e57891c&deviceDNT=0&userId=&advertisingId=&deviceLat=38.8177&deviceLon=-77.1527&app_name=&appName=&appStoreUrl=&architecture=&serverSideAds=true
 #EXTINF:0,NICKTOONS
 http://live.savitar.tv/Nicktoons/myStream/chunks.m3u8?nimblesessionid=48496074&wmsAuthSign=c2VydmVyX3RpbWU9OS8xOC8yMDE5IDM6NTg6MDkgUE0maGFzaF92YWx1ZT1PYzZLTlVuYmZyaVpJczZGVTlXMzZ3PT0mdmFsaWRtaW51dGVzPTM2MCZpZD0w
