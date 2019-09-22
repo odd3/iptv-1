@@ -131,6 +131,8 @@ http://185.246.209.109:8080/MAV_TV/tracks-v1a1/index.m3u8
 https://ul.cdn946.net:8443/hls/sfwmagdf.m3u8?s=cvuIlhtNuENvKo_8vgGtBA&e=1568871897
 #EXTINF:0,NATIONAL GEOGRAPHIC 
 http://livecdnh1.tvanywhere.ae/hls/nat_geo/05.m3u8
+#EXTINF:0,NATIONAL GEOGRAPHIC WILD
+http://livecdnh1.tvanywhere.ae/hls/nat_geo_wild/05.m3u8
 #EXTINF:0,NBC 
 http://peer3.savitar.tv/NBC/myStream/chunks.m3u8?nimblesessionid=3381932&wmsAuthSign=c2VydmVyX3RpbWU9OS8xOC8yMDE5IDM6NDc6MzAgUE0maGFzaF92YWx1ZT1jVkJBUlVlM3VXQ0xPQ3VtZ3ZUUWdnPT0mdmFsaWRtaW51dGVzPTM2MCZpZD0w
 #EXTINF:0,NBC SPORTS
