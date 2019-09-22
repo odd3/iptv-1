@@ -135,10 +135,6 @@ http://livecdnh1.tvanywhere.ae/hls/nat_geo/05.m3u8
 http://livecdnh1.tvanywhere.ae/hls/nat_geo_wild/05.m3u8
 #EXTINF:0,NBC 
 http://peer3.savitar.tv/NBC/myStream/chunks.m3u8?nimblesessionid=3381932&wmsAuthSign=c2VydmVyX3RpbWU9OS8xOC8yMDE5IDM6NDc6MzAgUE0maGFzaF92YWx1ZT1jVkJBUlVlM3VXQ0xPQ3VtZ3ZUUWdnPT0mdmFsaWRtaW51dGVzPTM2MCZpZD0w
-#EXTINF:0,NBC SPORTS
-http://peer4.savitar.tv/NBCSN/myStream/chunks.m3u8?nimblesessionid=1103943&wmsAuthSign=c2VydmVyX3RpbWU9OS8xOC8yMDE5IDM6NDg6NTcgUE0maGFzaF92YWx1ZT1mbjNSbGl2SElmaHlOVldaVTc0YW1RPT0mdmFsaWRtaW51dGVzPTM2MCZpZD0w
-#EXTINF:0,NFL NETWORK
-http://peer4.savitar.tv/NFL/myStream/chunks.m3u8?nimblesessionid=1104422&wmsAuthSign=c2VydmVyX3RpbWU9OS8xOC8yMDE5IDM6NTU6MDMgUE0maGFzaF92YWx1ZT1pK09SU0tZZXB3OEQ3VXZ2c09YaTBnPT0mdmFsaWRtaW51dGVzPTM2MCZpZD0w
 #EXTINF:0,NICKELODEON
 http://203.207.56.228/live/iptv009.m3u8
 #EXTINF:0,NICK JR
@@ -146,14 +142,10 @@ http://185.246.209.109:8080/NICKJR/index.m3u8
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca673e0d0bd6c2689c94ce3/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=0c9d9262-bcd4-4b33-a78f-afea1ee4a67e&deviceId=781d4c79-fb21-4162-97a4-9f543683f22a&deviceVersion=74.0.3729.131&appVersion=2.5.1-f9a6096b469cfe5e4f1cc92cc697e8500e57891c&deviceDNT=0&userId=&advertisingId=&deviceLat=38.8177&deviceLon=-77.1527&app_name=&appName=&appStoreUrl=&architecture=&serverSideAds=true
 #EXTINF:0,NICKTOONS
 http://live.savitar.tv/Nicktoons/myStream/chunks.m3u8?nimblesessionid=48496074&wmsAuthSign=c2VydmVyX3RpbWU9OS8xOC8yMDE5IDM6NTg6MDkgUE0maGFzaF92YWx1ZT1PYzZLTlVuYmZyaVpJczZGVTlXMzZ3PT0mdmFsaWRtaW51dGVzPTM2MCZpZD0w
-#EXTINF:0,OWN
-http://peer3.savitar.tv/OWN/myStream/chunks.m3u8?nimblesessionid=3384959&wmsAuthSign=c2VydmVyX3RpbWU9OS8xOC8yMDE5IDM6NTk6MjggUE0maGFzaF92YWx1ZT1WakFBcHB5N2RXTkFHTGxINzZBZXVRPT0mdmFsaWRtaW51dGVzPTM2MCZpZD0w
 #EXTINF:0,OUTDOOR
 http://185.246.209.109:8080/OUTDOOR/tracks-v1a1/index.m3u8
 #EXTINF:0,OXYGEN
 http://5.189.187.55:8000/live/CLIENTW041/e09yJlVk46/4276.ts
-#EXTINF:0,PARAMOUNT NETWORK
-http://live.savitar.tv/Paramount/myStream/chunks.m3u8?nimblesessionid=48498160&wmsAuthSign=c2VydmVyX3RpbWU9OS8xOC8yMDE5IDQ6MDM6MDMgUE0maGFzaF92YWx1ZT1TaDQydjkwWXpkcXhTeHp2d0VwaExnPT0mdmFsaWRtaW51dGVzPTM2MCZpZD0w
 #EXTINF:0,PBS
 http://190.80.3.28/PBS/PBS.isml/index.m3u8
 #EXTINF:0,POP
@@ -192,16 +184,12 @@ http://80.80.160.168/live/2/live.m3u8
 http://185.246.209.109:8080/live/chineseunicorn/uJACA2N7Nr/11050.m3u8
 #EXTINF:0,TRAVEL
 http://bit.ly/2NHfoDb
-#EXTINF:0,TRUTV
-http://peer3.savitar.tv/TruTV/myStream/chunks.m3u8?nimblesessionid=3393381&wmsAuthSign=c2VydmVyX3RpbWU9OS8xOC8yMDE5IDQ6Mjg6MTggUE0maGFzaF92YWx1ZT1PczhtU0RJMjFnV2dRUEZxQnRRY1NRPT0mdmFsaWRtaW51dGVzPTM2MCZpZD0w
-#EXTINF:0,TVLAND
-http://live.savitar.tv/TVLand/myStream/chunks.m3u8?nimblesessionid=48509921&wmsAuthSign=c2VydmVyX3RpbWU9OS8xOC8yMDE5IDQ6Mjk6MjAgUE0maGFzaF92YWx1ZT10SzVsVHE1OHgyeWxRdjZHdXp0bnFBPT0mdmFsaWRtaW51dGVzPTM2MCZpZD0w
 #EXTINF:0,TV ONE
 http://185.246.209.109:8080/TVONE/tracks-v1a1/index.m3u8
 #EXTINF:0,UNIVISION
 http://185.246.209.109:8080/UNIVISION/tracks-v1a1/mono.m3u8?
 #EXTINF:0,USA NETWORK
-https://tvpc.tv/ustv/chunklist.m3u8?q=h&type=m3u8&ce=1569087492&token=6257214f955502d3d6153ac0ad4096d0&fn=0b53adb6cff9efa74f4cee4e7866f763.m3u8&ip=190.93.109.253&key=dkNiUmhYL2xqNy94aWM3TWlabmNIUWpEeWlxSGh0ZUFRSmhBL1VsUEk0NW9IM1ptQUVNTFNEdU45anJ6QXpRYzNPS3FwYnh4Qit5NWlCWGFHRndQdHJhNXN1eWxjVEovcmNVUWlDdis3VE1VUlk0SUNZb3pBNzZiS3RuT0ZTRE5DYW1Lem96V2JZUWlvYnViQStTRlJXRjhYcms1RE4rWS9DckJkSW1QTFB1MzQwOE1EcGY4ODRXbGdDSVcveFgyN2VRbXN5TTJOS3JpME5MM1ZHbDFic0ovN0MwcUVaL2ZJWE82NDV2MUM3OXJJbDVPL3JEY0ZWVGQxbUl2N1pCQUFJd1JoaWFRbjVLUEJLRGRvaFVWWHc9PQ==
+http://cdnak19.cast4u.info/channels/4/10804.m3u8?fluxustv.m3u8
 #EXTINF:0,VH1
 http://content-ausc2.uplynk.com/channel/7a16e3d5ffd0413ba4d8ac89688ed7cd/e.m3u8?ct=c&ad.locationDesc=vh1_channel&ad.cust_params=_fw_ae%3D53da17a30bd0d3c946a41c86cb5873f1%26_vmn_ar%3Dtrue&expand=simulcast_standard&ad.kv=_fw_ae%2C53da17a30bd0d3c946a41c86cb5873f1%2C_vmn_ar%2Ctrue%2C_fw_vcid2%2C82125:vh1_67b04b0c30774b06ad1ec820ee7d0beb&delay=10800&euid=67b04b0c-3077-4b06-ad1e-c820ee7d0beb&exp=1531977295&rn=1284714433&ad.euid=67b04b0c-3077-4b06-ad1e-c820ee7d0beb&cid=7a16e3d5ffd0413ba4d8ac89688ed7cd&tc=1&sig=b3143cb0429574cc3c877de30e62fab7d66c763ec2f61cd9bfde33fdab12dfb7&pbs=62317bc417264eaeb05c22777b5c8697
 #EXTINF:0,WESTERN4U
