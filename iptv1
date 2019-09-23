@@ -4,7 +4,7 @@ http://pockettv.xyz/api/zee.m3u8?c=andflixhd
 #EXTINF:0,&Prive HD
 http://pockettv.xyz/api/zee.m3u8?c=andprivehd
 #EXTINF:0,A&E
-http://live.savitar.tv/AE/myStream/chunks.m3u8?nimblesessionid=49574989&wmsAuthSign=c2VydmVyX3RpbWU9OS8yMC8yMDE5IDE6Mjc6MTQgQU0maGFzaF92YWx1ZT1BbjFiR3Y0d3FGQjFSdlBpQTNSM0pRPT0mdmFsaWRtaW51dGVzPTM2MCZpZD0w
+http://shacktv.com:8080/live/Lazaro/Lazaro123/246.m3u8
 #EXTINF:0,ABC
 http://185.246.209.109:8080/ABC/tracks-v1a1/mono.m3u8?
 #EXTINF:0,ADULT SWIM
