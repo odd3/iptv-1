@@ -26,6 +26,8 @@ http://shacktv.com:8080/live/Lazaro/Lazaro123/436.m3u8
 #EXTINF:0,CARTOONS 4U
 https://edge1.dashmedia.tv/onestudio/cartoons_4u/playlist.m3u8?fluxustv.m3u8
 #EXTINF:0,CARTOON NETWORK
+http://shacktv.com:8080/live/Lazaro/Lazaro123/233.m3u8
+#EXTINF:0,CARTOONITO
 https://1.ip2stream.icu/live/cartoon_network_hd/chunks.m3u8
 #EXTINF:0,CBN
 https://bcliveunivsecure-lh.akamaihd.net/i/news_1@500579/index_2000_av-p.m3u8?sd=10&rebase=on
