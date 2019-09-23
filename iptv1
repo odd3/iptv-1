@@ -22,6 +22,7 @@ https://liveproduseast.global.ssl.fastly.net/us/Channel-USTV-AWS-virginia-1/Sour
 #EXTINF:0,BOOMERANG
 http://185.246.209.109:8080/BOOMERANG/tracks-v1a1/mono.m3u8?
 #EXTINF:0,BRAVO
+http://shacktv.com:8080/live/Lazaro/Lazaro123/436.m3u8
 #EXTINF:0,CARTOONS 4U
 https://edge1.dashmedia.tv/onestudio/cartoons_4u/playlist.m3u8?fluxustv.m3u8
 #EXTINF:0,CARTOON NETWORK
