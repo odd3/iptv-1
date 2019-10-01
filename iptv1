@@ -86,7 +86,7 @@ https://dai2.xumo.com/amagi_hls_data_xumo1212A-food52/CDN/1280x720_5000000/index
 #EXTINF:0,FOOD NETWORK
 http://95.86.32.7:999/food
 #EXTINF:0,FOX
-https://videoserver1.org/live/uDssasJNJZcXbt7nellEBA/1569275229/c2f52b70c2324ba134b2cba2962bedae.m3u8
+http://cdnworld.magictvbox.eu/Fox_HD/tracks-v2a1/index.m3u8?token=soc4up
 #EXTINF:0,FOX COMEDY
 http://161.0.157.9/PLTV/88888888/224/3221226800/03.m3u8
 #EXTINF:0,FOX MOVIES
