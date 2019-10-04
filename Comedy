@@ -1,3 +1,3 @@
 #EXTM3U
 #EXTINF:0,TBS
-http://peer2.savitar.tv/USANetwork/myStream/chunks.m3u8?nimblesessionid=41258854&wmsAuthSign=c2VydmVyX3RpbWU9MTAvNC8yMDE5IDU6NDM6NTMgUE0maGFzaF92YWx1ZT1ueEdZRVFZQ0RDRzF4V05vcTMzNkdnPT0mdmFsaWRtaW51dGVzPTM2MCZpZD0w
+http://live.savitar.tv/TBS/myStream/chunks.m3u8?nimblesessionid=62381282&wmsAuthSign=c2VydmVyX3RpbWU9MTAvNC8yMDE5IDY6MDE6NTAgUE0maGFzaF92YWx1ZT1hcnVvUWttLzRsanJvbFhBTkxNdHdBPT0mdmFsaWRtaW51dGVzPTM2MCZpZD0w
