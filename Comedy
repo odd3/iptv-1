@@ -1,3 +1,5 @@
 #EXTM3U
+#EXTINF:0,BET
+http://live.savitar.tv/BET/myStream/chunks.m3u8?nimblesessionid=62383214&wmsAuthSign=c2VydmVyX3RpbWU9MTAvNC8yMDE5IDY6MTE6NDEgUE0maGFzaF92YWx1ZT0yeFQvQmhJZTB5Zk5MYmpLcm1ubjdnPT0mdmFsaWRtaW51dGVzPTM2MCZpZD0w
 #EXTINF:0,TBS
 http://live.savitar.tv/TBS/myStream/chunks.m3u8?nimblesessionid=62381282&wmsAuthSign=c2VydmVyX3RpbWU9MTAvNC8yMDE5IDY6MDE6NTAgUE0maGFzaF92YWx1ZT1hcnVvUWttLzRsanJvbFhBTkxNdHdBPT0mdmFsaWRtaW51dGVzPTM2MCZpZD0w
