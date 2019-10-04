@@ -184,7 +184,7 @@ http://89.187.174.193/live/scania1313/cp7sZ7313/13095.m3u8?token=TUMOUxEKQQlGAF5
 #EXTINF:0,TASTEMADE
 https://tastemadessai.akamaized.net/amagi_hls_data_tastemade-tastemade/CDN/718x404_2002829/index.m3u8?fluxustv.m3u8
 #EXTINF:0,TBS 
-http://185.246.209.109:8080/TBS/tracks-v1a1/mono.m3u8?
+http://peer2.savitar.tv/USANetwork/myStream/chunks.m3u8?nimblesessionid=41258854&wmsAuthSign=c2VydmVyX3RpbWU9MTAvNC8yMDE5IDU6NDM6NTMgUE0maGFzaF92YWx1ZT1ueEdZRVFZQ0RDRzF4V05vcTMzNkdnPT0mdmFsaWRtaW51dGVzPTM2MCZpZD0w
 #EXTINF:0,TCM
 http://185.246.209.109:8080/TCM/tracks-v1a1/mono.m3u8?
 #EXTINF:0,THE CW (EST)
