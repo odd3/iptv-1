@@ -4,7 +4,7 @@ http://peer3.savitar.tv/Boomerang/myStream/chunks.m3u8?nimblesessionid=2835173&w
 #EXTINF:0,CARTOON NETWORK
 http://peer2.savitar.tv/CN/myStream/chunks.m3u8?nimblesessionid=41706149&wmsAuthSign=c2VydmVyX3RpbWU9MTAvNS8yMDE5IDQ6MTU6NDYgUE0maGFzaF92YWx1ZT1keCtHNFZTdEU2U3R2Ni9xelladCt3PT0mdmFsaWRtaW51dGVzPTM2MCZpZD0w
 #EXTINF:0,DISNEY
-http://live.savitar.tv/Disney/myStream/chunks.m3u8?nimblesessionid=63147884&wmsAuthSign=c2VydmVyX3RpbWU9MTAvNS8yMDE5IDQ6MTQ6MzggUE0maGFzaF92YWx1ZT1XeDBtU0duRzdzWGh1MVYyaU9yRE9RPT0mdmFsaWRtaW51dGVzPTM2MCZpZD0w
+http://live.savitar.tv/Disney/myStream/chunks.m3u8?nimblesessionid=63211769&wmsAuthSign=c2VydmVyX3RpbWU9MTAvNS8yMDE5IDU6NTk6MDkgUE0maGFzaF92YWx1ZT10VzdCSnFPMks2NyttREY0RzBMOWJnPT0mdmFsaWRtaW51dGVzPTM2MCZpZD0w
 #EXTINF:0,DISNEY Junior
 http://live.savitar.tv/DisneyJr/myStream/chunks.m3u8?nimblesessionid=63148673&wmsAuthSign=c2VydmVyX3RpbWU9MTAvNS8yMDE5IDQ6MTc6NTYgUE0maGFzaF92YWx1ZT1EZzlpV1R1cnRNclNTeFNMeFoyMyt3PT0mdmFsaWRtaW51dGVzPTM2MCZpZD0w
 #EXTINF:0,DISNEY XD
