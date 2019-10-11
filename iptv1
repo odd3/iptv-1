@@ -6,7 +6,7 @@ http://pockettv.xyz/api/zee.m3u8?c=andprivehd
 #EXTINF:0,A&E
 http://fenixhdplaytop10.ddns.net:25461/live/meu123/meu123/1583.ts
 #EXTINF:0,ABC
-http://live.field59.com/wwsb/ngrp:wwsb1_all/playlist.m3u8
+http://content-ausc1.uplynk.com/channel/7f4366ed88e344da86947eb0fa080ec2/f.m3u8?
 #EXTINF:0,ADULT SWIM
 https://adultswimtv.warnermediacdn.com/hls/live/2007031/livestream/master_Layer7.m3u8
 #EXTINF:0,AMC
@@ -34,7 +34,7 @@ https://1.ip2stream.icu/live/cartoon_network_hd/chunks.m3u8
 #EXTINF:0,CBN
 https://bcliveunivsecure-lh.akamaihd.net/i/news_1@500579/index_2000_av-p.m3u8?sd=10&rebase=on
 #EXTINF:0,CBS
-http://ummodigital.com:2082/ebz178mb/ebz178mb/1468
+http://161.0.157.50/PLTV/88888888/224/3221227041/03.m3u8
 #EXTINF:0,CBS
 http://190.80.3.28/CBS/CBS.isml/index.m3u8
 #EXTINF:0,CHEDDAR
@@ -188,7 +188,7 @@ http://peer2.savitar.tv/USANetwork/myStream/chunks.m3u8?nimblesessionid=41258854
 #EXTINF:0,TCM
 http://185.246.209.109:8080/TCM/tracks-v1a1/mono.m3u8?
 #EXTINF:0,THE CW (EST)
-http://185.246.209.109:8080/CW/tracks-v1a1/mono.m3u8?
+http://190.80.3.28/CW/CW.isml/index.m3u8?fluxustv.m3u8
 #EXTINF:0,THE CW (WST)
 http://190.80.3.28/CW/CW.isml/index.m3u8?fluxustv.m3u8
 #EXTINF:0,THE WORKS
@@ -249,6 +249,8 @@ https://stitcher.pluto.tv/stitch/hls/channel/58e55b14ad8e9c364d55f717/master.m3u
 http://stitcher.pluto.tv/stitch/hls/channel/564b9ed65fbbbca07e8d09d2/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=4eeea560-71a7-11e8-bcb5-a1b59b812cd7&deviceId=889540f0-712d-11e8-b9ec-8ba319deeadf&deviceVersion=37.0.2049.0&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.5783&deviceLon=-90.6666&app_name=&appName=&appStoreUrl=&serverSideAds=true
 #EXTINF:0,MOVIES 2
 http://stitcher.pluto.tv/stitch/hls/channel/59976841a09fd13c9b590ce8/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=2&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
+#EXTINF:0,MOVIE KINGDOM
+https://a.jsrdn.com/broadcast/e9b4093a41/+0000/high/c.m3u8
 #EXTINF:0,PARAMOUNT MOVIES CHANNEL
 https://stitcher.pluto.tv/stitch/hls/channel/5cb0cae7a461406ffe3f5213/master.m3u8?deviceType=&deviceMake=&deviceVersion=&deviceId=&appVersion=&deviceDNT=0&deviceModel=&embedPartner=pluto.tv&sid=pcuqage0urlhccbp8kbecjc830
 #EXTINF:0,RETRO TOONS
