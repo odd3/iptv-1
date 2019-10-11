@@ -11,3 +11,5 @@ http://live.savitar.tv/FXX/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MT
 http://live.savitar.tv/TBS/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTEvMjAxOSAxMDoyMzo1MSBQTSZoYXNoX3ZhbHVlPTY1aXA3OE9Sem9HbTZab3B1dEVaWUE9PSZ2YWxpZG1pbnV0ZXM9MzYwJmlkPTA=
 #EXTINF:0,THE CW
 http://live.savitar.tv/CW/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTEvMjAxOSAxMDoyMToxNCBQTSZoYXNoX3ZhbHVlPTM4TWowRmNUbXRVdzB5UGhkRTV6QWc9PSZ2YWxpZG1pbnV0ZXM9MzYwJmlkPTA=
+#EXTINF:0,TRUTV
+http://peer3.savitar.tv/TruTV/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTEvMjAxOSAxMDozMDoxOCBQTSZoYXNoX3ZhbHVlPWJSaEpSMGJzN2ZKQVZ4MEQ5KzFudUE9PSZ2YWxpZG1pbnV0ZXM9MzYwJmlkPTA=
