@@ -7,6 +7,8 @@ http://live.savitar.tv/Bravo/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9
 https://stitcher.pluto.tv/stitch/hls/channel/569546031a619b8f07ce6e25/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=6e360db0-724b-11e8-be77-bf4d1417b012&deviceId=889540f0-712d-11e8-b9ec-8ba319deeadf&deviceVersion=37.0.2049.0&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.5783&deviceLon=-90.6666&app_name=&appName=&appStoreUrl=&serverSideAds=true
 #EXTINF:0,FLIX OF FLURY
 https://stitcher.pluto.tv/stitch/hls/channel/58e55b14ad8e9c364d55f717/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=2da9e920-7245-11e8-9b3e-a1006a2fd228&deviceId=889540f0-712d-11e8-b9ec-8ba319deeadf&deviceVersion=37.0.2049.0&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.5783&deviceLon=-90.6666&app_name=&appName=&appStoreUrl=&serverSideAds=true
+#EXTINF:0,FXM
+http://live.savitar.tv/FXMovie/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTEvMjAxOSAxMToyNToxMiBQTSZoYXNoX3ZhbHVlPWRCbkdmVkl2UEE5VUpOQVdPcWVpM0E9PSZ2YWxpZG1pbnV0ZXM9MzYwJmlkPTA=
 #EXTINF:0,HOLLYWOOD MOVIES 2
 http://aldirect.hls.huya.com/huyalive/29169025-2686219962-11537226886652362752-2710080226-10057-A-0-1_1200.m3u8
 #EXTINF:0,HOLLYWOOD MOVIES 10
