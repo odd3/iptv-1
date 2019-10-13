@@ -5,18 +5,17 @@ http://live.savitar.tv/BET/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MT
 #EXTINF:0,COMEDY CENTRAL
 http://live.savitar.tv/Comedy/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTMvMjAxOSA5OjM3OjA0IFBNJmhhc2hfdmFsdWU9N3Q4S1ZFdXFkUUxDNC9QUmlQYjdodz09JnZhbGlkbWludXRlcz0zNjAmaWQ9MA==
 #EXTINF:0,FREEFORM
-http://peer2.savitar.tv/Freeform/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTMvMjAxOSAxOjAwOjM2IEFNJmhhc2hfdmFsdWU9KytGc0c3akdtdlgyOFBiYS9hNnozUT09JnZhbGlkbWludXRlcz0zNjAmaWQ9MA==
+http://peer2.savitar.tv/Freeform/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTMvMjAxOSA5OjM1OjEzIFBNJmhhc2hfdmFsdWU9YVowajJUaFMzd05KOG9xZWg4b2VvQT09JnZhbGlkbWludXRlcz0zNjAmaWQ9MA==
 #EXTINF:0,FXX
-http://live.savitar.tv/FXX/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTMvMjAxOSAxOjAzOjA3IEFNJmhhc2hfdmFsdWU9WWI3MzRITTNCTEozUUxMbmVqMTA5UT09JnZhbGlkbWludXRlcz0zNjAmaWQ9MA==
+http://live.savitar.tv/FXX/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTMvMjAxOSA5OjMzOjI0IFBNJmhhc2hfdmFsdWU9Nkg1UDlIWkVQMjZxRmdLQkRHS25aZz09JnZhbGlkbWludXRlcz0zNjAmaWQ9MA==
 #EXTINF:0,TBS
-http://live.savitar.tv/TBS/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTMvMjAxOSAxMjo1OToyOCBBTSZoYXNoX3ZhbHVlPTgvVWFJaUc2Z1VHWnBnZW1ieHVrZXc9PSZ2YWxpZG1pbnV0ZXM9MzYwJmlkPTA=
+http://live.savitar.tv/TBS/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTMvMjAxOSA5OjM0OjE2IFBNJmhhc2hfdmFsdWU9Sjk4SzVrRTFWWk5ZTTFla1hBSGN4QT09JnZhbGlkbWludXRlcz0zNjAmaWQ9MA==
 #EXTINF:0,THE CW
-http://live.savitar.tv/CW/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTMvMjAxOSAxOjAxOjQ5IEFNJmhhc2hfdmFsdWU9QkRNa21COEZ1cS82Y24rd00weWpFQT09JnZhbGlkbWludXRlcz0zNjAmaWQ9MA==
+http://live.savitar.tv/CW/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTMvMjAxOSA5OjM0OjE5IFBNJmhhc2hfdmFsdWU9M0htdm1taG9JckZWdXVCMzlkbVdKQT09JnZhbGlkbWludXRlcz0zNjAmaWQ9MA==
 #EXTINF:0,TRUTV
-http://peer3.savitar.tv/TruTV/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTMvMjAxOSAxOjA0OjE1IEFNJmhhc2hfdmFsdWU9ZWIxcWJUTUNpTDlRZDY1d2Ixd3QwUT09JnZhbGlkbWludXRlcz0zNjAmaWQ9MA==
+http://peer3.savitar.tv/TruTV/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTMvMjAxOSA5OjM1OjI3IFBNJmhhc2hfdmFsdWU9anNOODBBLzc2UDU0Ry9RSk51VGlhdz09JnZhbGlkbWludXRlcz0zNjAmaWQ9MA==
 #EXTINF:0,TV LAND
-http://live.savitar.tv/TVLand/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTMvMjAxOSAxOjAzOjI2IEFNJmhhc2hfdmFsdWU9RVhESFdWWkd2UFR2NDNETXlLZkp5dz09JnZhbGlkbWludXRlcz0zNjAmaWQ9MA==
-
+http://live.savitar.tv/TVLand/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTMvMjAxOSA5OjM2OjUzIFBNJmhhc2hfdmFsdWU9ZWM3WjM5b1Q4ZXUzTmlUQlF0VElpQT09JnZhbGlkbWludXRlcz0zNjAmaWQ9MA==
 
 #EXTINF:-1 tvg-logo="https://cdn6.aptoide.com/imgs/9/2/9/92974648906048168f2b9fd2e9f3105b_icon.png" group-title="LABEL",~ 24/7 World News ~
 https://fluxustv.blogspot.com@bit.ly/fluxusfish?.m3u8
