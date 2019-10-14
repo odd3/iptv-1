@@ -1,53 +1,91 @@
 #EXTM3U
-#EXTINF:-1,OSN cinema 1
-http://livecdnh1.tvanywhere.ae/hls/cin1/02.m3u8
-#EXTINF:-1,Osn star world
-http://livecdnh1.tvanywhere.ae/hls/star_world/02.m3u8
-#EXTINF:-1,Osn star movies
-http://livecdnh1.tvanywhere.ae/hls/star_movies/02.m3u8
-#EXTINF:-1,Music now
-http://livecdnh1.tvanywhere.ae/hls/music_now/02.m3u8
-#EXTINF:-1,CINEMA 1 HD
-http://livecdnh1.tvanywhere.ae/hls/cin1/05.m3u8
-#EXTINF:-1,cinema 1 sd
-http://livecdnh1.tvanywhere.ae/hls/cin1/03.m3u8
-#EXTINF:-1,Music Now HD
-http://livecdnh1.tvanywhere.ae/hls/music_now/05.m3u8
-#EXTINF:-1,Music Now sd
-http://livecdnh1.tvanywhere.ae/hls/music_now/03.m3u8
-#EXTINF:-1,STAR MOVIES HD
-http://livecdnh1.tvanywhere.ae/hls/star_movies/05.m3u8
-#EXTINF:-1,Star Movies SD
-http://livecdnh1.tvanywhere.ae/hls/star_movies/03.m3u8
-#EXTINF:-1,STAR WORLD HD
-http://livecdnh1.tvanywhere.ae/hls/star_world/05.m3u8
-#EXTINF:-1,Star World SD
-http://livecdnh1.tvanywhere.ae/hls/star_world/03.m3u8
-#EXTINF:-1,Nat geo people HD ENGLISH
-http://livecdnh1.tvanywhere.ae/hls/nat_geo_people/05.m3u8
-#EXTINF:-1,Nat geo people SD ENGLISH
-http://livecdnh1.tvanywhere.ae/hls/nat_geo_people/02.m3u8
-#EXTINF:-1,Nat geo wild SD
-http://livecdnh1.tvanywhere.ae/hls/nat_geo_wild/02.m3u8
-#EXTINF:-1,Nat geo wild HD
-http://livecdnh1.tvanywhere.ae/hls/nat_geo_wild/05.m3u8
-#EXTINF:-1,Dmc drama sd
-http://livecdnh1.tvanywhere.ae/hls/dmcdrama/02.m3u8
-#EXTINF:-1,Dmc drama MQ
-http://livecdnh1.tvanywhere.ae/hls/dmcdrama/03.m3u8
-#EXTINF:-1,arab cinema 1 hi
-http://livecdnh1.tvanywhere.ae/hls/cin1/04.m3u8
-#EXTINF:-1,nat_geo
-http://livecdnh1.tvanywhere.ae/hls/nat_geo/04.m3u8
-#EXTINF:-1,ProSieben-Maxx
-http://livecdnh1.tvanywhere.ae/hls/music_now/04.m3u8
-#EXTINF:-1,STAR MOVIES FHD
-http://livecdnh1.tvanywhere.ae:80/hls/star_movies/04.m3u8
-#EXTINF:-1,STAR WORLD FHD
-http://livecdnh1.tvanywhere.ae:80/hls/star_world/04.m3u8
-#EXTINF:-1,STAR WORLD PREMIER FHD
-http://livecdnh1.tvanywhere.ae:80/hls/music_now/04.m3u8
-#EXTINF:-1,ARABIC | NBN HD
-http://livecdnh1.tvanywhere.ae:80/hls/nbn/05.m3u8
-#EXTINF:-1,National Geographic
-http://livecdnh1.tvanywhere.ae/hls/nat_geo/05.m3u8
+#EXTINF:-1,Fox (PITTSBURGH)
+http://162.244.82.158:8000/fox-pitts.m3u8
+#EXTINF:-1,CBS (PITTSBURGH)
+http://162.244.82.158:8000/cbs-pitts.m3u8
+#EXTINF:-1,CBS (Philly)
+http://162.244.82.158:8000/CBS-PHILLY-SD.m3u8
+#EXTINF:-1,CBS3
+http://162.244.82.158:8000/CBS3.m3u8
+#EXTINF:-1,CBS11
+http://162.244.82.158:8000/CBS11.m3u8
+#EXTINF:-1,CBS
+http://162.244.82.158:8000/WFSBChannel3.m3u8
+#EXTINF:-1,CBS58
+http://162.244.82.158:8000/CBS58.m3u8
+#EXTINF:-1,ESPN
+http://162.244.82.158:8000/ESPN.m3u8
+#EXTINF:-1,BIG10
+http://162.244.82.158:8000/BTN.m3u8
+#EXTINF:-1,Fox29
+http://162.244.82.158:8000/FOX29-SD.m3u8
+#EXTINF:-1,Fox29
+http://162.244.82.158:8000/FOX29.m3u8
+#EXTINF:-1,Fox11
+http://162.244.82.158:8000/FOX11-SD.m3u8
+#EXTINF:-1,Fox11
+http://162.244.82.158:8000/FOX11.m3u8
+#EXTINF:-1,Fox5
+http://162.244.82.158:8000/FOX5.m3u8
+#EXTINF:-1,Fox32
+http://162.244.82.158:8000/FOX32.m3u8
+#EXTINF:-1,Fox26
+http://162.244.82.158:8000/FOX26.m3u8
+#EXTINF:-1,Fox9
+http://162.244.82.158:8000/FOX9.m3u8
+#EXTINF:-1,Fox5 ATLANTA
+http://162.244.82.158:8000/FOX5ATL.m3u8
+#EXTINF:-1,Fox1O PHOENIX
+http://162.244.82.158:8000/FOX1OPHX.m3u8
+#EXTINF:-1,Fox13 TAMPA
+http://162.244.82.158:8000/FOX13TAMPA.m3u8
+#EXTINF:-1,Fox7 AUSTIN
+http://162.244.82.158:8000/FOX7AUSTIN.m3u8
+#EXTINF:-1,Fox46 CHARLOTTE
+http://162.244.82.158:8000/FOX46CHA.m3u8
+#EXTINF:-1,Fox51 GAINESVILLE
+http://162.244.82.158:8000/FOX51BAINESVILLE-FL.m3u8
+#EXTINF:-1,Fox35 ORLANDO
+http://162.244.82.158:8000/FOX35ORL.m3u8
+#EXTINF:-1,TBS East
+http://162.244.82.158:8000/TBSEast.m3u8
+#EXTINF:-1,TBS West
+http://162.244.82.158:8000/TBSWest.m3u8
+#EXTINF:-1,TNT East
+http://162.244.82.158:8000/TNTEast.m3u8
+#EXTINF:-1,TNT West
+http://162.244.82.158:8000/TNTWest.m3u8
+#EXTINF:-1,USA East
+http://162.244.82.158:8000/USAEast.m3u8
+#EXTINF:-1,USA West
+http://162.244.82.158:8000/USAWest.m3u8
+#EXTINF:-1,SHOWTIME East
+http://162.244.82.158:8000/ShowtimeEast.m3u8
+#EXTINF:-1,SHOWTIME West
+http://162.244.82.158:8000/ShowtimeWest.m3u8
+#EXTINF:-1,HBO East
+http://162.244.82.158:8000/HBOEast.m3u8
+#EXTINF:-1,HBO West
+http://162.244.82.158:8000/HBOWEst.m3u8
+#EXTINF:-1,Cinemax East
+http://162.244.82.158:8000/CinemaxEast.m3u8
+#EXTINF:-1,Cinemax West
+http://162.244.82.158:8000/CinemaxWest.m3u8
+#EXTINF:-1,FS1
+http://162.244.82.158:8000/FS1.m3u8
+#EXTINF:-1,NBC5
+http://162.244.82.158:8000/NBC5.m3u8
+#EXTINF:-1,HLN
+http://162.244.82.158:8000/HLN.m3u8
+#EXTINF:-1,Freeform
+http://162.244.82.158:8000/Freeform.m3u8
+#EXTINF:-1,Freeform SD
+http://162.244.82.158:8000/Freeform-SD.m3u8
+#EXTINF:-1,NFL Network
+http://162.244.82.158:8000/NFLNetwork.m3u8
+#EXTINF:-1,ABC 7
+http://162.244.82.158:8000/ABC7.m3u8
+#EXTINF:-1,ABC 11
+http://162.244.82.158:8000/ABC11.m3u8
+#EXTINF:-1,ABC 6
+http://162.244.82.158:8000/ABC6.m3u8
