@@ -54,6 +54,9 @@ http://livecdnh1.tvanywhere.ae/hls/nat_geo_wild/05.m3u8
 #EXTINF:0,NATIONAL GEO PEOPLE
 http://livecdnh1.tvanywhere.ae:80/hls/nat_geo_people/05.m3u8
 
+#EXTINF:0,NBC
+http://161.0.157.51/PLTV/88888888/224/3221227040/3.m3u8
+
 #EXTINF:0,NICKELODEON
 http://ms-azure-video.gslb.startimestv.com/live/NICKELODEON_836_250_320x240_191618/playlist.m3u8
 
