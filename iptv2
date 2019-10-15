@@ -31,7 +31,8 @@ http://live.savitar.tv/DisneyXD/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3Rpb
 http://ms-azure-video.gslb.startimestv.com/live/NICKELODEON_836_250_320x240_191618/playlist.m3u8
 #EXTINF:0,NICK TOONS
 http://live.savitar.tv/Nicktoons/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTMvMjAxOSA1OjI0OjQyIFBNJmhhc2hfdmFsdWU9Vlk3YlZFaVB5RE55VEV2dHpkV0g4Zz09JnZhbGlkbWludXRlcz0zNjAmaWQ9MA==
-
+#EXTINF:0,PBS
+http://190.80.3.28/PBS/PBS.isml/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn6.aptoide.com/imgs/9/2/9/92974648906048168f2b9fd2e9f3105b_icon.png" group-title="LABEL",~ 24/7 World News ~
 https://fluxustv.blogspot.com@bit.ly/fluxusfish?.m3u8
