@@ -9,7 +9,7 @@ http://peer2.savitar.tv/Freeform/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3Rp
 #EXTINF:0,FXX
 http://live.savitar.tv/FXX/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTMvMjAxOSA5OjMzOjI0IFBNJmhhc2hfdmFsdWU9Nkg1UDlIWkVQMjZxRmdLQkRHS25aZz09JnZhbGlkbWludXRlcz0zNjAmaWQ9MA==
 #EXTINF:0,TBS
-http://live.savitar.tv/TBS/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTMvMjAxOSA5OjM0OjE2IFBNJmhhc2hfdmFsdWU9Sjk4SzVrRTFWWk5ZTTFla1hBSGN4QT09JnZhbGlkbWludXRlcz0zNjAmaWQ9MA==
+https://cvtv.cvalley.net/hls/TBSHD/TBSHD.m3u8
 #EXTINF:0,THE CW
 http://live.savitar.tv/CW/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTMvMjAxOSA5OjM0OjE5IFBNJmhhc2hfdmFsdWU9M0htdm1taG9JckZWdXVCMzlkbVdKQT09JnZhbGlkbWludXRlcz0zNjAmaWQ9MA==
 #EXTINF:0,TRUTV
