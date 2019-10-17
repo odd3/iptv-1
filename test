@@ -89,3 +89,194 @@ http://162.244.82.158:8000/ABC7.m3u8
 http://162.244.82.158:8000/ABC11.m3u8
 #EXTINF:-1,ABC 6
 http://162.244.82.158:8000/ABC6.m3u8
+
+#EXTINF:-1,UK: ITV4 UK
+http://iptv.kosiptv.com:1557/live/Sasha/Sasha/4107.ts
+#EXTINF:-1,UK: ITV3 UK
+http://iptv.kosiptv.com:1557/live/Sasha/Sasha/4105.ts
+#EXTINF:-1,UK: ITV3 1 UK
+http://iptv.kosiptv.com:1557/live/Sasha/Sasha/4106.ts
+#EXTINF:-1,UK: ITV2 UK
+http://iptv.kosiptv.com:1557/live/Sasha/Sasha/4103.ts
+#EXTINF:-1,UK: ITV2 1 UK
+http://iptv.kosiptv.com:1557/live/Sasha/Sasha/4104.ts
+#EXTINF:-1,UK: ITV UK
+http://iptv.kosiptv.com:1557/live/Sasha/Sasha/4100.ts
+#EXTINF:-1,UK: ITV FHD UK
+http://iptv.kosiptv.com:1557/live/Sasha/Sasha/4101.ts
+#EXTINF:-1,UK: ITV Be UK
+http://iptv.kosiptv.com:1557/live/Sasha/Sasha/4108.ts
+#EXTINF:-1,UK: ITV 1 UK
+http://iptv.kosiptv.com:1557/live/Sasha/Sasha/4102.ts
+#EXTINF:-1,UK: Watch UK
+http://iptv.kosiptv.com:1557/live/Sasha/Sasha/4110.ts
+#EXTINF:-1,UK: TLC UK
+http://iptv.kosiptv.com:1557/live/Sasha/Sasha/4112.ts
+#EXTINF:-1,UK: TCM UK
+http://iptv.kosiptv.com:1557/live/Sasha/Sasha/4113.ts
+#EXTINF:-1,UK: Syfy UK
+http://iptv.kosiptv.com:1557/live/Sasha/Sasha/4114.ts
+#EXTINF:-1,UK: News UK
+http://iptv.kosiptv.com:1557/live/Sasha/Sasha/4115.ts
+#EXTINF:-1,UK: Atlantic HD UK
+http://iptv.kosiptv.com:1557/live/Sasha/Sasha/4116.ts
+#EXTINF:-1,UK: 2 UK
+http://iptv.kosiptv.com:1557/live/Sasha/Sasha/4119.ts
+#EXTINF:-1,UK: 1 UK
+http://iptv.kosiptv.com:1557/live/Sasha/Sasha/4118.ts
+#EXTINF:-1,UK: Really UK
+http://iptv.kosiptv.com:1557/live/Sasha/Sasha/4111.ts
+#EXTINF:-1,UK: Quest UK
+http://iptv.kosiptv.com:1557/live/Sasha/Sasha/4120.ts
+#EXTINF:-1,UK: Quest Red UK
+http://iptv.kosiptv.com:1557/live/Sasha/Sasha/4121.ts
+#EXTINF:-1,UK: Pick UK
+http://iptv.kosiptv.com:1557/live/Sasha/Sasha/4109.ts
+#EXTINF:-1,UK: More 4 UK
+http://iptv.kosiptv.com:1557/live/Sasha/Sasha/4122.ts
+#EXTINF:-1,UK: Lifetime UK
+http://iptv.kosiptv.com:1557/live/Sasha/Sasha/4123.ts
+#EXTINF:-1,UK: Good Food UK
+http://iptv.kosiptv.com:1557/live/Sasha/Sasha/4124.ts
+#EXTINF:-1,UK: GOLD UK
+http://iptv.kosiptv.com:1557/live/Sasha/Sasha/4125.ts
+#EXTINF:-1,UK: FOX UK
+http://iptv.kosiptv.com:1557/live/Sasha/Sasha/4126.ts
+#EXTINF:-1,UK: Food Network UK
+http://iptv.kosiptv.com:1557/live/Sasha/Sasha/4127.ts
+#EXTINF:-1,UK: Food Network 1 UK
+http://iptv.kosiptv.com:1557/live/Sasha/Sasha/4128.ts
+#EXTINF:-1,UK: Eden UK
+http://iptv.kosiptv.com:1557/live/Sasha/Sasha/4129.ts
+#EXTINF:-1,UK: E4 HD UK
+http://iptv.kosiptv.com:1557/live/Sasha/Sasha/4130.ts
+#EXTINF:-1,UK: E! UK
+http://iptv.kosiptv.com:1557/live/Sasha/Sasha/4131.ts
+#EXTINF:-1,UK: Dave ja vu UK
+http://iptv.kosiptv.com:1557/live/Sasha/Sasha/4132.ts
+#EXTINF:-1,UK: Dave HD UK
+http://iptv.kosiptv.com:1557/live/Sasha/Sasha/4133.ts
+#EXTINF:-1,UK: Comedy Central UK
+http://iptv.kosiptv.com:1557/live/Sasha/Sasha/4134.ts
+#EXTINF:-1,UK: CNN UK
+http://iptv.kosiptv.com:1557/live/Sasha/Sasha/4135.ts
+#EXTINF:-1,UK: Channel 5 UK
+http://iptv.kosiptv.com:1557/live/Sasha/Sasha/4099.ts
+#EXTINF:-1,UK: Channel 4 North UK
+http://iptv.kosiptv.com:1557/live/Sasha/Sasha/4098.ts
+#EXTINF:-1,UK: Challenge UK
+http://iptv.kosiptv.com:1557/live/Sasha/Sasha/4136.ts
+#EXTINF:-1,UK: BBC Two Scotland UK
+http://iptv.kosiptv.com:1557/live/Sasha/Sasha/4092.ts
+#EXTINF:-1,UK: BBC Two HD UK
+http://iptv.kosiptv.com:1557/live/Sasha/Sasha/4091.ts
+#EXTINF:-1,UK: BBC Scotland
+http://iptv.kosiptv.com:1557/live/Sasha/Sasha/4095.ts
+#EXTINF:-1,UK: BBC Parliament UK
+http://iptv.kosiptv.com:1557/live/Sasha/Sasha/4097.ts
+#EXTINF:-1,UK: BBC One Scotland UK
+http://iptv.kosiptv.com:1557/live/Sasha/Sasha/4090.ts
+#EXTINF:-1,UK: BBC One HD UK
+http://iptv.kosiptv.com:1557/live/Sasha/Sasha/4089.ts
+#EXTINF:-1,UK: BBC News UK
+http://iptv.kosiptv.com:1557/live/Sasha/Sasha/4096.ts
+#EXTINF:-1,UK: BBC Four UK
+http://iptv.kosiptv.com:1557/live/Sasha/Sasha/4093.ts
+#EXTINF:-1,UK: BBC Alba UK
+http://iptv.kosiptv.com:1557/live/Sasha/Sasha/4094.ts
+#EXTINF:-1,UK: 4seven UK
+http://iptv.kosiptv.com:1557/live/Sasha/Sasha/4117.ts
+#EXTINF:-1,UK: S4C
+http://iptv.kosiptv.com:1557/live/Sasha/Sasha/6280.ts
+#EXTINF:-1,UK: RTE JR
+http://iptv.kosiptv.com:1557/live/Sasha/Sasha/6281.ts
+#EXTINF:-1,UK: REAL LIVES
+http://iptv.kosiptv.com:1557/live/Sasha/Sasha/6282.ts
+#EXTINF:-1,UK: Racing FHD
+http://iptv.kosiptv.com:1557/live/Sasha/Sasha/6283.ts
+#EXTINF:-1,UK: Quest Red
+http://iptv.kosiptv.com:1557/live/Sasha/Sasha/6284.ts
+#EXTINF:-1,UK: QUEST
+http://iptv.kosiptv.com:1557/live/Sasha/Sasha/6285.ts
+#EXTINF:-1,UK: PTC Punjabi
+http://iptv.kosiptv.com:1557/live/Sasha/Sasha/6286.ts
+#EXTINF:-1,UK: POP TV
+http://iptv.kosiptv.com:1557/live/Sasha/Sasha/6287.ts
+#EXTINF:-1,UK: pop Max
+http://iptv.kosiptv.com:1557/live/Sasha/Sasha/6288.ts
+#EXTINF:-1,UK: PICK
+http://iptv.kosiptv.com:1557/live/Sasha/Sasha/6289.ts
+#EXTINF:-1,UK: NickToons
+http://iptv.kosiptv.com:1557/live/Sasha/Sasha/6290.ts
+#EXTINF:-1,UK: Nick Junior
+http://iptv.kosiptv.com:1557/live/Sasha/Sasha/6291.ts
+#EXTINF:-1,UK: More4
+http://iptv.kosiptv.com:1557/live/Sasha/Sasha/6292.ts
+#EXTINF:-1,UK: Lazio TG
+http://iptv.kosiptv.com:1557/live/Sasha/Sasha/6293.ts
+#EXTINF:-1,UK: Kerrang
+http://iptv.kosiptv.com:1557/live/Sasha/Sasha/6294.ts
+#EXTINF:-1,UK: itv 3 FHD
+http://iptv.kosiptv.com:1557/live/Sasha/Sasha/6295.ts
+#EXTINF:-1,UK: itv 1 HD
+http://iptv.kosiptv.com:1557/live/Sasha/Sasha/6296.ts
+#EXTINF:-1,UK: Home
+http://iptv.kosiptv.com:1557/live/Sasha/Sasha/6297.ts
+#EXTINF:-1,UK: h&h
+http://iptv.kosiptv.com:1557/live/Sasha/Sasha/6298.ts
+#EXTINF:-1,UK: GOLF
+http://iptv.kosiptv.com:1557/live/Sasha/Sasha/6299.ts
+#EXTINF:-1,UK: GOLD FHD
+http://iptv.kosiptv.com:1557/live/Sasha/Sasha/6300.ts
+#EXTINF:-1,UK: Game One
+http://iptv.kosiptv.com:1557/live/Sasha/Sasha/6301.ts
+#EXTINF:-1,UK: FRANCE 24
+http://iptv.kosiptv.com:1557/live/Sasha/Sasha/6302.ts
+#EXTINF:-1,UK: Film 4 HD
+http://iptv.kosiptv.com:1557/live/Sasha/Sasha/6303.ts
+#EXTINF:-1,UK: EUROSPORT 1 HD
+http://iptv.kosiptv.com:1557/live/Sasha/Sasha/6304.ts
+#EXTINF:-1,UK: euronews
+http://iptv.kosiptv.com:1557/live/Sasha/Sasha/6305.ts
+#EXTINF:-1,UK: E!
+http://iptv.kosiptv.com:1557/live/Sasha/Sasha/6306.ts
+#EXTINF:-1,UK: DISNEY JUNIOR HD
+http://iptv.kosiptv.com:1557/live/Sasha/Sasha/6307.ts
+#EXTINF:-1,UK: Culao 4
+http://iptv.kosiptv.com:1557/live/Sasha/Sasha/6308.ts
+#EXTINF:-1,UK: CHANNEL 5 HD
+http://iptv.kosiptv.com:1557/live/Sasha/Sasha/6309.ts
+#EXTINF:-1,UK: Challenge HD
+http://iptv.kosiptv.com:1557/live/Sasha/Sasha/6310.ts
+#EXTINF:-1,UK: CBS Reality
+http://iptv.kosiptv.com:1557/live/Sasha/Sasha/6311.ts
+#EXTINF:-1,UK: CBS Justice HD
+http://iptv.kosiptv.com:1557/live/Sasha/Sasha/6312.ts
+#EXTINF:-1,UK: CARTOON NETWORK HD
+http://iptv.kosiptv.com:1557/live/Sasha/Sasha/6313.ts
+#EXTINF:-1,UK: Boing
+http://iptv.kosiptv.com:1557/live/Sasha/Sasha/6314.ts
+#EXTINF:-1,UK: BBC NEWS
+http://iptv.kosiptv.com:1557/live/Sasha/Sasha/6315.ts
+#EXTINF:-1,UK: BBC HD
+http://iptv.kosiptv.com:1557/live/Sasha/Sasha/6316.ts
+#EXTINF:-1,UK: BBC 2 HD
+http://iptv.kosiptv.com:1557/live/Sasha/Sasha/6317.ts
+#EXTINF:-1,UK: bbc 1
+http://iptv.kosiptv.com:1557/live/Sasha/Sasha/6318.ts
+#EXTINF:-1,UK: AMC HD
+http://iptv.kosiptv.com:1557/live/Sasha/Sasha/6319.ts
+#EXTINF:-1,UK: ALJAZEERA HD
+http://iptv.kosiptv.com:1557/live/Sasha/Sasha/6320.ts
+#EXTINF:-1,UK: 5 Star
+http://iptv.kosiptv.com:1557/live/Sasha/Sasha/6321.ts
+#EXTINF:-1,UK: World Fight Channel
+http://iptv.kosiptv.com:1557/live/Sasha/Sasha/6275.ts
+#EXTINF:-1,UK: Voyage
+http://iptv.kosiptv.com:1557/live/Sasha/Sasha/6276.ts
+#EXTINF:-1,UK: Trek
+http://iptv.kosiptv.com:1557/live/Sasha/Sasha/6277.ts
+#EXTINF:-1,UK: TG4
+http://iptv.kosiptv.com:1557/live/Sasha/Sasha/6278.ts
+#EXTINF:-1,UK: SONY Max
+http://iptv.kosiptv.com:1557/live/Sasha/Sasha/6279.ts
