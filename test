@@ -90,193 +90,665 @@ http://162.244.82.158:8000/ABC11.m3u8
 #EXTINF:-1,ABC 6
 http://162.244.82.158:8000/ABC6.m3u8
 
-#EXTINF:-1,UK: ITV4 UK
-http://iptv.kosiptv.com:1557/live/Sasha/Sasha/4107.ts
-#EXTINF:-1,UK: ITV3 UK
-http://iptv.kosiptv.com:1557/live/Sasha/Sasha/4105.ts
-#EXTINF:-1,UK: ITV3 1 UK
-http://iptv.kosiptv.com:1557/live/Sasha/Sasha/4106.ts
-#EXTINF:-1,UK: ITV2 UK
-http://iptv.kosiptv.com:1557/live/Sasha/Sasha/4103.ts
-#EXTINF:-1,UK: ITV2 1 UK
-http://iptv.kosiptv.com:1557/live/Sasha/Sasha/4104.ts
-#EXTINF:-1,UK: ITV UK
-http://iptv.kosiptv.com:1557/live/Sasha/Sasha/4100.ts
-#EXTINF:-1,UK: ITV FHD UK
-http://iptv.kosiptv.com:1557/live/Sasha/Sasha/4101.ts
-#EXTINF:-1,UK: ITV Be UK
-http://iptv.kosiptv.com:1557/live/Sasha/Sasha/4108.ts
-#EXTINF:-1,UK: ITV 1 UK
-http://iptv.kosiptv.com:1557/live/Sasha/Sasha/4102.ts
-#EXTINF:-1,UK: Watch UK
-http://iptv.kosiptv.com:1557/live/Sasha/Sasha/4110.ts
-#EXTINF:-1,UK: TLC UK
-http://iptv.kosiptv.com:1557/live/Sasha/Sasha/4112.ts
-#EXTINF:-1,UK: TCM UK
-http://iptv.kosiptv.com:1557/live/Sasha/Sasha/4113.ts
-#EXTINF:-1,UK: Syfy UK
-http://iptv.kosiptv.com:1557/live/Sasha/Sasha/4114.ts
-#EXTINF:-1,UK: News UK
-http://iptv.kosiptv.com:1557/live/Sasha/Sasha/4115.ts
-#EXTINF:-1,UK: Atlantic HD UK
-http://iptv.kosiptv.com:1557/live/Sasha/Sasha/4116.ts
-#EXTINF:-1,UK: 2 UK
-http://iptv.kosiptv.com:1557/live/Sasha/Sasha/4119.ts
-#EXTINF:-1,UK: 1 UK
-http://iptv.kosiptv.com:1557/live/Sasha/Sasha/4118.ts
-#EXTINF:-1,UK: Really UK
-http://iptv.kosiptv.com:1557/live/Sasha/Sasha/4111.ts
-#EXTINF:-1,UK: Quest UK
-http://iptv.kosiptv.com:1557/live/Sasha/Sasha/4120.ts
-#EXTINF:-1,UK: Quest Red UK
-http://iptv.kosiptv.com:1557/live/Sasha/Sasha/4121.ts
-#EXTINF:-1,UK: Pick UK
-http://iptv.kosiptv.com:1557/live/Sasha/Sasha/4109.ts
-#EXTINF:-1,UK: More 4 UK
-http://iptv.kosiptv.com:1557/live/Sasha/Sasha/4122.ts
-#EXTINF:-1,UK: Lifetime UK
-http://iptv.kosiptv.com:1557/live/Sasha/Sasha/4123.ts
-#EXTINF:-1,UK: Good Food UK
-http://iptv.kosiptv.com:1557/live/Sasha/Sasha/4124.ts
-#EXTINF:-1,UK: GOLD UK
-http://iptv.kosiptv.com:1557/live/Sasha/Sasha/4125.ts
-#EXTINF:-1,UK: FOX UK
-http://iptv.kosiptv.com:1557/live/Sasha/Sasha/4126.ts
-#EXTINF:-1,UK: Food Network UK
-http://iptv.kosiptv.com:1557/live/Sasha/Sasha/4127.ts
-#EXTINF:-1,UK: Food Network 1 UK
-http://iptv.kosiptv.com:1557/live/Sasha/Sasha/4128.ts
-#EXTINF:-1,UK: Eden UK
-http://iptv.kosiptv.com:1557/live/Sasha/Sasha/4129.ts
-#EXTINF:-1,UK: E4 HD UK
-http://iptv.kosiptv.com:1557/live/Sasha/Sasha/4130.ts
-#EXTINF:-1,UK: E! UK
-http://iptv.kosiptv.com:1557/live/Sasha/Sasha/4131.ts
-#EXTINF:-1,UK: Dave ja vu UK
-http://iptv.kosiptv.com:1557/live/Sasha/Sasha/4132.ts
-#EXTINF:-1,UK: Dave HD UK
-http://iptv.kosiptv.com:1557/live/Sasha/Sasha/4133.ts
-#EXTINF:-1,UK: Comedy Central UK
-http://iptv.kosiptv.com:1557/live/Sasha/Sasha/4134.ts
-#EXTINF:-1,UK: CNN UK
-http://iptv.kosiptv.com:1557/live/Sasha/Sasha/4135.ts
-#EXTINF:-1,UK: Channel 5 UK
-http://iptv.kosiptv.com:1557/live/Sasha/Sasha/4099.ts
-#EXTINF:-1,UK: Channel 4 North UK
-http://iptv.kosiptv.com:1557/live/Sasha/Sasha/4098.ts
-#EXTINF:-1,UK: Challenge UK
-http://iptv.kosiptv.com:1557/live/Sasha/Sasha/4136.ts
-#EXTINF:-1,UK: BBC Two Scotland UK
-http://iptv.kosiptv.com:1557/live/Sasha/Sasha/4092.ts
-#EXTINF:-1,UK: BBC Two HD UK
-http://iptv.kosiptv.com:1557/live/Sasha/Sasha/4091.ts
-#EXTINF:-1,UK: BBC Scotland
-http://iptv.kosiptv.com:1557/live/Sasha/Sasha/4095.ts
-#EXTINF:-1,UK: BBC Parliament UK
-http://iptv.kosiptv.com:1557/live/Sasha/Sasha/4097.ts
-#EXTINF:-1,UK: BBC One Scotland UK
-http://iptv.kosiptv.com:1557/live/Sasha/Sasha/4090.ts
-#EXTINF:-1,UK: BBC One HD UK
-http://iptv.kosiptv.com:1557/live/Sasha/Sasha/4089.ts
-#EXTINF:-1,UK: BBC News UK
-http://iptv.kosiptv.com:1557/live/Sasha/Sasha/4096.ts
-#EXTINF:-1,UK: BBC Four UK
-http://iptv.kosiptv.com:1557/live/Sasha/Sasha/4093.ts
-#EXTINF:-1,UK: BBC Alba UK
-http://iptv.kosiptv.com:1557/live/Sasha/Sasha/4094.ts
-#EXTINF:-1,UK: 4seven UK
-http://iptv.kosiptv.com:1557/live/Sasha/Sasha/4117.ts
-#EXTINF:-1,UK: S4C
-http://iptv.kosiptv.com:1557/live/Sasha/Sasha/6280.ts
-#EXTINF:-1,UK: RTE JR
-http://iptv.kosiptv.com:1557/live/Sasha/Sasha/6281.ts
-#EXTINF:-1,UK: REAL LIVES
-http://iptv.kosiptv.com:1557/live/Sasha/Sasha/6282.ts
-#EXTINF:-1,UK: Racing FHD
-http://iptv.kosiptv.com:1557/live/Sasha/Sasha/6283.ts
-#EXTINF:-1,UK: Quest Red
-http://iptv.kosiptv.com:1557/live/Sasha/Sasha/6284.ts
-#EXTINF:-1,UK: QUEST
-http://iptv.kosiptv.com:1557/live/Sasha/Sasha/6285.ts
-#EXTINF:-1,UK: PTC Punjabi
-http://iptv.kosiptv.com:1557/live/Sasha/Sasha/6286.ts
-#EXTINF:-1,UK: POP TV
-http://iptv.kosiptv.com:1557/live/Sasha/Sasha/6287.ts
-#EXTINF:-1,UK: pop Max
-http://iptv.kosiptv.com:1557/live/Sasha/Sasha/6288.ts
-#EXTINF:-1,UK: PICK
-http://iptv.kosiptv.com:1557/live/Sasha/Sasha/6289.ts
-#EXTINF:-1,UK: NickToons
-http://iptv.kosiptv.com:1557/live/Sasha/Sasha/6290.ts
-#EXTINF:-1,UK: Nick Junior
-http://iptv.kosiptv.com:1557/live/Sasha/Sasha/6291.ts
-#EXTINF:-1,UK: More4
-http://iptv.kosiptv.com:1557/live/Sasha/Sasha/6292.ts
-#EXTINF:-1,UK: Lazio TG
-http://iptv.kosiptv.com:1557/live/Sasha/Sasha/6293.ts
-#EXTINF:-1,UK: Kerrang
-http://iptv.kosiptv.com:1557/live/Sasha/Sasha/6294.ts
-#EXTINF:-1,UK: itv 3 FHD
-http://iptv.kosiptv.com:1557/live/Sasha/Sasha/6295.ts
-#EXTINF:-1,UK: itv 1 HD
-http://iptv.kosiptv.com:1557/live/Sasha/Sasha/6296.ts
-#EXTINF:-1,UK: Home
-http://iptv.kosiptv.com:1557/live/Sasha/Sasha/6297.ts
-#EXTINF:-1,UK: h&h
-http://iptv.kosiptv.com:1557/live/Sasha/Sasha/6298.ts
-#EXTINF:-1,UK: GOLF
-http://iptv.kosiptv.com:1557/live/Sasha/Sasha/6299.ts
-#EXTINF:-1,UK: GOLD FHD
-http://iptv.kosiptv.com:1557/live/Sasha/Sasha/6300.ts
-#EXTINF:-1,UK: Game One
-http://iptv.kosiptv.com:1557/live/Sasha/Sasha/6301.ts
-#EXTINF:-1,UK: FRANCE 24
-http://iptv.kosiptv.com:1557/live/Sasha/Sasha/6302.ts
-#EXTINF:-1,UK: Film 4 HD
-http://iptv.kosiptv.com:1557/live/Sasha/Sasha/6303.ts
-#EXTINF:-1,UK: EUROSPORT 1 HD
-http://iptv.kosiptv.com:1557/live/Sasha/Sasha/6304.ts
-#EXTINF:-1,UK: euronews
-http://iptv.kosiptv.com:1557/live/Sasha/Sasha/6305.ts
-#EXTINF:-1,UK: E!
-http://iptv.kosiptv.com:1557/live/Sasha/Sasha/6306.ts
-#EXTINF:-1,UK: DISNEY JUNIOR HD
-http://iptv.kosiptv.com:1557/live/Sasha/Sasha/6307.ts
-#EXTINF:-1,UK: Culao 4
-http://iptv.kosiptv.com:1557/live/Sasha/Sasha/6308.ts
-#EXTINF:-1,UK: CHANNEL 5 HD
-http://iptv.kosiptv.com:1557/live/Sasha/Sasha/6309.ts
-#EXTINF:-1,UK: Challenge HD
-http://iptv.kosiptv.com:1557/live/Sasha/Sasha/6310.ts
-#EXTINF:-1,UK: CBS Reality
-http://iptv.kosiptv.com:1557/live/Sasha/Sasha/6311.ts
-#EXTINF:-1,UK: CBS Justice HD
-http://iptv.kosiptv.com:1557/live/Sasha/Sasha/6312.ts
-#EXTINF:-1,UK: CARTOON NETWORK HD
-http://iptv.kosiptv.com:1557/live/Sasha/Sasha/6313.ts
-#EXTINF:-1,UK: Boing
-http://iptv.kosiptv.com:1557/live/Sasha/Sasha/6314.ts
-#EXTINF:-1,UK: BBC NEWS
-http://iptv.kosiptv.com:1557/live/Sasha/Sasha/6315.ts
-#EXTINF:-1,UK: BBC HD
-http://iptv.kosiptv.com:1557/live/Sasha/Sasha/6316.ts
-#EXTINF:-1,UK: BBC 2 HD
-http://iptv.kosiptv.com:1557/live/Sasha/Sasha/6317.ts
-#EXTINF:-1,UK: bbc 1
-http://iptv.kosiptv.com:1557/live/Sasha/Sasha/6318.ts
-#EXTINF:-1,UK: AMC HD
-http://iptv.kosiptv.com:1557/live/Sasha/Sasha/6319.ts
-#EXTINF:-1,UK: ALJAZEERA HD
-http://iptv.kosiptv.com:1557/live/Sasha/Sasha/6320.ts
-#EXTINF:-1,UK: 5 Star
-http://iptv.kosiptv.com:1557/live/Sasha/Sasha/6321.ts
-#EXTINF:-1,UK: World Fight Channel
-http://iptv.kosiptv.com:1557/live/Sasha/Sasha/6275.ts
-#EXTINF:-1,UK: Voyage
-http://iptv.kosiptv.com:1557/live/Sasha/Sasha/6276.ts
-#EXTINF:-1,UK: Trek
-http://iptv.kosiptv.com:1557/live/Sasha/Sasha/6277.ts
-#EXTINF:-1,UK: TG4
-http://iptv.kosiptv.com:1557/live/Sasha/Sasha/6278.ts
-#EXTINF:-1,UK: SONY Max
-http://iptv.kosiptv.com:1557/live/Sasha/Sasha/6279.ts
+#EXTINF:-1,Bravo
+http://185.132.134.141:9090/load/1a8d7562c9df/4.mpegts
+#EXTINF:-1,CBS
+http://185.132.134.141:9090/load/1a8d7562c9df/28.mpegts
+#EXTINF:-1,TBS
+http://185.132.134.141:9090/load/1a8d7562c9df/6.mpegts
+#EXTINF:-1,TNT
+http://185.132.134.141:9090/load/1a8d7562c9df/21.mpegts
+#EXTINF:-1,SyFy
+http://185.132.134.141:9090/load/1a8d7562c9df/7.mpegts
+#EXTINF:-1,USA
+http://185.132.134.141:9090/load/1a8d7562c9df/8.mpegts
+#EXTINF:-1,E!
+http://185.132.134.141:9090/load/1a8d7562c9df/9.mpegts
+#EXTINF:-1,BET
+http://185.132.134.141:9090/load/1a8d7562c9df/10.mpegts
+#EXTINF:-1,BBC America
+http://185.132.134.141:9090/load/1a8d7562c9df/11.mpegts
+#EXTINF:-1,FOX
+http://185.132.134.141:9090/load/1a8d7562c9df/12.mpegts
+#EXTINF:-1,FX
+http://185.132.134.141:9090/load/1a8d7562c9df/13.mpegts
+#EXTINF:-1,FXX
+http://185.132.134.141:9090/load/1a8d7562c9df/14.mpegts
+#EXTINF:-1,NBC
+http://185.132.134.141:9090/load/1a8d7562c9df/1.mpegts
+#EXTINF:-1,FYI
+http://185.132.134.141:9090/load/1a8d7562c9df/15.mpegts
+#EXTINF:-1,Hallmark
+http://185.132.134.141:9090/load/1a8d7562c9df/16.mpegts
+#EXTINF:-1,IFC
+http://185.132.134.141:9090/load/1a8d7562c9df/17.mpegts
+#EXTINF:-1,Lifetime
+http://185.132.134.141:9090/load/1a8d7562c9df/19.mpegts
+#EXTINF:-1,ION
+http://185.132.134.141:9090/load/1a8d7562c9df/18.mpegts
+#EXTINF:-1,El Rey Network
+http://185.132.134.141:9090/load/1a8d7562c9df/42.mpegts
+#EXTINF:-1,Sundance
+http://185.132.134.141:9090/load/1a8d7562c9df/47.mpegts
+#EXTINF:-1,Paramount
+http://185.132.134.141:9090/load/1a8d7562c9df/48.mpegts
+#EXTINF:-1,FreeForm
+http://185.132.134.141:9090/load/1a8d7562c9df/49.mpegts
+#EXTINF:-1,TV Land
+http://185.132.134.141:9090/load/1a8d7562c9df/40.mpegts
+#EXTINF:-1,TLC
+http://185.132.134.141:9090/load/1a8d7562c9df/22.mpegts
+#EXTINF:-1,TruTv
+http://185.132.134.141:9090/load/1a8d7562c9df/35.mpegts
+#EXTINF:-1,TV One
+http://185.132.134.141:9090/load/1a8d7562c9df/41.mpegts
+#EXTINF:-1,FUSE
+http://185.132.134.141:9090/load/1a8d7562c9df/25.mpegts
+#EXTINF:-1,Fusion
+http://185.132.134.141:9090/load/1a8d7562c9df/26.mpegts
+#EXTINF:-1,OWN
+http://185.132.134.141:9090/load/1a8d7562c9df/24.mpegts
+#EXTINF:-1,Oxygen
+http://185.132.134.141:9090/load/1a8d7562c9df/23.mpegts
+#EXTINF:-1,VH1
+http://185.132.134.141:9090/load/1a8d7562c9df/34.mpegts
+#EXTINF:-1,WE TV
+http://185.132.134.141:9090/load/1a8d7562c9df/20.mpegts
+#EXTINF:-1,Viceland
+http://185.132.134.141:9090/load/1a8d7562c9df/45.mpegts
+#EXTINF:-1,CW
+http://185.132.134.141:9090/load/1a8d7562c9df/27.mpegts
+#EXTINF:-1,Revolt
+http://185.132.134.141:9090/load/1a8d7562c9df/36.mpegts
+#EXTINF:-1,MTV
+http://185.132.134.141:9090/load/1a8d7562c9df/43.mpegts
+#EXTINF:-1,MTV2
+http://185.132.134.141:9090/load/1a8d7562c9df/44.mpegts
+#EXTINF:-1,QVC
+http://185.132.134.141:9090/load/1a8d7562c9df/37.mpegts
+#EXTINF:-1,QVC2
+http://185.132.134.141:9090/load/1a8d7562c9df/38.mpegts
+#EXTINF:-1,Cinemax
+http://185.132.134.141:9090/load/1a8d7562c9df/50.mpegts
+#EXTINF:-1,MoreMax
+http://185.132.134.141:9090/load/1a8d7562c9df/51.mpegts
+#EXTINF:-1,Thrillermax
+http://185.132.134.141:9090/load/1a8d7562c9df/52.mpegts
+#EXTINF:-1,HBO
+http://185.132.134.141:9090/load/1a8d7562c9df/53.mpegts
+#EXTINF:-1,HBO 2
+http://185.132.134.141:9090/load/1a8d7562c9df/54.mpegts
+#EXTINF:-1,HBO Comedy
+http://185.132.134.141:9090/load/1a8d7562c9df/55.mpegts
+#EXTINF:-1,HBO Signature
+http://185.132.134.141:9090/load/1a8d7562c9df/56.mpegts
+#EXTINF:-1,HBO Zone
+http://185.132.134.141:9090/load/1a8d7562c9df/57.mpegts
+#EXTINF:-1,Showtime
+http://185.132.134.141:9090/load/1a8d7562c9df/58.mpegts
+#EXTINF:-1,Showtime 2
+http://185.132.134.141:9090/load/1a8d7562c9df/59.mpegts
+#EXTINF:-1,Showtime Showcase
+http://185.132.134.141:9090/load/1a8d7562c9df/60.mpegts
+#EXTINF:-1,Showtime Beyond
+http://185.132.134.141:9090/load/1a8d7562c9df/61.mpegts
+#EXTINF:-1,Showtime Extreme
+http://185.132.134.141:9090/load/1a8d7562c9df/62.mpegts
+#EXTINF:-1, Cinema Action & Adventure
+http://185.132.134.141:9090/load/1a8d7562c9df/319.mpegts
+#EXTINF:-1, Cinema Comedy
+http://185.132.134.141:9090/load/1a8d7562c9df/320.mpegts
+#EXTINF:-1, Cinema Disney
+http://185.132.134.141:9090/load/1a8d7562c9df/321.mpegts
+#EXTINF:-1, Cinema Drama & Romance
+http://185.132.134.141:9090/load/1a8d7562c9df/322.mpegts
+#EXTINF:-1, Cinema Family
+http://185.132.134.141:9090/load/1a8d7562c9df/323.mpegts
+#EXTINF:-1, Cinema Greats
+http://185.132.134.141:9090/load/1a8d7562c9df/324.mpegts
+#EXTINF:-1, Cinema Hits
+http://185.132.134.141:9090/load/1a8d7562c9df/325.mpegts
+#EXTINF:-1, Cinema Select
+http://185.132.134.141:9090/load/1a8d7562c9df/326.mpegts
+#EXTINF:-1, Cinema Thriller
+http://185.132.134.141:9090/load/1a8d7562c9df/328.mpegts
+#EXTINF:-1, Cinema Premiere
+http://185.132.134.141:9090/load/1a8d7562c9df/329.mpegts
+#EXTINF:-1, Cinema Premiere +1
+http://185.132.134.141:9090/load/1a8d7562c9df/330.mpegts
+#EXTINF:-1, Cinema Sci Fi & Horror
+http://185.132.134.141:9090/load/1a8d7562c9df/327.mpegts
+#EXTINF:-1,Epix
+http://185.132.134.141:9090/load/1a8d7562c9df/71.mpegts
+#EXTINF:-1,Epix Hits
+http://185.132.134.141:9090/load/1a8d7562c9df/73.mpegts
+#EXTINF:-1,Starz
+http://185.132.134.141:9090/load/1a8d7562c9df/63.mpegts
+#EXTINF:-1,Starz Encore
+http://185.132.134.141:9090/load/1a8d7562c9df/64.mpegts
+#EXTINF:-1,Starz Kids & Family
+http://185.132.134.141:9090/load/1a8d7562c9df/65.mpegts
+#EXTINF:-1,Lifetime Movies
+http://185.132.134.141:9090/load/1a8d7562c9df/66.mpegts
+#EXTINF:-1,Hallmark Movies
+http://185.132.134.141:9090/load/1a8d7562c9df/67.mpegts
+#EXTINF:-1,Horror Channel
+http://185.132.134.141:9090/load/1a8d7562c9df/335.mpegts
+#EXTINF:-1,FX Movies
+http://185.132.134.141:9090/load/1a8d7562c9df/68.mpegts
+#EXTINF:-1,Film 4
+http://185.132.134.141:9090/load/1a8d7562c9df/331.mpegts
+#EXTINF:-1,Movies 24
+http://185.132.134.141:9090/load/1a8d7562c9df/333.mpegts
+#EXTINF:-1,Movies 4 Men
+http://185.132.134.141:9090/load/1a8d7562c9df/334.mpegts
+#EXTINF:-1,True Movies
+http://185.132.134.141:9090/load/1a8d7562c9df/332.mpegts
+#EXTINF:-1,Turner Classic Movies Uk
+http://185.132.134.141:9090/load/1a8d7562c9df/336.mpegts
+#EXTINF:-1,ESPN
+http://185.132.134.141:9090/load/1a8d7562c9df/74.mpegts
+#EXTINF:-1,ESPN 2
+http://185.132.134.141:9090/load/1a8d7562c9df/75.mpegts
+#EXTINF:-1,Fox Sports 1
+http://185.132.134.141:9090/load/1a8d7562c9df/79.mpegts
+#EXTINF:-1,Fox Sports 2
+http://185.132.134.141:9090/load/1a8d7562c9df/80.mpegts
+#EXTINF:-1,Fox College Atlantic
+http://185.132.134.141:9090/load/1a8d7562c9df/81.mpegts
+#EXTINF:-1,Fox College Central
+http://185.132.134.141:9090/load/1a8d7562c9df/82.mpegts
+#EXTINF:-1,Fox Soccer Plus
+http://185.132.134.141:9090/load/1a8d7562c9df/95.mpegts
+#EXTINF:-1,MLB Network
+http://185.132.134.141:9090/load/1a8d7562c9df/84.mpegts
+#EXTINF:-1,YES Network
+http://185.132.134.141:9090/load/1a8d7562c9df/125.mpegts
+#EXTINF:-1,NBA Network
+http://185.132.134.141:9090/load/1a8d7562c9df/85.mpegts
+#EXTINF:-1,NFL Network
+http://185.132.134.141:9090/load/1a8d7562c9df/86.mpegts
+#EXTINF:-1,NFL Redzone
+http://185.132.134.141:9090/load/1a8d7562c9df/87.mpegts
+#EXTINF:-1,NHL Network
+http://185.132.134.141:9090/load/1a8d7562c9df/88.mpegts
+#EXTINF:-1,WWE Network
+http://185.132.134.141:9090/load/1a8d7562c9df/269.mpegts
+#EXTINF:-1,BoxNation
+http://185.132.134.141:9090/load/1a8d7562c9df/89.mpegts
+#EXTINF:-1,Golf TV
+http://185.132.134.141:9090/load/1a8d7562c9df/90.mpegts
+#EXTINF:-1,BIG TEN NETWORK
+http://185.132.134.141:9090/load/1a8d7562c9df/93.mpegts
+#EXTINF:-1,CBS Sports Network
+http://185.132.134.141:9090/load/1a8d7562c9df/94.mpegts
+#EXTINF:-1,NBCSN
+http://185.132.134.141:9090/load/1a8d7562c9df/96.mpegts
+#EXTINF:-1,SEC Network
+http://185.132.134.141:9090/load/1a8d7562c9df/97.mpegts
+#EXTINF:-1,Tennis Channel
+http://185.132.134.141:9090/load/1a8d7562c9df/98.mpegts
+#EXTINF:-1, Sports
+http://185.132.134.141:9090/load/1a8d7562c9df/123.mpegts
+#EXTINF:-1,Olympic Channel
+http://185.132.134.141:9090/load/1a8d7562c9df/124.mpegts
+#EXTINF:-1,PAC-12 Arizona
+http://185.132.134.141:9090/load/1a8d7562c9df/111.mpegts
+#EXTINF:-1,PAC-12 Bay Area
+http://185.132.134.141:9090/load/1a8d7562c9df/112.mpegts
+#EXTINF:-1,PAC-12 Los Angeles
+http://185.132.134.141:9090/load/1a8d7562c9df/113.mpegts
+#EXTINF:-1,PAC-12 Mountain
+http://185.132.134.141:9090/load/1a8d7562c9df/114.mpegts
+#EXTINF:-1,PAC-12 National
+http://185.132.134.141:9090/load/1a8d7562c9df/115.mpegts
+#EXTINF:-1,PAC-12 Oregon
+http://185.132.134.141:9090/load/1a8d7562c9df/116.mpegts
+#EXTINF:-1,PAC-12 Washington
+http://185.132.134.141:9090/load/1a8d7562c9df/117.mpegts
+#EXTINF:-1, SPORTS 1
+http://185.132.134.141:9090/load/1a8d7562c9df/106.mpegts
+#EXTINF:-1, SPORTS 2
+http://185.132.134.141:9090/load/1a8d7562c9df/107.mpegts
+#EXTINF:-1, SPORTS 3
+http://185.132.134.141:9090/load/1a8d7562c9df/108.mpegts
+#EXTINF:-1, SPORTS EPSN
+http://185.132.134.141:9090/load/1a8d7562c9df/109.mpegts
+#EXTINF:-1, Sports Action
+http://185.132.134.141:9090/load/1a8d7562c9df/342.mpegts
+#EXTINF:-1, Sports Arena
+http://185.132.134.141:9090/load/1a8d7562c9df/343.mpegts
+#EXTINF:-1, Sports Football
+http://185.132.134.141:9090/load/1a8d7562c9df/344.mpegts
+#EXTINF:-1, Sports Premier League
+http://185.132.134.141:9090/load/1a8d7562c9df/345.mpegts
+#EXTINF:-1, Sports Main Event
+http://185.132.134.141:9090/load/1a8d7562c9df/346.mpegts
+#EXTINF:-1, Atlantic
+http://185.132.134.141:9090/load/1a8d7562c9df/347.mpegts
+#EXTINF:-1, Sports Cricket
+http://185.132.134.141:9090/load/1a8d7562c9df/348.mpegts
+#EXTINF:-1, Sports F1
+http://185.132.134.141:9090/load/1a8d7562c9df/349.mpegts
+#EXTINF:-1, Sports Golf
+http://185.132.134.141:9090/load/1a8d7562c9df/350.mpegts
+#EXTINF:-1, Sports News
+http://185.132.134.141:9090/load/1a8d7562c9df/351.mpegts
+#EXTINF:-1,Sportsnet 360
+http://185.132.134.141:9090/load/1a8d7562c9df/428.mpegts
+#EXTINF:-1,Sportsnet East
+http://185.132.134.141:9090/load/1a8d7562c9df/429.mpegts
+#EXTINF:-1,Sportsnet One
+http://185.132.134.141:9090/load/1a8d7562c9df/430.mpegts
+#EXTINF:-1,Sportsnet Ontario
+http://185.132.134.141:9090/load/1a8d7562c9df/434.mpegts
+#EXTINF:-1,Sportsnet Pacific
+http://185.132.134.141:9090/load/1a8d7562c9df/431.mpegts
+#EXTINF:-1,Sportsnet West
+http://185.132.134.141:9090/load/1a8d7562c9df/432.mpegts
+#EXTINF:-1,TSN 1
+http://185.132.134.141:9090/load/1a8d7562c9df/435.mpegts
+#EXTINF:-1,TSN 2
+http://185.132.134.141:9090/load/1a8d7562c9df/436.mpegts
+#EXTINF:-1,TSN 3
+http://185.132.134.141:9090/load/1a8d7562c9df/437.mpegts
+#EXTINF:-1,TSN 4
+http://185.132.134.141:9090/load/1a8d7562c9df/438.mpegts
+#EXTINF:-1,TSN 5
+http://185.132.134.141:9090/load/1a8d7562c9df/439.mpegts
+#EXTINF:-1,Premier Sports
+http://185.132.134.141:9090/load/1a8d7562c9df/352.mpegts
+#EXTINF:-1,Premiere Sports 2
+http://185.132.134.141:9090/load/1a8d7562c9df/353.mpegts
+#EXTINF:-1,eir Sport 1
+http://185.132.134.141:9090/load/1a8d7562c9df/354.mpegts
+#EXTINF:-1,eir Sport 2
+http://185.132.134.141:9090/load/1a8d7562c9df/355.mpegts
+#EXTINF:-1,Racing UK
+http://185.132.134.141:9090/load/1a8d7562c9df/356.mpegts
+#EXTINF:-1,FreeSports
+http://185.132.134.141:9090/load/1a8d7562c9df/357.mpegts
+#EXTINF:-1,Eurosport 1
+http://185.132.134.141:9090/load/1a8d7562c9df/358.mpegts
+#EXTINF:-1,Eurosport 2
+http://185.132.134.141:9090/load/1a8d7562c9df/359.mpegts
+#EXTINF:-1,Eleven Sports 1
+http://185.132.134.141:9090/load/1a8d7562c9df/110.mpegts
+#EXTINF:-1,Eleven Sports 2
+http://185.132.134.141:9090/load/1a8d7562c9df/267.mpegts
+#EXTINF:-1,Chelsea TV
+http://185.132.134.141:9090/load/1a8d7562c9df/119.mpegts
+#EXTINF:-1,LFC TV
+http://185.132.134.141:9090/load/1a8d7562c9df/120.mpegts
+#EXTINF:-1,MUTV
+http://185.132.134.141:9090/load/1a8d7562c9df/121.mpegts
+#EXTINF:-1,ESPN College 1
+http://185.132.134.141:9090/load/1a8d7562c9df/126.mpegts
+#EXTINF:-1,ESPN College 2
+http://185.132.134.141:9090/load/1a8d7562c9df/127.mpegts
+#EXTINF:-1,ESPN College 3
+http://185.132.134.141:9090/load/1a8d7562c9df/128.mpegts
+#EXTINF:-1,ESPN College 4
+http://185.132.134.141:9090/load/1a8d7562c9df/129.mpegts
+#EXTINF:-1,ESPN College 5
+http://185.132.134.141:9090/load/1a8d7562c9df/130.mpegts
+#EXTINF:-1,ESPN College 6
+http://185.132.134.141:9090/load/1a8d7562c9df/131.mpegts
+#EXTINF:-1,ESPN College 7
+http://185.132.134.141:9090/load/1a8d7562c9df/132.mpegts
+#EXTINF:-1,Sports 1 HD
+http://185.132.134.141:9090/load/1a8d7562c9df/148.mpegts
+#EXTINF:-1,Sports 2 HD
+http://185.132.134.141:9090/load/1a8d7562c9df/149.mpegts
+#EXTINF:-1,Sports 3 HD
+http://185.132.134.141:9090/load/1a8d7562c9df/150.mpegts
+#EXTINF:-1,Sports 4 HD
+http://185.132.134.141:9090/load/1a8d7562c9df/151.mpegts
+#EXTINF:-1,Sports 5 HD
+http://185.132.134.141:9090/load/1a8d7562c9df/152.mpegts
+#EXTINF:-1,Sports 6 HD
+http://185.132.134.141:9090/load/1a8d7562c9df/153.mpegts
+#EXTINF:-1,Sports 7 HD
+http://185.132.134.141:9090/load/1a8d7562c9df/154.mpegts
+#EXTINF:-1,Sports 8 HD
+http://185.132.134.141:9090/load/1a8d7562c9df/155.mpegts
+#EXTINF:-1,Sports 9 HD
+http://185.132.134.141:9090/load/1a8d7562c9df/156.mpegts
+#EXTINF:-1,Sports 10 HD
+http://185.132.134.141:9090/load/1a8d7562c9df/157.mpegts
+#EXTINF:-1,Sports 11 HD
+http://185.132.134.141:9090/load/1a8d7562c9df/158.mpegts
+#EXTINF:-1,Sports 12 HD
+http://185.132.134.141:9090/load/1a8d7562c9df/159.mpegts
+#EXTINF:-1,Sports News
+http://185.132.134.141:9090/load/1a8d7562c9df/160.mpegts
+#EXTINF:-1,Animal Planet
+http://185.132.134.141:9090/load/1a8d7562c9df/220.mpegts
+#EXTINF:-1,Destination America
+http://185.132.134.141:9090/load/1a8d7562c9df/221.mpegts
+#EXTINF:-1,Discovery Channel
+http://185.132.134.141:9090/load/1a8d7562c9df/210.mpegts
+#EXTINF:-1,Discovery Science
+http://185.132.134.141:9090/load/1a8d7562c9df/211.mpegts
+#EXTINF:-1,Discovery Family
+http://185.132.134.141:9090/load/1a8d7562c9df/212.mpegts
+#EXTINF:-1,History
+http://185.132.134.141:9090/load/1a8d7562c9df/213.mpegts
+#EXTINF:-1,Investigation Discovery
+http://185.132.134.141:9090/load/1a8d7562c9df/214.mpegts
+#EXTINF:-1,Crime & Investigation
+http://185.132.134.141:9090/load/1a8d7562c9df/215.mpegts
+#EXTINF:-1,National Geographic
+http://185.132.134.141:9090/load/1a8d7562c9df/216.mpegts
+#EXTINF:-1,Nat Geo Wild
+http://185.132.134.141:9090/load/1a8d7562c9df/217.mpegts
+#EXTINF:-1,DIY
+http://185.132.134.141:9090/load/1a8d7562c9df/218.mpegts
+#EXTINF:-1,HGTV
+http://185.132.134.141:9090/load/1a8d7562c9df/219.mpegts
+#EXTINF:-1,Outdoor Channel
+http://185.132.134.141:9090/load/1a8d7562c9df/222.mpegts
+#EXTINF:-1,Velocity
+http://185.132.134.141:9090/load/1a8d7562c9df/266.mpegts
+#EXTINF:-1,Travel Channel
+http://185.132.134.141:9090/load/1a8d7562c9df/223.mpegts
+#EXTINF:-1,Food Network
+http://185.132.134.141:9090/load/1a8d7562c9df/224.mpegts
+#EXTINF:-1,Cooking Channel
+http://185.132.134.141:9090/load/1a8d7562c9df/225.mpegts
+#EXTINF:-1,Animal Planet UK
+http://185.132.134.141:9090/load/1a8d7562c9df/360.mpegts
+#EXTINF:-1,Crime & Investigation UK
+http://185.132.134.141:9090/load/1a8d7562c9df/361.mpegts
+#EXTINF:-1,Discovery UK
+http://185.132.134.141:9090/load/1a8d7562c9df/362.mpegts
+#EXTINF:-1,Discovery HistoryUK
+http://185.132.134.141:9090/load/1a8d7562c9df/363.mpegts
+#EXTINF:-1,Discovery History 1 UK
+http://185.132.134.141:9090/load/1a8d7562c9df/364.mpegts
+#EXTINF:-1,Discovery Science UK
+http://185.132.134.141:9090/load/1a8d7562c9df/365.mpegts
+#EXTINF:-1,Discovery Science 1 UK
+http://185.132.134.141:9090/load/1a8d7562c9df/366.mpegts
+#EXTINF:-1,Discovery Shed UK
+http://185.132.134.141:9090/load/1a8d7562c9df/367.mpegts
+#EXTINF:-1,Discovery Turbo UK
+http://185.132.134.141:9090/load/1a8d7562c9df/368.mpegts
+#EXTINF:-1,Good Food UK
+http://185.132.134.141:9090/load/1a8d7562c9df/369.mpegts
+#EXTINF:-1,History UK
+http://185.132.134.141:9090/load/1a8d7562c9df/370.mpegts
+#EXTINF:-1,H2 UK
+http://185.132.134.141:9090/load/1a8d7562c9df/371.mpegts
+#EXTINF:-1,Home UK
+http://185.132.134.141:9090/load/1a8d7562c9df/372.mpegts
+#EXTINF:-1,Home & Health UK
+http://185.132.134.141:9090/load/1a8d7562c9df/373.mpegts
+#EXTINF:-1,Investigation Discovery UK
+http://185.132.134.141:9090/load/1a8d7562c9df/375.mpegts
+#EXTINF:-1,National Geographic UK
+http://185.132.134.141:9090/load/1a8d7562c9df/376.mpegts
+#EXTINF:-1,National Geographic Wild UK
+http://185.132.134.141:9090/load/1a8d7562c9df/377.mpegts
+#EXTINF:-1, Arts
+http://185.132.134.141:9090/load/1a8d7562c9df/379.mpegts
+#EXTINF:-1,Travel Channel UK
+http://185.132.134.141:9090/load/1a8d7562c9df/378.mpegts
+#EXTINF:-1,BBC News
+http://185.132.134.141:9090/load/1a8d7562c9df/380.mpegts
+#EXTINF:-1,CNBC
+http://185.132.134.141:9090/load/1a8d7562c9df/228.mpegts
+#EXTINF:-1,CNN
+http://185.132.134.141:9090/load/1a8d7562c9df/226.mpegts
+#EXTINF:-1,CNN UK
+http://185.132.134.141:9090/load/1a8d7562c9df/381.mpegts
+#EXTINF:-1,CNBC World
+http://185.132.134.141:9090/load/1a8d7562c9df/229.mpegts
+#EXTINF:-1,Fox News
+http://185.132.134.141:9090/load/1a8d7562c9df/227.mpegts
+#EXTINF:-1,Fox Business
+http://185.132.134.141:9090/load/1a8d7562c9df/231.mpegts
+#EXTINF:-1,MSNBC
+http://185.132.134.141:9090/load/1a8d7562c9df/230.mpegts
+#EXTINF:-1, News
+http://185.132.134.141:9090/load/1a8d7562c9df/382.mpegts
+#EXTINF:-1,Weather Channel
+http://185.132.134.141:9090/load/1a8d7562c9df/234.mpegts
+#EXTINF:-1,Baby TV
+http://185.132.134.141:9090/load/1a8d7562c9df/248.mpegts
+#EXTINF:-1,Boomerang
+http://185.132.134.141:9090/load/1a8d7562c9df/238.mpegts
+#EXTINF:-1,Boomerang UK
+http://185.132.134.141:9090/load/1a8d7562c9df/384.mpegts
+#EXTINF:-1,Cartoon Network
+http://185.132.134.141:9090/load/1a8d7562c9df/239.mpegts
+#EXTINF:-1,Cartoon Network UK
+http://185.132.134.141:9090/load/1a8d7562c9df/385.mpegts
+#EXTINF:-1,Disney
+http://185.132.134.141:9090/load/1a8d7562c9df/240.mpegts
+#EXTINF:-1,Disney Channel UK
+http://185.132.134.141:9090/load/1a8d7562c9df/389.mpegts
+#EXTINF:-1,Disney Junior UK
+http://185.132.134.141:9090/load/1a8d7562c9df/390.mpegts
+#EXTINF:-1,Disney Jr.
+http://185.132.134.141:9090/load/1a8d7562c9df/241.mpegts
+#EXTINF:-1,Disney XD
+http://185.132.134.141:9090/load/1a8d7562c9df/242.mpegts
+#EXTINF:-1,Disney XD UK
+http://185.132.134.141:9090/load/1a8d7562c9df/391.mpegts
+#EXTINF:-1,Nick
+http://185.132.134.141:9090/load/1a8d7562c9df/243.mpegts
+#EXTINF:-1,Nickelodeon UK
+http://185.132.134.141:9090/load/1a8d7562c9df/397.mpegts
+#EXTINF:-1,Nick Jr.
+http://185.132.134.141:9090/load/1a8d7562c9df/244.mpegts
+#EXTINF:-1,Nick Jr UK
+http://185.132.134.141:9090/load/1a8d7562c9df/396.mpegts
+#EXTINF:-1,Nick Jr Too UK
+http://185.132.134.141:9090/load/1a8d7562c9df/395.mpegts
+#EXTINF:-1,Nicktoons
+http://185.132.134.141:9090/load/1a8d7562c9df/245.mpegts
+#EXTINF:-1,Nicktoons UK
+http://185.132.134.141:9090/load/1a8d7562c9df/398.mpegts
+#EXTINF:-1,PBS Kids
+http://185.132.134.141:9090/load/1a8d7562c9df/246.mpegts
+#EXTINF:-1,Baby TV UK
+http://185.132.134.141:9090/load/1a8d7562c9df/383.mpegts
+#EXTINF:-1,CBBC UK
+http://185.132.134.141:9090/load/1a8d7562c9df/387.mpegts
+#EXTINF:-1,CBeebies UK
+http://185.132.134.141:9090/load/1a8d7562c9df/388.mpegts
+#EXTINF:-1,Cartoonito UK
+http://185.132.134.141:9090/load/1a8d7562c9df/386.mpegts
+#EXTINF:-1,POP UK
+http://185.132.134.141:9090/load/1a8d7562c9df/392.mpegts
+#EXTINF:-1,POP Max UK
+http://185.132.134.141:9090/load/1a8d7562c9df/393.mpegts
+#EXTINF:-1,Tiny Pop UK
+http://185.132.134.141:9090/load/1a8d7562c9df/394.mpegts
+#EXTINF:-1,Universal Kids
+http://185.132.134.141:9090/load/1a8d7562c9df/250.mpegts
+#EXTINF:-1,Telemundo
+http://185.132.134.141:9090/load/1a8d7562c9df/253.mpegts
+#EXTINF:-1,Univision
+http://185.132.134.141:9090/load/1a8d7562c9df/254.mpegts
+#EXTINF:-1,Unimas
+http://185.132.134.141:9090/load/1a8d7562c9df/255.mpegts
+#EXTINF:-1,ESPN es
+http://185.132.134.141:9090/load/1a8d7562c9df/261.mpegts
+#EXTINF:-1,BBC One
+http://185.132.134.141:9090/load/1a8d7562c9df/270.mpegts
+#EXTINF:-1,BBC Two
+http://185.132.134.141:9090/load/1a8d7562c9df/271.mpegts
+#EXTINF:-1,BBC Four
+http://185.132.134.141:9090/load/1a8d7562c9df/272.mpegts
+#EXTINF:-1,ITV
+http://185.132.134.141:9090/load/1a8d7562c9df/273.mpegts
+#EXTINF:-1,ITV 2
+http://185.132.134.141:9090/load/1a8d7562c9df/274.mpegts
+#EXTINF:-1,ITV 3
+http://185.132.134.141:9090/load/1a8d7562c9df/275.mpegts
+#EXTINF:-1,ITV 4
+http://185.132.134.141:9090/load/1a8d7562c9df/276.mpegts
+#EXTINF:-1,ITV Be
+http://185.132.134.141:9090/load/1a8d7562c9df/277.mpegts
+#EXTINF:-1,3E
+http://185.132.134.141:9090/load/1a8d7562c9df/278.mpegts
+#EXTINF:-1,4seven
+http://185.132.134.141:9090/load/1a8d7562c9df/279.mpegts
+#EXTINF:-1,5Select
+http://185.132.134.141:9090/load/1a8d7562c9df/280.mpegts
+#EXTINF:-1,5 Spike
+http://185.132.134.141:9090/load/1a8d7562c9df/281.mpegts
+#EXTINF:-1,5 Star
+http://185.132.134.141:9090/load/1a8d7562c9df/282.mpegts
+#EXTINF:-1,Alibi
+http://185.132.134.141:9090/load/1a8d7562c9df/283.mpegts
+#EXTINF:-1,AMC UK
+http://185.132.134.141:9090/load/1a8d7562c9df/315.mpegts
+#EXTINF:-1,BET UK
+http://185.132.134.141:9090/load/1a8d7562c9df/317.mpegts
+#EXTINF:-1,Blaze
+http://185.132.134.141:9090/load/1a8d7562c9df/284.mpegts
+#EXTINF:-1,Channel 4
+http://185.132.134.141:9090/load/1a8d7562c9df/285.mpegts
+#EXTINF:-1,Channel 5
+http://185.132.134.141:9090/load/1a8d7562c9df/286.mpegts
+#EXTINF:-1,CBS Justice
+http://185.132.134.141:9090/load/1a8d7562c9df/287.mpegts
+#EXTINF:-1,CBS Drama
+http://185.132.134.141:9090/load/1a8d7562c9df/288.mpegts
+#EXTINF:-1,CBS Reality
+http://185.132.134.141:9090/load/1a8d7562c9df/289.mpegts
+#EXTINF:-1,Challenge
+http://185.132.134.141:9090/load/1a8d7562c9df/290.mpegts
+#EXTINF:-1,Comedy Central
+http://185.132.134.141:9090/load/1a8d7562c9df/291.mpegts
+#EXTINF:-1,Comedy Central Extra
+http://185.132.134.141:9090/load/1a8d7562c9df/292.mpegts
+#EXTINF:-1,Dave
+http://185.132.134.141:9090/load/1a8d7562c9df/293.mpegts
+#EXTINF:-1,Dave ja vu
+http://185.132.134.141:9090/load/1a8d7562c9df/294.mpegts
+#EXTINF:-1,DMAX
+http://185.132.134.141:9090/load/1a8d7562c9df/295.mpegts
+#EXTINF:-1,Drama
+http://185.132.134.141:9090/load/1a8d7562c9df/296.mpegts
+#EXTINF:-1,E! UK
+http://185.132.134.141:9090/load/1a8d7562c9df/297.mpegts
+#EXTINF:-1,E4
+http://185.132.134.141:9090/load/1a8d7562c9df/298.mpegts
+#EXTINF:-1,EDEN
+http://185.132.134.141:9090/load/1a8d7562c9df/299.mpegts
+#EXTINF:-1,Fox UK
+http://185.132.134.141:9090/load/1a8d7562c9df/338.mpegts
+#EXTINF:-1,GOLD
+http://185.132.134.141:9090/load/1a8d7562c9df/300.mpegts
+#EXTINF:-1,More4
+http://185.132.134.141:9090/load/1a8d7562c9df/301.mpegts
+#EXTINF:-1,Lifetime UK
+http://185.132.134.141:9090/load/1a8d7562c9df/339.mpegts
+#EXTINF:-1,MTV UK
+http://185.132.134.141:9090/load/1a8d7562c9df/302.mpegts
+#EXTINF:-1,PBS America UK
+http://185.132.134.141:9090/load/1a8d7562c9df/303.mpegts
+#EXTINF:-1,Pick
+http://185.132.134.141:9090/load/1a8d7562c9df/304.mpegts
+#EXTINF:-1,Quest
+http://185.132.134.141:9090/load/1a8d7562c9df/305.mpegts
+#EXTINF:-1, One
+http://185.132.134.141:9090/load/1a8d7562c9df/316.mpegts
+#EXTINF:-1, Two
+http://185.132.134.141:9090/load/1a8d7562c9df/337.mpegts
+#EXTINF:-1, Witness
+http://185.132.134.141:9090/load/1a8d7562c9df/318.mpegts
+#EXTINF:-1,Syfy Uk
+http://185.132.134.141:9090/load/1a8d7562c9df/307.mpegts
+#EXTINF:-1,TLC UK
+http://185.132.134.141:9090/load/1a8d7562c9df/308.mpegts
+#EXTINF:-1,True Entertainment
+http://185.132.134.141:9090/load/1a8d7562c9df/309.mpegts
+#EXTINF:-1,TruTV Uk
+http://185.132.134.141:9090/load/1a8d7562c9df/310.mpegts
+#EXTINF:-1,Universal Uk
+http://185.132.134.141:9090/load/1a8d7562c9df/311.mpegts
+#EXTINF:-1,UTV
+http://185.132.134.141:9090/load/1a8d7562c9df/312.mpegts
+#EXTINF:-1,VH1 UK
+http://185.132.134.141:9090/load/1a8d7562c9df/313.mpegts
+#EXTINF:-1,Viceland UK
+http://185.132.134.141:9090/load/1a8d7562c9df/314.mpegts
+#EXTINF:-1,Yesterday
+http://185.132.134.141:9090/load/1a8d7562c9df/340.mpegts
+#EXTINF:-1,Paramount UK
+http://185.132.134.141:9090/load/1a8d7562c9df/341.mpegts
+#EXTINF:-1,ABC
+http://185.132.134.141:9090/load/1a8d7562c9df/2.mpegts
+#EXTINF:-1,AMC
+http://185.132.134.141:9090/load/1a8d7562c9df/3.mpegts
+#EXTINF:-1,A&E
+http://185.132.134.141:9090/load/1a8d7562c9df/5.mpegts
+#EXTINF:-1,4Music
+http://185.132.134.141:9090/load/1a8d7562c9df/399.mpegts
+#EXTINF:-1,Kiss
+http://185.132.134.141:9090/load/1a8d7562c9df/400.mpegts
+#EXTINF:-1,Magic
+http://185.132.134.141:9090/load/1a8d7562c9df/401.mpegts
+#EXTINF:-1,MTV BASE
+http://185.132.134.141:9090/load/1a8d7562c9df/402.mpegts
+#EXTINF:-1,MTV Classic
+http://185.132.134.141:9090/load/1a8d7562c9df/403.mpegts
+#EXTINF:-1,MTV DANCE
+http://185.132.134.141:9090/load/1a8d7562c9df/404.mpegts
+#EXTINF:-1,MTV HITS
+http://185.132.134.141:9090/load/1a8d7562c9df/405.mpegts
+#EXTINF:-1,MTV MUSIC
+http://185.132.134.141:9090/load/1a8d7562c9df/406.mpegts
+#EXTINF:-1,MTV OMG
+http://185.132.134.141:9090/load/1a8d7562c9df/407.mpegts
+#EXTINF:-1,MTV ROCKS
+http://185.132.134.141:9090/load/1a8d7562c9df/408.mpegts
+#EXTINF:-1,Now 90s
+http://185.132.134.141:9090/load/1a8d7562c9df/410.mpegts
+#EXTINF:-1,Box Hits
+http://185.132.134.141:9090/load/1a8d7562c9df/411.mpegts
+#EXTINF:-1,The Box
+http://185.132.134.141:9090/load/1a8d7562c9df/412.mpegts
+#EXTINF:-1,The Vault
+http://185.132.134.141:9090/load/1a8d7562c9df/413.mpegts
+#EXTINF:-1,Game Show Network
+http://185.132.134.141:9090/load/1a8d7562c9df/414.mpegts
+#EXTINF:-1,MavTV
+http://185.132.134.141:9090/load/1a8d7562c9df/415.mpegts
+#EXTINF:-1,Box Upfront
+http://185.132.134.141:9090/load/1a8d7562c9df/416.mpegts
+#EXTINF:-1,RTE ONE
+http://185.132.134.141:9090/load/1a8d7562c9df/417.mpegts
+#EXTINF:-1,RTE TWO
+http://185.132.134.141:9090/load/1a8d7562c9df/418.mpegts
+#EXTINF:-1, Sports Red Button 1
+http://185.132.134.141:9090/load/1a8d7562c9df/419.mpegts
+#EXTINF:-1, Sports Red Button 2
+http://185.132.134.141:9090/load/1a8d7562c9df/420.mpegts
+#EXTINF:-1, Sports Red Button 3
+http://185.132.134.141:9090/load/1a8d7562c9df/421.mpegts
+#EXTINF:-1, Sports Red Button 4
+http://185.132.134.141:9090/load/1a8d7562c9df/422.mpegts
+#EXTINF:-1, Sports Red Button 5
+http://185.132.134.141:9090/load/1a8d7562c9df/423.mpegts
+#EXTINF:-1, Sports Red Button 6
+http://185.132.134.141:9090/load/1a8d7562c9df/424.mpegts
+#EXTINF:-1, Sports Red Button 7
+http://185.132.134.141:9090/load/1a8d7562c9df/425.mpegts
+#EXTINF:-1, Sports Red Button 8
+http://185.132.134.141:9090/load/1a8d7562c9df/426.mpegts
+#EXTINF:-1, Sports Red Button 9
+http://185.132.134.141:9090/load/1a8d7562c9df/427.mpegts
+#EXTINF:-1,MLB Network Test
+http://185.132.134.141:9090/load/1a8d7562c9df/453.mpegts
+#EXTINF:-1,NFL Sunday Ticket 13a
+http://185.132.134.141:9090/load/1a8d7562c9df/467.mpegts
+#EXTINF:-1,NFL Sunday Ticket 14
+http://185.132.134.141:9090/load/1a8d7562c9df/468.mpegts
+#EXTINF:-1,NFL Sunday Ticket 15
+http://185.132.134.141:9090/load/1a8d7562c9df/469.mpegts
