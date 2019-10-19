@@ -1,131 +1,192 @@
 #EXTM3U
-#EXTINF:-1,CBC Television
-http://161.0.157.50/PLTV/88888888/224/3221227004/03.m3u8
-#EXTINF:-1,CBS
-http://161.0.157.50/PLTV/88888888/224/3221227041/03.m3u8
-#EXTINF:-1,EI
-http://161.0.157.50/PLTV/88888888/224/3221227013/03.m3u8
-#EXTINF:-1,NBS NEWS
-http://161.0.157.50/PLTV/88888888/224/3221227040/03.m3u8
-#EXTINF:-1,42
-http://161.0.157.50/PLTV/88888888/224/3221227042/03.m3u8
-#EXTINF:-1,CNC
-http://161.0.157.50/PLTV/88888888/224/3221226845/index.m3u8
-#EXTINF:-1,Zee Cinema
-http://161.0.157.50/PLTV/88888888/224/3221226709/index.m3u8
-#EXTINF:-1,ESPN 2
-http://161.0.157.50/PLTV/88888888/224/3221226881/index.m3u8
-#EXTINF:-1,Cartoon Network
-http://161.0.157.50/PLTV/88888888/224/3221226843/index.m3u8
-#EXTINF:-1,MMTV
-http://161.0.157.50/PLTV/88888888/224/3221226847/index.m3u8
-#EXTINF:-1,JAAGRITI TV
-http://161.0.157.50/PLTV/88888888/224/3221226848/index.m3u8
-#EXTINF:-1,Fox Sports Racing
-http://161.0.157.50/PLTV/88888888/224/3221226181/index.m3u8
-#EXTINF:-1,PETS TV HD
-http://161.0.157.50/PLTV/88888888/224/3221226145/index.m3u8
-#EXTINF:-1,BTN BIG
-http://161.0.157.50/PLTV/88888888/224/3221226177/index.m3u8
-#EXTINF:-1,Cooking Channel
-http://161.0.157.50/PLTV/88888888/224/3221226201/index.m3u8
-#EXTINF:-1,T
-http://161.0.157.50/PLTV/88888888/224/3221226207/index.m3u8
-#EXTINF:-1,Animal Planet HD
-http://161.0.157.50/PLTV/88888888/224/3221226253/index.m3u8
-#EXTINF:-1,DISNEY
-http://161.0.157.50/PLTV/88888888/224/3221226299/index.m3u8
-#EXTINF:-1,2TV
-http://161.0.157.50/PLTV/88888888/224/3221226311/index.m3u8
-#EXTINF:-1,FOX MOVIES
-http://161.0.157.50/PLTV/88888888/224/3221226321/index.m3u8
-#EXTINF:-1,B4U MUSIC
-http://161.0.157.50/PLTV/88888888/224/3221226332/index.m3u8
-#EXTINF:-1,TEN CRICKET
-http://161.0.157.50/PLTV/88888888/224/3221226394/index.m3u8
-#EXTINF:-1,TV
-http://161.0.157.50/PLTV/88888888/224/3221226398/index.m3u8
-#EXTINF:-1,ZEE WORLD
-http://161.0.157.50/PLTV/88888888/224/3221226542/index.m3u8
-#EXTINF:-1,AXS TV HD
-http://161.0.157.50/PLTV/88888888/224/3221226568/index.m3u8
-#EXTINF:-1,TRINITY
-http://161.0.157.50/PLTV/88888888/224/3221226638/index.m3u8
-#EXTINF:-1,And TV
-http://161.0.157.50/PLTV/88888888/224/3221226705/index.m3u8
-#EXTINF:-1,HYPE
-http://161.0.157.50/PLTV/88888888/224/3221226726/index.m3u8
-#EXTINF:-1,TV
-http://161.0.157.50/PLTV/88888888/224/3221226727/index.m3u8
-#EXTINF:-1,KLUB TV
-http://161.0.157.50/PLTV/88888888/224/3221226729/index.m3u8
-#EXTINF:-1,SPORTMAX
-http://161.0.157.50/PLTV/88888888/224/3221226766/index.m3u8
-#EXTINF:-1,SPORTMAX2
-http://161.0.157.50/PLTV/88888888/224/3221226777/index.m3u8
-#EXTINF:-1,CNN
-http://161.0.157.50/PLTV/88888888/224/3221226781/index.m3u8
-#EXTINF:-1,FOX CINEMA
-http://161.0.157.50/PLTV/88888888/224/3221226793/index.m3u8
-#EXTINF:-1,FOX COMEDY
-http://161.0.157.50/PLTV/88888888/224/3221226800/index.m3u8
-#EXTINF:-1,BRAVO
-http://161.0.157.50/PLTV/88888888/224/3221226804/index.m3u8
-#EXTINF:-1,MUDHOLE
-http://161.0.157.50/PLTV/88888888/224/3221226811/index.m3u8
-#EXTINF:-1,GOLF
-http://161.0.157.50/PLTV/88888888/224/3221226812/index.m3u8
-#EXTINF:-1,FRANCE24
-http://161.0.157.50/PLTV/88888888/224/3221226821/index.m3u8
-#EXTINF:-1,MTV
-http://161.0.157.50/PLTV/88888888/224/3221226825/index.m3u8
-#EXTINF:-1,UNIVERSAL
-http://161.0.157.50/PLTV/88888888/224/3221226828/index.m3u8
-#EXTINF:-1,TV
-http://161.0.157.50/PLTV/88888888/224/3221226831/index.m3u8
-#EXTINF:-1,Y
-http://161.0.157.50/PLTV/88888888/224/3221226832/index.m3u8
-#EXTINF:-1,MAX PRIME
-http://161.0.157.50/PLTV/88888888/224/3221226834/index.m3u8
-#EXTINF:-1,DRS
-http://161.0.157.50/PLTV/88888888/224/3221226865/index.m3u8
-#EXTINF:-1,CATCH2
-http://161.0.157.50/PLTV/88888888/224/3221226874/index.m3u8
-#EXTINF:-1,FLOW SPORT1
-http://161.0.157.50/PLTV/88888888/224/3221226899/index.m3u8
-#EXTINF:-1,CBC CANADA
-http://161.0.157.50/PLTV/88888888/224/3221227004/index.m3u8
-#EXTINF:-1,CBN
-http://161.0.157.50/PLTV/88888888/224/3221227005/index.m3u8
-#EXTINF:-1,FOX HD
-http://161.0.157.50/PLTV/88888888/224/3221227013/index.m3u8
-#EXTINF:-1,HBO 2
-http://161.0.157.50/PLTV/88888888/224/3221227026/index.m3u8
-#EXTINF:-1,SPORT HD
-http://161.0.157.50/PLTV/88888888/224/3221227040/index.m3u8
-#EXTINF:-1,CBS
-http://161.0.157.50/PLTV/88888888/224/3221227041/index.m3u8
-#EXTINF:-1,FOX
-http://161.0.157.50/PLTV/88888888/224/3221227042/index.m3u8
-#EXTINF:-1,TV
-http://161.0.157.50/PLTV/88888888/224/3221227097/index.m3u8
-#EXTINF:-1,B4U MOVIES
-http://161.0.157.50/PLTV/88888888/224/3221226255/index.m3u8
-#EXTINF:-1,HBO HD
-http://161.0.157.50/PLTV/88888888/224/3221226127/index.m3u8
-#EXTINF:-1,VH HD
-http://161.0.157.50/PLTV/88888888/224/3221226078/index.m3u8
-#EXTINF:-1,HBO
-http://161.0.157.50/PLTV/88888888/224/3221226122/index.m3u8
-#EXTINF:-1,CBC CANADA
-http://161.0.157.50/PLTV/88888888/224/3221227004/02.m3u8
-#EXTINF:-1,CBS
-http://161.0.157.50/PLTV/88888888/224/3221227041/1.m3u8
-#EXTINF:-1,CBS
-http://161.0.157.50/PLTV/88888888/224/3221227041/04.m3u8
-#EXTINF:-1,CBS
-http://161.0.157.50/PLTV/88888888/224/3221227041/02.m3u8
-#EXTINF:-1,CBS
-http://161.0.157.50/PLTV/88888888/224/3221227041/05.m3u8
-#EXTINF:-1,CBS
-http://161.0.157.50/PLTV/88888888/224/3221227041/2.m3u8
+
+#EXTINF:-1,UK: 5 USA
+http://tvlatina.homeip.net:25461/live/jaimeposso/jaime16/216.ts
+#EXTINF:-1,UK: Animal Planet FHD
+http://tvlatina.homeip.net:25461/live/jaimeposso/jaime16/231.ts
+#EXTINF:-1,UK: Baby TV
+http://tvlatina.homeip.net:25461/live/jaimeposso/jaime16/260.ts
+#EXTINF:-1,UK: BBC 1 FHD
+http://tvlatina.homeip.net:25461/live/jaimeposso/jaime16/210.ts
+#EXTINF:-1,UK: BBC 1 London
+http://tvlatina.homeip.net:25461/live/jaimeposso/jaime16/268.ts
+#EXTINF:-1,UK: BBC 2 FHD
+http://tvlatina.homeip.net:25461/live/jaimeposso/jaime16/211.ts
+#EXTINF:-1,UK: Boomerang
+http://tvlatina.homeip.net:25461/live/jaimeposso/jaime16/252.ts
+#EXTINF:-1,UK: Box Nation HD
+http://tvlatina.homeip.net:25461/live/jaimeposso/jaime16/251.ts
+#EXTINF:-1,UK: Sport 1 HD
+http://tvlatina.homeip.net:25461/live/jaimeposso/jaime16/247.ts
+#EXTINF:-1,UK: Sport 2 HD
+http://tvlatina.homeip.net:25461/live/jaimeposso/jaime16/248.ts
+#EXTINF:-1,UK: Sport 3 HD
+http://tvlatina.homeip.net:25461/live/jaimeposso/jaime16/249.ts
+#EXTINF:-1,UK: Sport ESPN HD
+http://tvlatina.homeip.net:25461/live/jaimeposso/jaime16/250.ts
+#EXTINF:-1,UK: Cartoon Network FHD
+http://tvlatina.homeip.net:25461/live/jaimeposso/jaime16/258.ts
+#EXTINF:-1,UK: Cartoonito
+http://tvlatina.homeip.net:25461/live/jaimeposso/jaime16/257.ts
+#EXTINF:-1,UK: Channel 4 FHD
+http://tvlatina.homeip.net:25461/live/jaimeposso/jaime16/213.ts
+#EXTINF:-1,UK: Channel 5 FHD
+http://tvlatina.homeip.net:25461/live/jaimeposso/jaime16/214.ts
+#EXTINF:-1,UK: Comedy Central
+http://tvlatina.homeip.net:25461/live/jaimeposso/jaime16/218.ts
+#EXTINF:-1,UK: Crime & Investigation FHD
+http://tvlatina.homeip.net:25461/live/jaimeposso/jaime16/228.ts
+#EXTINF:-1,UK: Discovery FHD
+http://tvlatina.homeip.net:25461/live/jaimeposso/jaime16/229.ts
+#EXTINF:-1,UK: Discovery Turbo
+http://tvlatina.homeip.net:25461/live/jaimeposso/jaime16/227.ts
+#EXTINF:-1,UK: Disney Channel
+http://tvlatina.homeip.net:25461/live/jaimeposso/jaime16/262.ts
+#EXTINF:-1,UK: Disney Junior
+http://tvlatina.homeip.net:25461/live/jaimeposso/jaime16/263.ts
+#EXTINF:-1,UK: Disney XD
+http://tvlatina.homeip.net:25461/live/jaimeposso/jaime16/261.ts
+#EXTINF:-1,UK: E!
+http://tvlatina.homeip.net:25461/live/jaimeposso/jaime16/217.ts
+#EXTINF:-1,UK: E4
+http://tvlatina.homeip.net:25461/live/jaimeposso/jaime16/215.ts
+#EXTINF:-1,UK: Eurosport 1 HD
+http://tvlatina.homeip.net:25461/live/jaimeposso/jaime16/245.ts
+#EXTINF:-1,UK: Eurosport 2 HD
+http://tvlatina.homeip.net:25461/live/jaimeposso/jaime16/246.ts
+#EXTINF:-1,UK: Food Network
+http://tvlatina.homeip.net:25461/live/jaimeposso/jaime16/219.ts
+#EXTINF:-1,UK: Fox HD
+http://tvlatina.homeip.net:25461/live/jaimeposso/jaime16/225.ts
+#EXTINF:-1,UK: History FHD
+http://tvlatina.homeip.net:25461/live/jaimeposso/jaime16/230.ts
+#EXTINF:-1,UK: ITV 1 FHD
+http://tvlatina.homeip.net:25461/live/jaimeposso/jaime16/212.ts
+#EXTINF:-1,UK: ITV 2 HD
+http://tvlatina.homeip.net:25461/live/jaimeposso/jaime16/220.ts
+#EXTINF:-1,UK: ITV 3 HD
+http://tvlatina.homeip.net:25461/live/jaimeposso/jaime16/221.ts
+#EXTINF:-1,UK: MTV FHD
+http://tvlatina.homeip.net:25461/live/jaimeposso/jaime16/224.ts
+#EXTINF:-1,UK: National Geographic FHD
+http://tvlatina.homeip.net:25461/live/jaimeposso/jaime16/232.ts
+#EXTINF:-1,UK: National Geographic Wild FHD
+http://tvlatina.homeip.net:25461/live/jaimeposso/jaime16/233.ts
+#EXTINF:-1,UK: Nick FHD
+http://tvlatina.homeip.net:25461/live/jaimeposso/jaime16/259.ts
+#EXTINF:-1,UK: Nick Jr Too
+http://tvlatina.homeip.net:25461/live/jaimeposso/jaime16/256.ts
+#EXTINF:-1,UK: Nickelodeon
+http://tvlatina.homeip.net:25461/live/jaimeposso/jaime16/254.ts
+#EXTINF:-1,UK: Nicktoons
+http://tvlatina.homeip.net:25461/live/jaimeposso/jaime16/253.ts
+#EXTINF:-1,UK: Quest FHD
+http://tvlatina.homeip.net:25461/live/jaimeposso/jaime16/222.ts
+#EXTINF:-1,UK: RTE 1 HD
+http://tvlatina.homeip.net:25461/live/jaimeposso/jaime16/265.ts
+#EXTINF:-1,UK: RTE News
+http://tvlatina.homeip.net:25461/live/jaimeposso/jaime16/267.ts
+#EXTINF:-1,Uk: News
+http://tvlatina.homeip.net:25461/live/jaimeposso/jaime16/1426.ts
+#EXTINF:-1,UK: Cinema Action FHD
+http://tvlatina.homeip.net:25461/live/jaimeposso/jaime16/239.ts
+#EXTINF:-1,UK: Cinema Comedy FHD
+http://tvlatina.homeip.net:25461/live/jaimeposso/jaime16/240.ts
+#EXTINF:-1,UK: Cinema Disney FHD
+http://tvlatina.homeip.net:25461/live/jaimeposso/jaime16/237.ts
+#EXTINF:-1,UK: Cinema Drama FHD
+http://tvlatina.homeip.net:25461/live/jaimeposso/jaime16/242.ts
+#EXTINF:-1,UK: Cinema Family FHD
+http://tvlatina.homeip.net:25461/live/jaimeposso/jaime16/238.ts
+#EXTINF:-1,UK: Cinema Greats FHD
+http://tvlatina.homeip.net:25461/live/jaimeposso/jaime16/236.ts
+#EXTINF:-1,UK: Cinema Hits FHD
+http://tvlatina.homeip.net:25461/live/jaimeposso/jaime16/235.ts
+#EXTINF:-1,UK: Cinema Premiere FHD
+http://tvlatina.homeip.net:25461/live/jaimeposso/jaime16/234.ts
+#EXTINF:-1,UK: Cinema Sci-fi FHD
+http://tvlatina.homeip.net:25461/live/jaimeposso/jaime16/243.ts
+#EXTINF:-1,UK: Cinema Select FHD
+http://tvlatina.homeip.net:25461/live/jaimeposso/jaime16/244.ts
+#EXTINF:-1,UK: Cinema Thriller FHD
+http://tvlatina.homeip.net:25461/live/jaimeposso/jaime16/241.ts
+#EXTINF:-1,UK: Sports Action FHD
+http://tvlatina.homeip.net:25461/live/jaimeposso/jaime16/203.ts
+#EXTINF:-1,UK: Sports Arena FHD
+http://tvlatina.homeip.net:25461/live/jaimeposso/jaime16/204.ts
+#EXTINF:-1,UK: Sports F1 FHD
+http://tvlatina.homeip.net:25461/live/jaimeposso/jaime16/202.ts
+#EXTINF:-1,UK: Sports Football FHD
+http://tvlatina.homeip.net:25461/live/jaimeposso/jaime16/199.ts
+#EXTINF:-1,UK: Sports Golf FHD
+http://tvlatina.homeip.net:25461/live/jaimeposso/jaime16/201.ts
+#EXTINF:-1,UK: Sports Main Event FHD
+http://tvlatina.homeip.net:25461/live/jaimeposso/jaime16/197.ts
+#EXTINF:-1,UK: Sports Mix FHD
+http://tvlatina.homeip.net:25461/live/jaimeposso/jaime16/206.ts
+#EXTINF:-1,UK: Sports News FHD
+http://tvlatina.homeip.net:25461/live/jaimeposso/jaime16/205.ts
+#EXTINF:-1,UK: Sports Premier League FHD
+http://tvlatina.homeip.net:25461/live/jaimeposso/jaime16/198.ts
+#EXTINF:-1,UK: Sports Racing FHD
+http://tvlatina.homeip.net:25461/live/jaimeposso/jaime16/207.ts
+#EXTINF:-1,UK: TLC FHD
+http://tvlatina.homeip.net:25461/live/jaimeposso/jaime16/223.ts
+#EXTINF:-1,UK: Sports Cricket FHD
+http://tvlatina.homeip.net:25461/live/jaimeposso/jaime16/200.ts
+#EXTINF:-1,USA: ABC New York
+http://tvlatina.homeip.net:25461/live/jaimeposso/jaime16/1151.ts
+#EXTINF:-1,USA: Animal Planet
+http://tvlatina.homeip.net:25461/live/jaimeposso/jaime16/323.ts
+#EXTINF:-1,USA: Sports La
+http://tvlatina.homeip.net:25461/live/jaimeposso/jaime16/334.ts
+#EXTINF:-1,USA: CBS Miami
+http://tvlatina.homeip.net:25461/live/jaimeposso/jaime16/1160.ts
+#EXTINF:-1,USA: Cartoon Network
+http://tvlatina.homeip.net:25461/live/jaimeposso/jaime16/346.ts
+#EXTINF:-1,USA: Destination America
+http://tvlatina.homeip.net:25461/live/jaimeposso/jaime16/1899.ts
+#EXTINF:-1,USA: Disney JR
+http://tvlatina.homeip.net:25461/live/jaimeposso/jaime16/1153.ts
+#EXTINF:-1,USA: Disney Channel Pacific
+http://tvlatina.homeip.net:25461/live/jaimeposso/jaime16/341.ts
+#EXTINF:-1,USA: Discovery Investigation
+http://tvlatina.homeip.net:25461/live/jaimeposso/jaime16/1156.ts
+#EXTINF:-1,USA: Discovery Channel
+http://tvlatina.homeip.net:25461/live/jaimeposso/jaime16/1159.ts
+#EXTINF:-1,USA: Discovery Science
+http://tvlatina.homeip.net:25461/live/jaimeposso/jaime16/1898.ts
+#EXTINF:-1,USA: Discovery Tlc
+http://tvlatina.homeip.net:25461/live/jaimeposso/jaime16/1897.ts
+#EXTINF:-1,USA: Discovery Velocity
+http://tvlatina.homeip.net:25461/live/jaimeposso/jaime16/1896.ts
+#EXTINF:-1,USA: E! Entertainment
+http://tvlatina.homeip.net:25461/live/jaimeposso/jaime16/345.ts
+#EXTINF:-1,USA: ESPN 2 HD
+http://tvlatina.homeip.net:25461/live/jaimeposso/jaime16/338.ts
+#EXTINF:-1,USA: Food Network
+http://tvlatina.homeip.net:25461/live/jaimeposso/jaime16/344.ts
+#EXTINF:-1,USA: Fox News
+http://tvlatina.homeip.net:25461/live/jaimeposso/jaime16/285.ts
+#EXTINF:-1,USA: Fox Sports 1
+http://tvlatina.homeip.net:25461/live/jaimeposso/jaime16/340.ts
+#EXTINF:-1,USA: Fox Sports 2
+http://tvlatina.homeip.net:25461/live/jaimeposso/jaime16/339.ts
+#EXTINF:-1,USA: FXX
+http://tvlatina.homeip.net:25461/live/jaimeposso/jaime16/1155.ts
+#EXTINF:-1,USA: FXM
+http://tvlatina.homeip.net:25461/live/jaimeposso/jaime16/1152.ts
+#EXTINF:-1,USA: Gol Tv Espanol
+http://tvlatina.homeip.net:25461/live/jaimeposso/jaime16/331.ts
+#EXTINF:-1,USA: HBO HD
+http://tvlatina.homeip.net:25461/live/jaimeposso/jaime16/328.ts
+#EXTINF:-1,USA: MLB Network PS
+http://tvlatina.homeip.net:25461/live/jaimeposso/jaime16/343.ts
+#EXTINF:-1,USA: National Geographic HD
+http://tvlatina.homeip.net:25461/live/jaimeposso/jaime16/337.ts
+#EXTINF:-1,USA: NBC Miami
+http://tvlatina.homeip.net:25461/live/jaimeposso/jaime16/336.ts
+#EXTINF:-1,USA: NFL Network
+http://tvlatina.homeip.net:25461/live/jaimeposso/jaime16/1154.ts
+#EXTINF:-1,USA: NBC
+http://tvlatina.homeip.net:25461/live/jaimeposso/jaime16/1150.ts
