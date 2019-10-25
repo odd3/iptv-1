@@ -1,192 +1,263 @@
 #EXTM3U
-
-#EXTINF:-1,UK: 5 USA
-http://tvlatina.homeip.net:25461/live/jaimeposso/jaime16/216.ts
-#EXTINF:-1,UK: Animal Planet FHD
-http://tvlatina.homeip.net:25461/live/jaimeposso/jaime16/231.ts
-#EXTINF:-1,UK: Baby TV
-http://tvlatina.homeip.net:25461/live/jaimeposso/jaime16/260.ts
-#EXTINF:-1,UK: BBC 1 FHD
-http://tvlatina.homeip.net:25461/live/jaimeposso/jaime16/210.ts
-#EXTINF:-1,UK: BBC 1 London
-http://tvlatina.homeip.net:25461/live/jaimeposso/jaime16/268.ts
-#EXTINF:-1,UK: BBC 2 FHD
-http://tvlatina.homeip.net:25461/live/jaimeposso/jaime16/211.ts
-#EXTINF:-1,UK: Boomerang
-http://tvlatina.homeip.net:25461/live/jaimeposso/jaime16/252.ts
-#EXTINF:-1,UK: Box Nation HD
-http://tvlatina.homeip.net:25461/live/jaimeposso/jaime16/251.ts
-#EXTINF:-1,UK: Sport 1 HD
-http://tvlatina.homeip.net:25461/live/jaimeposso/jaime16/247.ts
-#EXTINF:-1,UK: Sport 2 HD
-http://tvlatina.homeip.net:25461/live/jaimeposso/jaime16/248.ts
-#EXTINF:-1,UK: Sport 3 HD
-http://tvlatina.homeip.net:25461/live/jaimeposso/jaime16/249.ts
-#EXTINF:-1,UK: Sport ESPN HD
-http://tvlatina.homeip.net:25461/live/jaimeposso/jaime16/250.ts
-#EXTINF:-1,UK: Cartoon Network FHD
-http://tvlatina.homeip.net:25461/live/jaimeposso/jaime16/258.ts
-#EXTINF:-1,UK: Cartoonito
-http://tvlatina.homeip.net:25461/live/jaimeposso/jaime16/257.ts
-#EXTINF:-1,UK: Channel 4 FHD
-http://tvlatina.homeip.net:25461/live/jaimeposso/jaime16/213.ts
-#EXTINF:-1,UK: Channel 5 FHD
-http://tvlatina.homeip.net:25461/live/jaimeposso/jaime16/214.ts
-#EXTINF:-1,UK: Comedy Central
-http://tvlatina.homeip.net:25461/live/jaimeposso/jaime16/218.ts
-#EXTINF:-1,UK: Crime & Investigation FHD
-http://tvlatina.homeip.net:25461/live/jaimeposso/jaime16/228.ts
-#EXTINF:-1,UK: Discovery FHD
-http://tvlatina.homeip.net:25461/live/jaimeposso/jaime16/229.ts
-#EXTINF:-1,UK: Discovery Turbo
-http://tvlatina.homeip.net:25461/live/jaimeposso/jaime16/227.ts
-#EXTINF:-1,UK: Disney Channel
-http://tvlatina.homeip.net:25461/live/jaimeposso/jaime16/262.ts
-#EXTINF:-1,UK: Disney Junior
-http://tvlatina.homeip.net:25461/live/jaimeposso/jaime16/263.ts
-#EXTINF:-1,UK: Disney XD
-http://tvlatina.homeip.net:25461/live/jaimeposso/jaime16/261.ts
-#EXTINF:-1,UK: E!
-http://tvlatina.homeip.net:25461/live/jaimeposso/jaime16/217.ts
-#EXTINF:-1,UK: E4
-http://tvlatina.homeip.net:25461/live/jaimeposso/jaime16/215.ts
-#EXTINF:-1,UK: Eurosport 1 HD
-http://tvlatina.homeip.net:25461/live/jaimeposso/jaime16/245.ts
-#EXTINF:-1,UK: Eurosport 2 HD
-http://tvlatina.homeip.net:25461/live/jaimeposso/jaime16/246.ts
-#EXTINF:-1,UK: Food Network
-http://tvlatina.homeip.net:25461/live/jaimeposso/jaime16/219.ts
-#EXTINF:-1,UK: Fox HD
-http://tvlatina.homeip.net:25461/live/jaimeposso/jaime16/225.ts
-#EXTINF:-1,UK: History FHD
-http://tvlatina.homeip.net:25461/live/jaimeposso/jaime16/230.ts
-#EXTINF:-1,UK: ITV 1 FHD
-http://tvlatina.homeip.net:25461/live/jaimeposso/jaime16/212.ts
-#EXTINF:-1,UK: ITV 2 HD
-http://tvlatina.homeip.net:25461/live/jaimeposso/jaime16/220.ts
-#EXTINF:-1,UK: ITV 3 HD
-http://tvlatina.homeip.net:25461/live/jaimeposso/jaime16/221.ts
-#EXTINF:-1,UK: MTV FHD
-http://tvlatina.homeip.net:25461/live/jaimeposso/jaime16/224.ts
-#EXTINF:-1,UK: National Geographic FHD
-http://tvlatina.homeip.net:25461/live/jaimeposso/jaime16/232.ts
-#EXTINF:-1,UK: National Geographic Wild FHD
-http://tvlatina.homeip.net:25461/live/jaimeposso/jaime16/233.ts
-#EXTINF:-1,UK: Nick FHD
-http://tvlatina.homeip.net:25461/live/jaimeposso/jaime16/259.ts
-#EXTINF:-1,UK: Nick Jr Too
-http://tvlatina.homeip.net:25461/live/jaimeposso/jaime16/256.ts
-#EXTINF:-1,UK: Nickelodeon
-http://tvlatina.homeip.net:25461/live/jaimeposso/jaime16/254.ts
-#EXTINF:-1,UK: Nicktoons
-http://tvlatina.homeip.net:25461/live/jaimeposso/jaime16/253.ts
-#EXTINF:-1,UK: Quest FHD
-http://tvlatina.homeip.net:25461/live/jaimeposso/jaime16/222.ts
-#EXTINF:-1,UK: RTE 1 HD
-http://tvlatina.homeip.net:25461/live/jaimeposso/jaime16/265.ts
-#EXTINF:-1,UK: RTE News
-http://tvlatina.homeip.net:25461/live/jaimeposso/jaime16/267.ts
-#EXTINF:-1,Uk: News
-http://tvlatina.homeip.net:25461/live/jaimeposso/jaime16/1426.ts
-#EXTINF:-1,UK: Cinema Action FHD
-http://tvlatina.homeip.net:25461/live/jaimeposso/jaime16/239.ts
-#EXTINF:-1,UK: Cinema Comedy FHD
-http://tvlatina.homeip.net:25461/live/jaimeposso/jaime16/240.ts
-#EXTINF:-1,UK: Cinema Disney FHD
-http://tvlatina.homeip.net:25461/live/jaimeposso/jaime16/237.ts
-#EXTINF:-1,UK: Cinema Drama FHD
-http://tvlatina.homeip.net:25461/live/jaimeposso/jaime16/242.ts
-#EXTINF:-1,UK: Cinema Family FHD
-http://tvlatina.homeip.net:25461/live/jaimeposso/jaime16/238.ts
-#EXTINF:-1,UK: Cinema Greats FHD
-http://tvlatina.homeip.net:25461/live/jaimeposso/jaime16/236.ts
-#EXTINF:-1,UK: Cinema Hits FHD
-http://tvlatina.homeip.net:25461/live/jaimeposso/jaime16/235.ts
-#EXTINF:-1,UK: Cinema Premiere FHD
-http://tvlatina.homeip.net:25461/live/jaimeposso/jaime16/234.ts
-#EXTINF:-1,UK: Cinema Sci-fi FHD
-http://tvlatina.homeip.net:25461/live/jaimeposso/jaime16/243.ts
-#EXTINF:-1,UK: Cinema Select FHD
-http://tvlatina.homeip.net:25461/live/jaimeposso/jaime16/244.ts
-#EXTINF:-1,UK: Cinema Thriller FHD
-http://tvlatina.homeip.net:25461/live/jaimeposso/jaime16/241.ts
-#EXTINF:-1,UK: Sports Action FHD
-http://tvlatina.homeip.net:25461/live/jaimeposso/jaime16/203.ts
-#EXTINF:-1,UK: Sports Arena FHD
-http://tvlatina.homeip.net:25461/live/jaimeposso/jaime16/204.ts
-#EXTINF:-1,UK: Sports F1 FHD
-http://tvlatina.homeip.net:25461/live/jaimeposso/jaime16/202.ts
-#EXTINF:-1,UK: Sports Football FHD
-http://tvlatina.homeip.net:25461/live/jaimeposso/jaime16/199.ts
-#EXTINF:-1,UK: Sports Golf FHD
-http://tvlatina.homeip.net:25461/live/jaimeposso/jaime16/201.ts
-#EXTINF:-1,UK: Sports Main Event FHD
-http://tvlatina.homeip.net:25461/live/jaimeposso/jaime16/197.ts
-#EXTINF:-1,UK: Sports Mix FHD
-http://tvlatina.homeip.net:25461/live/jaimeposso/jaime16/206.ts
-#EXTINF:-1,UK: Sports News FHD
-http://tvlatina.homeip.net:25461/live/jaimeposso/jaime16/205.ts
-#EXTINF:-1,UK: Sports Premier League FHD
-http://tvlatina.homeip.net:25461/live/jaimeposso/jaime16/198.ts
-#EXTINF:-1,UK: Sports Racing FHD
-http://tvlatina.homeip.net:25461/live/jaimeposso/jaime16/207.ts
-#EXTINF:-1,UK: TLC FHD
-http://tvlatina.homeip.net:25461/live/jaimeposso/jaime16/223.ts
-#EXTINF:-1,UK: Sports Cricket FHD
-http://tvlatina.homeip.net:25461/live/jaimeposso/jaime16/200.ts
-#EXTINF:-1,USA: ABC New York
-http://tvlatina.homeip.net:25461/live/jaimeposso/jaime16/1151.ts
-#EXTINF:-1,USA: Animal Planet
-http://tvlatina.homeip.net:25461/live/jaimeposso/jaime16/323.ts
-#EXTINF:-1,USA: Sports La
-http://tvlatina.homeip.net:25461/live/jaimeposso/jaime16/334.ts
-#EXTINF:-1,USA: CBS Miami
-http://tvlatina.homeip.net:25461/live/jaimeposso/jaime16/1160.ts
-#EXTINF:-1,USA: Cartoon Network
-http://tvlatina.homeip.net:25461/live/jaimeposso/jaime16/346.ts
-#EXTINF:-1,USA: Destination America
-http://tvlatina.homeip.net:25461/live/jaimeposso/jaime16/1899.ts
-#EXTINF:-1,USA: Disney JR
-http://tvlatina.homeip.net:25461/live/jaimeposso/jaime16/1153.ts
-#EXTINF:-1,USA: Disney Channel Pacific
-http://tvlatina.homeip.net:25461/live/jaimeposso/jaime16/341.ts
-#EXTINF:-1,USA: Discovery Investigation
-http://tvlatina.homeip.net:25461/live/jaimeposso/jaime16/1156.ts
-#EXTINF:-1,USA: Discovery Channel
-http://tvlatina.homeip.net:25461/live/jaimeposso/jaime16/1159.ts
-#EXTINF:-1,USA: Discovery Science
-http://tvlatina.homeip.net:25461/live/jaimeposso/jaime16/1898.ts
-#EXTINF:-1,USA: Discovery Tlc
-http://tvlatina.homeip.net:25461/live/jaimeposso/jaime16/1897.ts
-#EXTINF:-1,USA: Discovery Velocity
-http://tvlatina.homeip.net:25461/live/jaimeposso/jaime16/1896.ts
-#EXTINF:-1,USA: E! Entertainment
-http://tvlatina.homeip.net:25461/live/jaimeposso/jaime16/345.ts
-#EXTINF:-1,USA: ESPN 2 HD
-http://tvlatina.homeip.net:25461/live/jaimeposso/jaime16/338.ts
-#EXTINF:-1,USA: Food Network
-http://tvlatina.homeip.net:25461/live/jaimeposso/jaime16/344.ts
-#EXTINF:-1,USA: Fox News
-http://tvlatina.homeip.net:25461/live/jaimeposso/jaime16/285.ts
-#EXTINF:-1,USA: Fox Sports 1
-http://tvlatina.homeip.net:25461/live/jaimeposso/jaime16/340.ts
-#EXTINF:-1,USA: Fox Sports 2
-http://tvlatina.homeip.net:25461/live/jaimeposso/jaime16/339.ts
-#EXTINF:-1,USA: FXX
-http://tvlatina.homeip.net:25461/live/jaimeposso/jaime16/1155.ts
-#EXTINF:-1,USA: FXM
-http://tvlatina.homeip.net:25461/live/jaimeposso/jaime16/1152.ts
-#EXTINF:-1,USA: Gol Tv Espanol
-http://tvlatina.homeip.net:25461/live/jaimeposso/jaime16/331.ts
-#EXTINF:-1,USA: HBO HD
-http://tvlatina.homeip.net:25461/live/jaimeposso/jaime16/328.ts
-#EXTINF:-1,USA: MLB Network PS
-http://tvlatina.homeip.net:25461/live/jaimeposso/jaime16/343.ts
-#EXTINF:-1,USA: National Geographic HD
-http://tvlatina.homeip.net:25461/live/jaimeposso/jaime16/337.ts
-#EXTINF:-1,USA: NBC Miami
-http://tvlatina.homeip.net:25461/live/jaimeposso/jaime16/336.ts
-#EXTINF:-1,USA: NFL Network
-http://tvlatina.homeip.net:25461/live/jaimeposso/jaime16/1154.ts
-#EXTINF:-1,USA: NBC
-http://tvlatina.homeip.net:25461/live/jaimeposso/jaime16/1150.ts
+#EXTINF:-1,US: NBC HD Raleigh NC
+http://nitro.ltd:25461/Ms/Ms/1265
+#EXTINF:-1,US: NBC HD Philadelphia PA
+http://nitro.ltd:25461/Ms/Ms/1420
+#EXTINF:-1,US: FOX HD Philadelphia PA
+http://nitro.ltd:25461/Ms/Ms/2956
+#EXTINF:-1,US: CBS HD Philadelphia PA
+http://nitro.ltd:25461/Ms/Ms/3682
+#EXTINF:-1,US: ABC HD Philadelphia
+http://nitro.ltd:25461/Ms/Ms/3684
+#EXTINF:-1,US: NBC HD Boston MA
+http://nitro.ltd:25461/Ms/Ms/5947
+#EXTINF:-1,US: NBC HD San Francisco
+http://nitro.ltd:25461/Ms/Ms/5949
+#EXTINF:-1,US: NBC HD Los Angeles CA
+http://nitro.ltd:25461/Ms/Ms/5950
+#EXTINF:-1,US: FOX HD New York NY
+http://nitro.ltd:25461/Ms/Ms/5951
+#EXTINF:-1,US: FOX HD Miami FL
+http://nitro.ltd:25461/Ms/Ms/5953
+#EXTINF:-1,US: CBS HD San Francisco CA
+http://nitro.ltd:25461/Ms/Ms/5962
+#EXTINF:-1,US: CBS HD Los Angeles CA
+http://nitro.ltd:25461/Ms/Ms/5963
+#EXTINF:-1,US: WLNY HD New York
+http://nitro.ltd:25461/Ms/Ms/5964
+#EXTINF:-1,US: PBS HD Penn State University
+http://nitro.ltd:25461/Ms/Ms/6072
+#EXTINF:-1,US: NBC HD New York NY
+http://nitro.ltd:25461/Ms/Ms/6095
+#EXTINF:-1,US: FOX HD San Francisco
+http://nitro.ltd:25461/Ms/Ms/6097
+#EXTINF:-1,US: WGN HD Chicago
+http://nitro.ltd:25461/Ms/Ms/7958
+#EXTINF:-1,US: NBC HD Houston TX
+http://nitro.ltd:25461/Ms/Ms/10160
+#EXTINF:-1,US: FOX HD Houston TX
+http://nitro.ltd:25461/Ms/Ms/10163
+#EXTINF:-1,US: CW HD
+http://nitro.ltd:25461/Ms/Ms/11669
+#EXTINF:-1,US: CBS HD Nashville TN
+http://nitro.ltd:25461/Ms/Ms/11678
+#EXTINF:-1,US: FOX HD Hartford CT
+http://nitro.ltd:25461/Ms/Ms/11680
+#EXTINF:-1,US: FOX HD Tampa Bay FL
+http://nitro.ltd:25461/Ms/Ms/11682
+#EXTINF:-1,US: FOX HD Detroit MI
+http://nitro.ltd:25461/Ms/Ms/11683
+#EXTINF:-1,US: FOX HD Milwaukee WI
+http://nitro.ltd:25461/Ms/Ms/11685
+#EXTINF:-1,US: NBC HD Pittsburgh PA
+http://nitro.ltd:25461/Ms/Ms/11695
+#EXTINF:-1,US: FOX HD Tacoma
+http://nitro.ltd:25461/Ms/Ms/11700
+#EXTINF:-1,US: NBC HD Washington DC
+http://nitro.ltd:25461/Ms/Ms/11701
+#EXTINF:-1,US: CBS HD Boston MA
+http://nitro.ltd:25461/Ms/Ms/11702
+#EXTINF:-1,US: CBS HD Sacramento CA
+http://nitro.ltd:25461/Ms/Ms/11703
+#EXTINF:-1,US: FOX HD Pittsburgh PA
+http://nitro.ltd:25461/Ms/Ms/11704
+#EXTINF:-1,US: FOX HD Minneapolis MN
+http://nitro.ltd:25461/Ms/Ms/11707
+#EXTINF:-1,US: NBC HD Baltimore MD
+http://nitro.ltd:25461/Ms/Ms/11708
+#EXTINF:-1,US: CBS HD Orlando FL
+http://nitro.ltd:25461/Ms/Ms/11709
+#EXTINF:-1,US: FOX HD Austin TX
+http://nitro.ltd:25461/Ms/Ms/11710
+#EXTINF:-1,US: FOX HD Denver CO
+http://nitro.ltd:25461/Ms/Ms/11711
+#EXTINF:-1,US: NBC HD Hartford CT
+http://nitro.ltd:25461/Ms/Ms/11712
+#EXTINF:-1,US: FOX HD Salt Lake City UT
+http://nitro.ltd:25461/Ms/Ms/11716
+#EXTINF:-1,US: FOX HD Phoenix AZ
+http://nitro.ltd:25461/Ms/Ms/11720
+#EXTINF:-1,US: FOX HD Columbus OH
+http://nitro.ltd:25461/Ms/Ms/11722
+#EXTINF:-1,US: FOX HD Sacramento CA
+http://nitro.ltd:25461/Ms/Ms/11723
+#EXTINF:-1,US: FOX HD Newport
+http://nitro.ltd:25461/Ms/Ms/11725
+#EXTINF:-1,US: FOX HD San Diego
+http://nitro.ltd:25461/Ms/Ms/11726
+#EXTINF:-1,US: FOX HD Dallas TX
+http://nitro.ltd:25461/Ms/Ms/11729
+#EXTINF:-1,US: NBC HD Detroit MI
+http://nitro.ltd:25461/Ms/Ms/11730
+#EXTINF:-1,US: CBS HD Baltimore MD
+http://nitro.ltd:25461/Ms/Ms/11735
+#EXTINF:-1,US: CBS HD Seattle WA
+http://nitro.ltd:25461/Ms/Ms/11736
+#EXTINF:-1,US: CBS HD Minneapolis MN
+http://nitro.ltd:25461/Ms/Ms/11739
+#EXTINF:-1,US: ABC HD New York NY
+http://nitro.ltd:25461/Ms/Ms/11740
+#EXTINF:-1,US: CBS HD Chicago IL
+http://nitro.ltd:25461/Ms/Ms/11743
+#EXTINF:-1,US: CBS HD Pittsburgh PA
+http://nitro.ltd:25461/Ms/Ms/11744
+#EXTINF:-1,US: CBS HD San Diego CA
+http://nitro.ltd:25461/Ms/Ms/11745
+#EXTINF:-1,US: FOX HD Chicago IL
+http://nitro.ltd:25461/Ms/Ms/11749
+#EXTINF:-1,US: NBC HD Chicago IL
+http://nitro.ltd:25461/Ms/Ms/11752
+#EXTINF:-1,US: CBS HD Miami FL
+http://nitro.ltd:25461/Ms/Ms/11756
+#EXTINF:-1,US: FOX HD Jacksonville FL
+http://nitro.ltd:25461/Ms/Ms/11757
+#EXTINF:-1,US: CBS HD Denver CO
+http://nitro.ltd:25461/Ms/Ms/11760
+#EXTINF:-1,US: FOX HD Atlanta GA
+http://nitro.ltd:25461/Ms/Ms/11762
+#EXTINF:-1,US: FOX HD Belmont
+http://nitro.ltd:25461/Ms/Ms/11767
+#EXTINF:-1,US: FOX HD Kansas City MO
+http://nitro.ltd:25461/Ms/Ms/11768
+#EXTINF:-1,US: FOX HD Indianapolis IN
+http://nitro.ltd:25461/Ms/Ms/11772
+#EXTINF:-1,US: NBC HD Miami FL
+http://nitro.ltd:25461/Ms/Ms/11774
+#EXTINF:-1,US: FOX HD Cleveland OH
+http://nitro.ltd:25461/Ms/Ms/11775
+#EXTINF:-1,US: NBC HD Dallas TX
+http://nitro.ltd:25461/Ms/Ms/11776
+#EXTINF:-1,US: CBS HD Detroit MI
+http://nitro.ltd:25461/Ms/Ms/11777
+#EXTINF:-1,US: FOX HD Orlando FL
+http://nitro.ltd:25461/Ms/Ms/11778
+#EXTINF:-1,US: CBS HD Jacksonville FL
+http://nitro.ltd:25461/Ms/Ms/11779
+#EXTINF:-1,US: NBC HD San Diego CA
+http://nitro.ltd:25461/Ms/Ms/11782
+#EXTINF:-1,US: FOX HD Moorefield
+http://nitro.ltd:25461/Ms/Ms/11783
+#EXTINF:-1,US: CBS HD Dallas TX KTVT
+http://nitro.ltd:25461/Ms/Ms/11789
+#EXTINF:-1,US: FOX HD Buffalo NY
+http://nitro.ltd:25461/Ms/Ms/11791
+#EXTINF:-1,US: CBS HD Columbus OH
+http://nitro.ltd:25461/Ms/Ms/11796
+#EXTINF:-1,US: FOX HD Gainsville FL
+http://nitro.ltd:25461/Ms/Ms/11797
+#EXTINF:-1,US: FOX HD New Orleans LA
+http://nitro.ltd:25461/Ms/Ms/11800
+#EXTINF:-1,US: CBS HD Bay City MI
+http://nitro.ltd:25461/Ms/Ms/12531
+#EXTINF:-1,US: CBS HD Lexington KY
+http://nitro.ltd:25461/Ms/Ms/12532
+#EXTINF:-1,US: CBS HD Waco TX
+http://nitro.ltd:25461/Ms/Ms/12533
+#EXTINF:-1,US: CBS HD Dayton OH
+http://nitro.ltd:25461/Ms/Ms/12534
+#EXTINF:-1,US: CBS HD Honolulu HI
+http://nitro.ltd:25461/Ms/Ms/12541
+#EXTINF:-1,US: CBS HD Wichita KS
+http://nitro.ltd:25461/Ms/Ms/12542
+#EXTINF:-1,US: CBS HD Charleston SC
+http://nitro.ltd:25461/Ms/Ms/12544
+#EXTINF:-1,US: CBS HD Tucson AZ
+http://nitro.ltd:25461/Ms/Ms/12545
+#EXTINF:-1,US: CBS HD Toledo OH
+http://nitro.ltd:25461/Ms/Ms/12548
+#EXTINF:-1,US: CBS Savannah
+http://nitro.ltd:25461/Ms/Ms/12549
+#EXTINF:-1,US: CBS HD Fort Myers
+http://nitro.ltd:25461/Ms/Ms/12560
+#EXTINF:-1,US: CBS HD Burlington VT
+http://nitro.ltd:25461/Ms/Ms/12561
+#EXTINF:-1,US: CBS HD Santa Maria CA
+http://nitro.ltd:25461/Ms/Ms/12566
+#EXTINF:-1,US: CBS HD Knoxville TN
+http://nitro.ltd:25461/Ms/Ms/12567
+#EXTINF:-1,US: CBS Colorado Springs
+http://nitro.ltd:25461/Ms/Ms/12569
+#EXTINF:-1,US: CBS HD Lincoln NE
+http://nitro.ltd:25461/Ms/Ms/12570
+#EXTINF:-1,US: CBS HD Roanoke VA
+http://nitro.ltd:25461/Ms/Ms/12585
+#EXTINF:-1,US: CBS HD Cadillac MI
+http://nitro.ltd:25461/Ms/Ms/12586
+#EXTINF:-1,US: CBS HD Oklahoma City OK
+http://nitro.ltd:25461/Ms/Ms/12591
+#EXTINF:-1,US: CBS HD Springfield MO
+http://nitro.ltd:25461/Ms/Ms/13118
+#EXTINF:-1,US: CW HD KTLA CH 5 Los Angeles CA
+http://nitro.ltd:25461/Ms/Ms/18517
+#EXTINF:-1,US: ABC HD Philadelphia PA
+http://nitro.ltd:25461/Ms/Ms/18518
+#EXTINF:-1,US: CBS HD New York NY
+http://nitro.ltd:25461/Ms/Ms/18519
+#EXTINF:-1,US: News 12 Bronx
+http://nitro.ltd:25461/Ms/Ms/18520
+#EXTINF:-1,US: News 12 Brooklyn
+http://nitro.ltd:25461/Ms/Ms/18521
+#EXTINF:-1,US: News 12 Connecticut
+http://nitro.ltd:25461/Ms/Ms/18522
+#EXTINF:-1,US: News 12 Hudson Valley
+http://nitro.ltd:25461/Ms/Ms/18523
+#EXTINF:-1,US: News 12 Long Island
+http://nitro.ltd:25461/Ms/Ms/18524
+#EXTINF:-1,US: News 12 New Jersey
+http://nitro.ltd:25461/Ms/Ms/18525
+#EXTINF:-1,US: News 12 Westchester
+http://nitro.ltd:25461/Ms/Ms/18526
+#EXTINF:-1,US: ABC HD Detroit MI
+http://nitro.ltd:25461/Ms/Ms/19813
+#EXTINF:-1,US: ABC HD Milwaukee WI
+http://nitro.ltd:25461/Ms/Ms/19814
+#EXTINF:-1,US: ABC HD Kansas City MO
+http://nitro.ltd:25461/Ms/Ms/19815
+#EXTINF:-1,US: ABC HD San Antonio TX
+http://nitro.ltd:25461/Ms/Ms/19816
+#EXTINF:-1,US: ABC HD Salt Lake City UT
+http://nitro.ltd:25461/Ms/Ms/19817
+#EXTINF:-1,US: ABC HD Minneapolis MN
+http://nitro.ltd:25461/Ms/Ms/19818
+#EXTINF:-1,US: ABC HD Baltimore MD
+http://nitro.ltd:25461/Ms/Ms/19819
+#EXTINF:-1,US: ABC HD Tampa Bay FL
+http://nitro.ltd:25461/Ms/Ms/19820
+#EXTINF:-1,US: ABC HD Phoenix AZ
+http://nitro.ltd:25461/Ms/Ms/19821
+#EXTINF:-1,US: ABC HD Indianapolis IN
+http://nitro.ltd:25461/Ms/Ms/19822
+#EXTINF:-1,US: ABC HD Cleveland OH
+http://nitro.ltd:25461/Ms/Ms/19823
+#EXTINF:-1,US: ABC HD Sacramento CA
+http://nitro.ltd:25461/Ms/Ms/19824
+#EXTINF:-1,US: ABC HD Charlotte NC
+http://nitro.ltd:25461/Ms/Ms/19825
+#EXTINF:-1,US: ABC HD Miami FL
+http://nitro.ltd:25461/Ms/Ms/19826
+#EXTINF:-1,US: ABC HD Orlando FL
+http://nitro.ltd:25461/Ms/Ms/19827
+#EXTINF:-1,US: ABC HD Nashville TN
+http://nitro.ltd:25461/Ms/Ms/19828
+#EXTINF:-1,US: ABC HD San Diego CA
+http://nitro.ltd:25461/Ms/Ms/19829
+#EXTINF:-1,US: ABC HD Denver CO
+http://nitro.ltd:25461/Ms/Ms/19830
+#EXTINF:-1,US: ABC HD Dallas TX
+http://nitro.ltd:25461/Ms/Ms/19831
+#EXTINF:-1,US: ABC HD Pittsburgh PA
+http://nitro.ltd:25461/Ms/Ms/19832
+#EXTINF:-1,US: ABC HD Boston MA
+http://nitro.ltd:25461/Ms/Ms/19833
+#EXTINF:-1,US: ABC HD Hartford CT
+http://nitro.ltd:25461/Ms/Ms/19835
+#EXTINF:-1,US: ABC HD Fresno CA
+http://nitro.ltd:25461/Ms/Ms/19836
+#EXTINF:-1,US: ABC HD Durham
+http://nitro.ltd:25461/Ms/Ms/19837
+#EXTINF:-1,US: ABC HD Atlanta GA
+http://nitro.ltd:25461/Ms/Ms/19838
+#EXTINF:-1,US: ABC HD Chicago IL
+http://nitro.ltd:25461/Ms/Ms/19839
+#EXTINF:-1,US: ABC HD San Francisco CA
+http://nitro.ltd:25461/Ms/Ms/19842
