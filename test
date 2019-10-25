@@ -261,3 +261,8 @@ http://nitro.ltd:25461/Ms/Ms/19838
 http://nitro.ltd:25461/Ms/Ms/19839
 #EXTINF:-1,US: ABC HD San Francisco CA
 http://nitro.ltd:25461/Ms/Ms/19842
+
+#EXTINF:-1 tvg-id="DisneyChannel.us" tvg-name="US: Disney Channel HD 1080" tvg-logo="https://cdn1.thr.com/sites/default/files/imagecache/landscape_928x523/2014/05/disney_channel_logo_a_l.jpg" group-title="KIDS",US: Disney Channel HD 1080
+http://impulsetv.org:25461/mark/1234/19683
+#EXTINF:-1 tvg-id="DisneyChannel.us" tvg-name="US: Disney Channel 720" tvg-logo="https://cdn1.thr.com/sites/default/files/imagecache/landscape_928x523/2014/05/disney_channel_logo_a_l.jpg" group-title="KIDS",US: Disney Channel 720
+http://impulsetv.org:25461/mark/1234/1456
