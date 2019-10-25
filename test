@@ -1,268 +1,37 @@
 #EXTM3U
-#EXTINF:-1,US: NBC HD Raleigh NC
-http://nitro.ltd:25461/Ms/Ms/1265
-#EXTINF:-1,US: NBC HD Philadelphia PA
-http://nitro.ltd:25461/Ms/Ms/1420
-#EXTINF:-1,US: FOX HD Philadelphia PA
-http://nitro.ltd:25461/Ms/Ms/2956
-#EXTINF:-1,US: CBS HD Philadelphia PA
-http://nitro.ltd:25461/Ms/Ms/3682
-#EXTINF:-1,US: ABC HD Philadelphia
-http://nitro.ltd:25461/Ms/Ms/3684
-#EXTINF:-1,US: NBC HD Boston MA
-http://nitro.ltd:25461/Ms/Ms/5947
-#EXTINF:-1,US: NBC HD San Francisco
-http://nitro.ltd:25461/Ms/Ms/5949
-#EXTINF:-1,US: NBC HD Los Angeles CA
-http://nitro.ltd:25461/Ms/Ms/5950
-#EXTINF:-1,US: FOX HD New York NY
-http://nitro.ltd:25461/Ms/Ms/5951
-#EXTINF:-1,US: FOX HD Miami FL
-http://nitro.ltd:25461/Ms/Ms/5953
-#EXTINF:-1,US: CBS HD San Francisco CA
-http://nitro.ltd:25461/Ms/Ms/5962
-#EXTINF:-1,US: CBS HD Los Angeles CA
-http://nitro.ltd:25461/Ms/Ms/5963
-#EXTINF:-1,US: WLNY HD New York
-http://nitro.ltd:25461/Ms/Ms/5964
-#EXTINF:-1,US: PBS HD Penn State University
-http://nitro.ltd:25461/Ms/Ms/6072
-#EXTINF:-1,US: NBC HD New York NY
-http://nitro.ltd:25461/Ms/Ms/6095
-#EXTINF:-1,US: FOX HD San Francisco
-http://nitro.ltd:25461/Ms/Ms/6097
-#EXTINF:-1,US: WGN HD Chicago
-http://nitro.ltd:25461/Ms/Ms/7958
-#EXTINF:-1,US: NBC HD Houston TX
-http://nitro.ltd:25461/Ms/Ms/10160
-#EXTINF:-1,US: FOX HD Houston TX
-http://nitro.ltd:25461/Ms/Ms/10163
-#EXTINF:-1,US: CW HD
-http://nitro.ltd:25461/Ms/Ms/11669
-#EXTINF:-1,US: CBS HD Nashville TN
-http://nitro.ltd:25461/Ms/Ms/11678
-#EXTINF:-1,US: FOX HD Hartford CT
-http://nitro.ltd:25461/Ms/Ms/11680
-#EXTINF:-1,US: FOX HD Tampa Bay FL
-http://nitro.ltd:25461/Ms/Ms/11682
-#EXTINF:-1,US: FOX HD Detroit MI
-http://nitro.ltd:25461/Ms/Ms/11683
-#EXTINF:-1,US: FOX HD Milwaukee WI
-http://nitro.ltd:25461/Ms/Ms/11685
-#EXTINF:-1,US: NBC HD Pittsburgh PA
-http://nitro.ltd:25461/Ms/Ms/11695
-#EXTINF:-1,US: FOX HD Tacoma
-http://nitro.ltd:25461/Ms/Ms/11700
-#EXTINF:-1,US: NBC HD Washington DC
-http://nitro.ltd:25461/Ms/Ms/11701
-#EXTINF:-1,US: CBS HD Boston MA
-http://nitro.ltd:25461/Ms/Ms/11702
-#EXTINF:-1,US: CBS HD Sacramento CA
-http://nitro.ltd:25461/Ms/Ms/11703
-#EXTINF:-1,US: FOX HD Pittsburgh PA
-http://nitro.ltd:25461/Ms/Ms/11704
-#EXTINF:-1,US: FOX HD Minneapolis MN
-http://nitro.ltd:25461/Ms/Ms/11707
-#EXTINF:-1,US: NBC HD Baltimore MD
-http://nitro.ltd:25461/Ms/Ms/11708
-#EXTINF:-1,US: CBS HD Orlando FL
-http://nitro.ltd:25461/Ms/Ms/11709
-#EXTINF:-1,US: FOX HD Austin TX
-http://nitro.ltd:25461/Ms/Ms/11710
-#EXTINF:-1,US: FOX HD Denver CO
-http://nitro.ltd:25461/Ms/Ms/11711
-#EXTINF:-1,US: NBC HD Hartford CT
-http://nitro.ltd:25461/Ms/Ms/11712
-#EXTINF:-1,US: FOX HD Salt Lake City UT
-http://nitro.ltd:25461/Ms/Ms/11716
-#EXTINF:-1,US: FOX HD Phoenix AZ
-http://nitro.ltd:25461/Ms/Ms/11720
-#EXTINF:-1,US: FOX HD Columbus OH
-http://nitro.ltd:25461/Ms/Ms/11722
-#EXTINF:-1,US: FOX HD Sacramento CA
-http://nitro.ltd:25461/Ms/Ms/11723
-#EXTINF:-1,US: FOX HD Newport
-http://nitro.ltd:25461/Ms/Ms/11725
-#EXTINF:-1,US: FOX HD San Diego
-http://nitro.ltd:25461/Ms/Ms/11726
-#EXTINF:-1,US: FOX HD Dallas TX
-http://nitro.ltd:25461/Ms/Ms/11729
-#EXTINF:-1,US: NBC HD Detroit MI
-http://nitro.ltd:25461/Ms/Ms/11730
-#EXTINF:-1,US: CBS HD Baltimore MD
-http://nitro.ltd:25461/Ms/Ms/11735
-#EXTINF:-1,US: CBS HD Seattle WA
-http://nitro.ltd:25461/Ms/Ms/11736
-#EXTINF:-1,US: CBS HD Minneapolis MN
-http://nitro.ltd:25461/Ms/Ms/11739
-#EXTINF:-1,US: ABC HD New York NY
-http://nitro.ltd:25461/Ms/Ms/11740
-#EXTINF:-1,US: CBS HD Chicago IL
-http://nitro.ltd:25461/Ms/Ms/11743
-#EXTINF:-1,US: CBS HD Pittsburgh PA
-http://nitro.ltd:25461/Ms/Ms/11744
-#EXTINF:-1,US: CBS HD San Diego CA
-http://nitro.ltd:25461/Ms/Ms/11745
-#EXTINF:-1,US: FOX HD Chicago IL
-http://nitro.ltd:25461/Ms/Ms/11749
-#EXTINF:-1,US: NBC HD Chicago IL
-http://nitro.ltd:25461/Ms/Ms/11752
-#EXTINF:-1,US: CBS HD Miami FL
-http://nitro.ltd:25461/Ms/Ms/11756
-#EXTINF:-1,US: FOX HD Jacksonville FL
-http://nitro.ltd:25461/Ms/Ms/11757
-#EXTINF:-1,US: CBS HD Denver CO
-http://nitro.ltd:25461/Ms/Ms/11760
-#EXTINF:-1,US: FOX HD Atlanta GA
-http://nitro.ltd:25461/Ms/Ms/11762
-#EXTINF:-1,US: FOX HD Belmont
-http://nitro.ltd:25461/Ms/Ms/11767
-#EXTINF:-1,US: FOX HD Kansas City MO
-http://nitro.ltd:25461/Ms/Ms/11768
-#EXTINF:-1,US: FOX HD Indianapolis IN
-http://nitro.ltd:25461/Ms/Ms/11772
-#EXTINF:-1,US: NBC HD Miami FL
-http://nitro.ltd:25461/Ms/Ms/11774
-#EXTINF:-1,US: FOX HD Cleveland OH
-http://nitro.ltd:25461/Ms/Ms/11775
-#EXTINF:-1,US: NBC HD Dallas TX
-http://nitro.ltd:25461/Ms/Ms/11776
-#EXTINF:-1,US: CBS HD Detroit MI
-http://nitro.ltd:25461/Ms/Ms/11777
-#EXTINF:-1,US: FOX HD Orlando FL
-http://nitro.ltd:25461/Ms/Ms/11778
-#EXTINF:-1,US: CBS HD Jacksonville FL
-http://nitro.ltd:25461/Ms/Ms/11779
-#EXTINF:-1,US: NBC HD San Diego CA
-http://nitro.ltd:25461/Ms/Ms/11782
-#EXTINF:-1,US: FOX HD Moorefield
-http://nitro.ltd:25461/Ms/Ms/11783
-#EXTINF:-1,US: CBS HD Dallas TX KTVT
-http://nitro.ltd:25461/Ms/Ms/11789
-#EXTINF:-1,US: FOX HD Buffalo NY
-http://nitro.ltd:25461/Ms/Ms/11791
-#EXTINF:-1,US: CBS HD Columbus OH
-http://nitro.ltd:25461/Ms/Ms/11796
-#EXTINF:-1,US: FOX HD Gainsville FL
-http://nitro.ltd:25461/Ms/Ms/11797
-#EXTINF:-1,US: FOX HD New Orleans LA
-http://nitro.ltd:25461/Ms/Ms/11800
-#EXTINF:-1,US: CBS HD Bay City MI
-http://nitro.ltd:25461/Ms/Ms/12531
-#EXTINF:-1,US: CBS HD Lexington KY
-http://nitro.ltd:25461/Ms/Ms/12532
-#EXTINF:-1,US: CBS HD Waco TX
-http://nitro.ltd:25461/Ms/Ms/12533
-#EXTINF:-1,US: CBS HD Dayton OH
-http://nitro.ltd:25461/Ms/Ms/12534
-#EXTINF:-1,US: CBS HD Honolulu HI
-http://nitro.ltd:25461/Ms/Ms/12541
-#EXTINF:-1,US: CBS HD Wichita KS
-http://nitro.ltd:25461/Ms/Ms/12542
-#EXTINF:-1,US: CBS HD Charleston SC
-http://nitro.ltd:25461/Ms/Ms/12544
-#EXTINF:-1,US: CBS HD Tucson AZ
-http://nitro.ltd:25461/Ms/Ms/12545
-#EXTINF:-1,US: CBS HD Toledo OH
-http://nitro.ltd:25461/Ms/Ms/12548
-#EXTINF:-1,US: CBS Savannah
-http://nitro.ltd:25461/Ms/Ms/12549
-#EXTINF:-1,US: CBS HD Fort Myers
-http://nitro.ltd:25461/Ms/Ms/12560
-#EXTINF:-1,US: CBS HD Burlington VT
-http://nitro.ltd:25461/Ms/Ms/12561
-#EXTINF:-1,US: CBS HD Santa Maria CA
-http://nitro.ltd:25461/Ms/Ms/12566
-#EXTINF:-1,US: CBS HD Knoxville TN
-http://nitro.ltd:25461/Ms/Ms/12567
-#EXTINF:-1,US: CBS Colorado Springs
-http://nitro.ltd:25461/Ms/Ms/12569
-#EXTINF:-1,US: CBS HD Lincoln NE
-http://nitro.ltd:25461/Ms/Ms/12570
-#EXTINF:-1,US: CBS HD Roanoke VA
-http://nitro.ltd:25461/Ms/Ms/12585
-#EXTINF:-1,US: CBS HD Cadillac MI
-http://nitro.ltd:25461/Ms/Ms/12586
-#EXTINF:-1,US: CBS HD Oklahoma City OK
-http://nitro.ltd:25461/Ms/Ms/12591
-#EXTINF:-1,US: CBS HD Springfield MO
-http://nitro.ltd:25461/Ms/Ms/13118
-#EXTINF:-1,US: CW HD KTLA CH 5 Los Angeles CA
-http://nitro.ltd:25461/Ms/Ms/18517
-#EXTINF:-1,US: ABC HD Philadelphia PA
-http://nitro.ltd:25461/Ms/Ms/18518
-#EXTINF:-1,US: CBS HD New York NY
-http://nitro.ltd:25461/Ms/Ms/18519
-#EXTINF:-1,US: News 12 Bronx
-http://nitro.ltd:25461/Ms/Ms/18520
-#EXTINF:-1,US: News 12 Brooklyn
-http://nitro.ltd:25461/Ms/Ms/18521
-#EXTINF:-1,US: News 12 Connecticut
-http://nitro.ltd:25461/Ms/Ms/18522
-#EXTINF:-1,US: News 12 Hudson Valley
-http://nitro.ltd:25461/Ms/Ms/18523
-#EXTINF:-1,US: News 12 Long Island
-http://nitro.ltd:25461/Ms/Ms/18524
-#EXTINF:-1,US: News 12 New Jersey
-http://nitro.ltd:25461/Ms/Ms/18525
-#EXTINF:-1,US: News 12 Westchester
-http://nitro.ltd:25461/Ms/Ms/18526
-#EXTINF:-1,US: ABC HD Detroit MI
-http://nitro.ltd:25461/Ms/Ms/19813
-#EXTINF:-1,US: ABC HD Milwaukee WI
-http://nitro.ltd:25461/Ms/Ms/19814
-#EXTINF:-1,US: ABC HD Kansas City MO
-http://nitro.ltd:25461/Ms/Ms/19815
-#EXTINF:-1,US: ABC HD San Antonio TX
-http://nitro.ltd:25461/Ms/Ms/19816
-#EXTINF:-1,US: ABC HD Salt Lake City UT
-http://nitro.ltd:25461/Ms/Ms/19817
-#EXTINF:-1,US: ABC HD Minneapolis MN
-http://nitro.ltd:25461/Ms/Ms/19818
-#EXTINF:-1,US: ABC HD Baltimore MD
-http://nitro.ltd:25461/Ms/Ms/19819
-#EXTINF:-1,US: ABC HD Tampa Bay FL
-http://nitro.ltd:25461/Ms/Ms/19820
-#EXTINF:-1,US: ABC HD Phoenix AZ
-http://nitro.ltd:25461/Ms/Ms/19821
-#EXTINF:-1,US: ABC HD Indianapolis IN
-http://nitro.ltd:25461/Ms/Ms/19822
-#EXTINF:-1,US: ABC HD Cleveland OH
-http://nitro.ltd:25461/Ms/Ms/19823
-#EXTINF:-1,US: ABC HD Sacramento CA
-http://nitro.ltd:25461/Ms/Ms/19824
-#EXTINF:-1,US: ABC HD Charlotte NC
-http://nitro.ltd:25461/Ms/Ms/19825
-#EXTINF:-1,US: ABC HD Miami FL
-http://nitro.ltd:25461/Ms/Ms/19826
-#EXTINF:-1,US: ABC HD Orlando FL
-http://nitro.ltd:25461/Ms/Ms/19827
-#EXTINF:-1,US: ABC HD Nashville TN
-http://nitro.ltd:25461/Ms/Ms/19828
-#EXTINF:-1,US: ABC HD San Diego CA
-http://nitro.ltd:25461/Ms/Ms/19829
-#EXTINF:-1,US: ABC HD Denver CO
-http://nitro.ltd:25461/Ms/Ms/19830
-#EXTINF:-1,US: ABC HD Dallas TX
-http://nitro.ltd:25461/Ms/Ms/19831
-#EXTINF:-1,US: ABC HD Pittsburgh PA
-http://nitro.ltd:25461/Ms/Ms/19832
-#EXTINF:-1,US: ABC HD Boston MA
-http://nitro.ltd:25461/Ms/Ms/19833
-#EXTINF:-1,US: ABC HD Hartford CT
-http://nitro.ltd:25461/Ms/Ms/19835
-#EXTINF:-1,US: ABC HD Fresno CA
-http://nitro.ltd:25461/Ms/Ms/19836
-#EXTINF:-1,US: ABC HD Durham
-http://nitro.ltd:25461/Ms/Ms/19837
-#EXTINF:-1,US: ABC HD Atlanta GA
-http://nitro.ltd:25461/Ms/Ms/19838
-#EXTINF:-1,US: ABC HD Chicago IL
-http://nitro.ltd:25461/Ms/Ms/19839
-#EXTINF:-1,US: ABC HD San Francisco CA
-http://nitro.ltd:25461/Ms/Ms/19842
 
-#EXTINF:-1 tvg-id="DisneyChannel.us" tvg-name="US: Disney Channel HD 1080" tvg-logo="https://cdn1.thr.com/sites/default/files/imagecache/landscape_928x523/2014/05/disney_channel_logo_a_l.jpg" group-title="KIDS",US: Disney Channel HD 1080
-http://impulsetv.org:25461/mark/1234/19683
-#EXTINF:-1 tvg-id="DisneyChannel.us" tvg-name="US: Disney Channel 720" tvg-logo="https://cdn1.thr.com/sites/default/files/imagecache/landscape_928x523/2014/05/disney_channel_logo_a_l.jpg" group-title="KIDS",US: Disney Channel 720
-http://impulsetv.org:25461/mark/1234/1456
+#EXTINF:0,ABC
+http://impulsetv.org:25461/Michelle/Michelle/17427
+
+#EXTINF:0,FOX CLASSIC
+http://nitro.ltd:25461/live/Michelle/Michelle/39894.rtmp
+
+#EXTINF:0,FOX CINEMA
+http://nitro.ltd:25461/live/Michelle/Michelle/39895.rtmp
+
+#EXTINF:0, FOX CINEMA 
+http://158.69.228.135:8000/live/mcruz16/64N26T5I0e/72.ts
+
+#EXTINF:0,FOX SERIES 1
+http://nitro.ltd:25461/live/Michelle/Michelle/39889.rtmp
+
+#EXTINF:0,FOX PREMIUM 2
+http://lista.digitalgroup.me/1718/12345/20816
+
+#EXTINF:0,HBO SIGNITURE
+http://painel.ebanonet.com.br:25461/Renato/123456/4361
+
+#EXTINF:0,DISNEY XD
+http://painel.ebanonet.com.br:25461/Renato/123456/4383
+
+#EXTINF:0,SYFY
+http://nitro.ltd:25461/live/Michelle/Michelle/31569.rtmp
+
+#EXTINF:0,MAX
+http://painel.ebanonet.com.br:25461/Renato/123456/4358
+
+#EXTINF:0,FOX29
+http://impulsetv.org:25461/Michelle/Michelle/2956
+
+#EXTINF:0,DISNEY
+http://impulsetv.org:25461/Michelle/Michelle/3410
