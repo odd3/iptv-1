@@ -22,7 +22,7 @@ http://peer3.savitar.tv/Boomerang/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3R
 #EXTINF:0,CARTOON NETWORK
 http://peer2.savitar.tv/CN/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjYvMjAxOSAyOjU5OjQ0IEFNJmhhc2hfdmFsdWU9Yks3QjliNVoxQm1aUks4ckVhMDZ4UT09JnZhbGlkbWludXRlcz0zNjAmaWQ9MA==
 #EXTINF:0,DISNEY
-http://live.savitar.tv/Disney/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjYvMjAxOSA2OjA5OjE3IEFNJmhhc2hfdmFsdWU9cFFRRWdQMGtnSEdBQmM5UHI4WWdPUT09JnZhbGlkbWludXRlcz0zNjAmaWQ9MA==
+http://live.savitar.tv/Disney/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjYvMjAxOSA3OjE3OjExIEFNJmhhc2hfdmFsdWU9U1R6SXRXOFNZcWo0V0V1MnFQeS9CQT09JnZhbGlkbWludXRlcz0zNjAmaWQ9MA==
 #EXTINF:0,DISNEY Junior
 http://live.savitar.tv/DisneyJr/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjYvMjAxOSAzOjAwOjEyIEFNJmhhc2hfdmFsdWU9R0dITkxiZkVqOUZnSWV6bjU0NDQrdz09JnZhbGlkbWludXRlcz0zNjAmaWQ9MA==
 #EXTINF:0,DISNEY XD
