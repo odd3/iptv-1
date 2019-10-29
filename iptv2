@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF:0,BET
-http://hls.123tv.live/cache/bet.m3u8?token=3bC5yTz9xQML7H-N1akWLg&e=1572389971
+http://get.123tv.live/channel/4f536178315132516e50535342517244746a364559513d3d/31/bet.m3u8?1&json=QkVUfHxodHRwOi8vMTIzdHZub3cuY29tL3dwLWNvbnRlbnQvdXBsb2Fkcy8yMDE4LzA4L2JldC5wbmc=
 #EXTINF:0,COMEDY CENTRAL
 http://hls.123tv.live/cache/cc.m3u8?token=ceJ0RK_dY7_CSRQNuhGORw&e=1572390087
 #EXTINF:0,FREEFORM
