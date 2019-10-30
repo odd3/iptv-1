@@ -2,3 +2,15 @@
 
 #EXTINF:0,AMC
 http://212.121.249.34:8080/amc/index.m3u8
+
+#EXTINF:0,Disney
+http://37.193.27.13:81/udp/239.1.15.12:1234
+
+#EXTINF:0,Disney (+7)
+http://158.46.115.68:81/udp/239.255.42.26:1234
+
+#EXTINF:0,Disney HD
+http://185.176.117.243/live/eds/Disney_Channel/HLS_encr/Disney_Channel.m3u8
+
+#EXTINF:0,Disney Junior
+http://103.47.132.164/PLTV/88888888/224/3221226011/04.m3u8
