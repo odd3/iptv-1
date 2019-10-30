@@ -1,16 +1,53 @@
 #EXTM3U
-
-#EXTINF:0,AMC
-http://212.121.249.34:8080/amc/index.m3u8
-
-#EXTINF:0,Disney
-http://37.193.27.13:81/udp/239.1.15.12:1234
-
-#EXTINF:0,Disney (+7)
-http://158.46.115.68:81/udp/239.255.42.26:1234
-
-#EXTINF:0,Disney HD
-http://185.176.117.243/live/eds/Disney_Channel/HLS_encr/Disney_Channel.m3u8
-
-#EXTINF:0,Disney Junior
-http://103.47.132.164/PLTV/88888888/224/3221226011/04.m3u8
+#EXTINF:-1,USA: DC COUNCIL CHANNEL
+http://video.oct.dc.gov/out/u/15_12.m3u8
+#EXTINF:-1,USA: Denver 8 TV
+http://granicusliveus8-a.akamaihd.net/denver/G0080_002/chunklist.m3u8
+#EXTINF:-1,USA: Denver Open Media 56
+http://dkp8rf3nn2n8j.cloudfront.net/live/WIFI-1096k-360p/WIFI-1096k-360p.m3u8
+#EXTINF:-1,USA: Denver Open Media 57
+http://d2amg57no8tp11.cloudfront.net/live/WIFI-696k-360p/WIFI-696k-360p.m3u8
+#EXTINF:-1,USA: DISCOVERY CHANNEL
+http://80.80.160.168/live/8/live.m3u8
+#EXTINF:-1,USA: DISCOVERY SCIENCE
+http://80.80.160.168/live/9/live.m3u8
+#EXTINF:-1,USA: DISTRICT OF COLUMBIA NETWORK
+http://video.oct.dc.gov/out/u/DCN.m3u8
+#EXTINF:-1,USA: DOCURAMA
+http://cinedigm.vo.llnwd.net/conssui/amagi_hls_data_xumo1234A-docuramaA/CDN/master.m3u8
+#EXTINF:-1,USA:
+http://dplive-i.akamaihd.net/hls/live/264199/dpanlive/playlist.m3u8
+#EXTINF:-1,USA: DW ENGLISH GERMANY
+http://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/master.m3u8
+#EXTINF:-1,USA: Escambia County TV
+http://stream.swagit.com/live-edge/escambiacountyfl/live-1-a/chunklist_w1496843195.m3u8
+#EXTINF:-1,USA: ESPERANZA TV ES
+http://k3.usastreams.com:1935/etvSD/etvSD/playlist.m3u8
+#EXTINF:-1,USA: EVINE
+http://aos01-evine.secure.footprint.net/evine/dirty/Evine_Dirty_VIDEO_1_2064000.m3u8
+#EXTINF:-1,USA: EXPO CHANNEL AUSTRALIA
+http://tvsn-i.akamaihd.net/hls/live/261837/expo/expo_750.m3u8
+#EXTINF:-1,USA: F. News Talk Radio
+http://fnurtmp-f.akamaihd.net/i/FNRADIO_1@92141/master.m3u8
+#EXTINF:-1,USA: Fairfax Public Access
+http://cs.ebmcdn.net/eastbay-live-hs-1/fairfax-pull/_definst_/mp4:fairfax.stream/chunklist.m3u8
+#EXTINF:-1,USA: FightBox
+http://ott-cdn.ucom.am/s86/index.m3u8
+#EXTINF:-1,USA: FOLK TV
+http://584b0aa350b92.streamlock.net:1935/folk-tv/myStream.sdp/playlist.m3u8
+#EXTINF:-1,USA: Glendale 11
+http://stream.swagit.com/live-edge/glendaleaz/smil:std-4×3-1-a/chunklist.m3u8
+#EXTINF:-1,USA: Global Fashion Channel
+http://218.202.220.2:5000/nn_live.ts?id=HBO
+#EXTINF:-1,USA: Greenbelt TV
+http://granicusliveus4-a.akamaihd.net/greenbeltmd/G0610_001/chunklist.m3u8
+#EXTINF:-1,USA: Greensboro TV Network
+http://granicusliveus4-a.akamaihd.net/greensboro/G0197_003/chunklist.m3u8
+#EXTINF:-1,USA: HARVEST TV DOCUMENTARY IN MALAYALAM
+http://live.wmncdn.net/harvestusa/d57ffba6564caea2fee3f4085f19a098.sdp/playlist.m3u8
+#EXTINF:-1,USA: HBO 2
+http://161.0.157.50/PLTV/88888888/224/3221227026/index.m3u8
+#EXTINF:-1,USA: HORRORS
+http://170.178.189.66:1935/live/Stream1/playlist.m3u8
+#EXTINF:-1,USA: House of Representatives
+http://d3ktuc8v2sjk6m.cloudfront.net/livetv/ngrp:HouseChannel_all/chucklist.m3u8
