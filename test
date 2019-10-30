@@ -1,53 +1,317 @@
 #EXTM3U
-#EXTINF:-1,USA: DC COUNCIL CHANNEL
-http://video.oct.dc.gov/out/u/15_12.m3u8
-#EXTINF:-1,USA: Denver 8 TV
-http://granicusliveus8-a.akamaihd.net/denver/G0080_002/chunklist.m3u8
-#EXTINF:-1,USA: Denver Open Media 56
-http://dkp8rf3nn2n8j.cloudfront.net/live/WIFI-1096k-360p/WIFI-1096k-360p.m3u8
-#EXTINF:-1,USA: Denver Open Media 57
-http://d2amg57no8tp11.cloudfront.net/live/WIFI-696k-360p/WIFI-696k-360p.m3u8
-#EXTINF:-1,USA: DISCOVERY CHANNEL
-http://80.80.160.168/live/8/live.m3u8
-#EXTINF:-1,USA: DISCOVERY SCIENCE
-http://80.80.160.168/live/9/live.m3u8
-#EXTINF:-1,USA: DISTRICT OF COLUMBIA NETWORK
-http://video.oct.dc.gov/out/u/DCN.m3u8
-#EXTINF:-1,USA: DOCURAMA
-http://cinedigm.vo.llnwd.net/conssui/amagi_hls_data_xumo1234A-docuramaA/CDN/master.m3u8
-#EXTINF:-1,USA:
-http://dplive-i.akamaihd.net/hls/live/264199/dpanlive/playlist.m3u8
-#EXTINF:-1,USA: DW ENGLISH GERMANY
-http://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/master.m3u8
-#EXTINF:-1,USA: Escambia County TV
-http://stream.swagit.com/live-edge/escambiacountyfl/live-1-a/chunklist_w1496843195.m3u8
-#EXTINF:-1,USA: ESPERANZA TV ES
-http://k3.usastreams.com:1935/etvSD/etvSD/playlist.m3u8
-#EXTINF:-1,USA: EVINE
-http://aos01-evine.secure.footprint.net/evine/dirty/Evine_Dirty_VIDEO_1_2064000.m3u8
-#EXTINF:-1,USA: EXPO CHANNEL AUSTRALIA
-http://tvsn-i.akamaihd.net/hls/live/261837/expo/expo_750.m3u8
-#EXTINF:-1,USA: F. News Talk Radio
-http://fnurtmp-f.akamaihd.net/i/FNRADIO_1@92141/master.m3u8
-#EXTINF:-1,USA: Fairfax Public Access
-http://cs.ebmcdn.net/eastbay-live-hs-1/fairfax-pull/_definst_/mp4:fairfax.stream/chunklist.m3u8
-#EXTINF:-1,USA: FightBox
-http://ott-cdn.ucom.am/s86/index.m3u8
-#EXTINF:-1,USA: FOLK TV
-http://584b0aa350b92.streamlock.net:1935/folk-tv/myStream.sdp/playlist.m3u8
-#EXTINF:-1,USA: Glendale 11
-http://stream.swagit.com/live-edge/glendaleaz/smil:std-4×3-1-a/chunklist.m3u8
-#EXTINF:-1,USA: Global Fashion Channel
-http://218.202.220.2:5000/nn_live.ts?id=HBO
-#EXTINF:-1,USA: Greenbelt TV
-http://granicusliveus4-a.akamaihd.net/greenbeltmd/G0610_001/chunklist.m3u8
-#EXTINF:-1,USA: Greensboro TV Network
-http://granicusliveus4-a.akamaihd.net/greensboro/G0197_003/chunklist.m3u8
-#EXTINF:-1,USA: HARVEST TV DOCUMENTARY IN MALAYALAM
-http://live.wmncdn.net/harvestusa/d57ffba6564caea2fee3f4085f19a098.sdp/playlist.m3u8
-#EXTINF:-1,USA: HBO 2
-http://161.0.157.50/PLTV/88888888/224/3221227026/index.m3u8
-#EXTINF:-1,USA: HORRORS
-http://170.178.189.66:1935/live/Stream1/playlist.m3u8
-#EXTINF:-1,USA: House of Representatives
-http://d3ktuc8v2sjk6m.cloudfront.net/livetv/ngrp:HouseChannel_all/chucklist.m3u8
+
+#EXTINF:-1,US: ABC News FHD
+http://31.220.1.135:88/Yrqnf20mdd/TvsDRJPue1/26357
+#EXTINF:-1,US: ABC News HD
+http://31.220.1.135:88/Yrqnf20mdd/TvsDRJPue1/26356
+#EXTINF:-1,US: AFN Prime FHD
+http://31.220.1.135:88/Yrqnf20mdd/TvsDRJPue1/26355
+#EXTINF:-1,US: AFN Prime HD
+http://31.220.1.135:88/Yrqnf20mdd/TvsDRJPue1/26354
+#EXTINF:-1,US: AFN Sports HD
+http://31.220.1.135:88/Yrqnf20mdd/TvsDRJPue1/26353
+#EXTINF:-1,US: AMC HD
+http://31.220.1.135:88/Yrqnf20mdd/TvsDRJPue1/26352
+#EXTINF:-1,US: Animal Planet HD
+http://31.220.1.135:88/Yrqnf20mdd/TvsDRJPue1/26351
+#EXTINF:-1,US: Sport US HD
+http://31.220.1.135:88/Yrqnf20mdd/TvsDRJPue1/26178
+#EXTINF:-1,US: BET HD
+http://31.220.1.135:88/Yrqnf20mdd/TvsDRJPue1/26350
+#EXTINF:-1,US: Bloomberg
+http://31.220.1.135:88/Yrqnf20mdd/TvsDRJPue1/26349
+#EXTINF:-1,US: Bloomberg HD
+http://31.220.1.135:88/Yrqnf20mdd/TvsDRJPue1/26348
+#EXTINF:-1,US: Boomerang FHD
+http://31.220.1.135:88/Yrqnf20mdd/TvsDRJPue1/26347
+#EXTINF:-1,US: Boomerang HD
+http://31.220.1.135:88/Yrqnf20mdd/TvsDRJPue1/26346
+#EXTINF:-1,US: Bravo HD
+http://31.220.1.135:88/Yrqnf20mdd/TvsDRJPue1/26345
+#EXTINF:-1,US: Cartoon Network HD
+http://31.220.1.135:88/Yrqnf20mdd/TvsDRJPue1/26336
+#EXTINF:-1,US: CBS HD
+http://31.220.1.135:88/Yrqnf20mdd/TvsDRJPue1/26344
+#EXTINF:-1,US: CBS San Diego HD
+http://31.220.1.135:88/Yrqnf20mdd/TvsDRJPue1/26343
+#EXTINF:-1,US: CBSN FHD
+http://31.220.1.135:88/Yrqnf20mdd/TvsDRJPue1/26342
+#EXTINF:-1,US: CBSN HD
+http://31.220.1.135:88/Yrqnf20mdd/TvsDRJPue1/26341
+#EXTINF:-1,US: Cinema 01 PPV FHD
+http://31.220.1.135:88/Yrqnf20mdd/TvsDRJPue1/26335
+#EXTINF:-1,US: Cinema 02 PPV FHD
+http://31.220.1.135:88/Yrqnf20mdd/TvsDRJPue1/26334
+#EXTINF:-1,US: Cinema 03 PPV FHD
+http://31.220.1.135:88/Yrqnf20mdd/TvsDRJPue1/26333
+#EXTINF:-1,US: Cinema 04 PPV FHD
+http://31.220.1.135:88/Yrqnf20mdd/TvsDRJPue1/26332
+#EXTINF:-1,US: Cinema 05 PPV FHD
+http://31.220.1.135:88/Yrqnf20mdd/TvsDRJPue1/26331
+#EXTINF:-1,US: Cinema 06 PPV FHD
+http://31.220.1.135:88/Yrqnf20mdd/TvsDRJPue1/26330
+#EXTINF:-1,US: Cinema 07 PPV FHD
+http://31.220.1.135:88/Yrqnf20mdd/TvsDRJPue1/26329
+#EXTINF:-1,US: Cinema 08 PPV FHD
+http://31.220.1.135:88/Yrqnf20mdd/TvsDRJPue1/26328
+#EXTINF:-1,US: Cinema 09 PPV FHD
+http://31.220.1.135:88/Yrqnf20mdd/TvsDRJPue1/26327
+#EXTINF:-1,US: Cinema 10 PPV FHD
+http://31.220.1.135:88/Yrqnf20mdd/TvsDRJPue1/26326
+#EXTINF:-1,US: Cinema 11 PPV FHD
+http://31.220.1.135:88/Yrqnf20mdd/TvsDRJPue1/26325
+#EXTINF:-1,US: Cinema 12 PPV FHD
+http://31.220.1.135:88/Yrqnf20mdd/TvsDRJPue1/26324
+#EXTINF:-1,US: Cinema 13 PPV FHD
+http://31.220.1.135:88/Yrqnf20mdd/TvsDRJPue1/26323
+#EXTINF:-1,US: Cinema 14 PPV FHD
+http://31.220.1.135:88/Yrqnf20mdd/TvsDRJPue1/26322
+#EXTINF:-1,US: Cinema 15 PPV FHD
+http://31.220.1.135:88/Yrqnf20mdd/TvsDRJPue1/26321
+#EXTINF:-1,US: Cinema 16 PPV FHD
+http://31.220.1.135:88/Yrqnf20mdd/TvsDRJPue1/26320
+#EXTINF:-1,US: Cinema 17 PPV FHD
+http://31.220.1.135:88/Yrqnf20mdd/TvsDRJPue1/26319
+#EXTINF:-1,US: Cinema 18 PPV FHD
+http://31.220.1.135:88/Yrqnf20mdd/TvsDRJPue1/26318
+#EXTINF:-1,US: Cinema 19 PPV FHD
+http://31.220.1.135:88/Yrqnf20mdd/TvsDRJPue1/26317
+#EXTINF:-1,US: Cinema 20 PPV FHD
+http://31.220.1.135:88/Yrqnf20mdd/TvsDRJPue1/26316
+#EXTINF:-1,US: Cinemax Action 2 FHD
+http://31.220.1.135:88/Yrqnf20mdd/TvsDRJPue1/26294
+#EXTINF:-1,US: Cinemax Action East FHD
+http://31.220.1.135:88/Yrqnf20mdd/TvsDRJPue1/26293
+#EXTINF:-1,US: Cinemax Action HD
+http://31.220.1.135:88/Yrqnf20mdd/TvsDRJPue1/26292
+#EXTINF:-1,US: Cinemax East FHD
+http://31.220.1.135:88/Yrqnf20mdd/TvsDRJPue1/26291
+#EXTINF:-1,US: Cinemax More HD
+http://31.220.1.135:88/Yrqnf20mdd/TvsDRJPue1/26290
+#EXTINF:-1,US: Cinemax West FHD
+http://31.220.1.135:88/Yrqnf20mdd/TvsDRJPue1/26289
+#EXTINF:-1,US: CNN FHD
+http://31.220.1.135:88/Yrqnf20mdd/TvsDRJPue1/26340
+#EXTINF:-1,US: CNN HD
+http://31.220.1.135:88/Yrqnf20mdd/TvsDRJPue1/26339
+#EXTINF:-1,US: Comedy Central HD
+http://31.220.1.135:88/Yrqnf20mdd/TvsDRJPue1/26288
+#EXTINF:-1,US: CW FHD
+http://31.220.1.135:88/Yrqnf20mdd/TvsDRJPue1/26338
+#EXTINF:-1,US: CW HD
+http://31.220.1.135:88/Yrqnf20mdd/TvsDRJPue1/26337
+#EXTINF:-1,US: Discovery Channel CA
+http://31.220.1.135:88/Yrqnf20mdd/TvsDRJPue1/26286
+#EXTINF:-1,US: Discovery Channel HD
+http://31.220.1.135:88/Yrqnf20mdd/TvsDRJPue1/26285
+#EXTINF:-1,US: Discovery Velocity HD
+http://31.220.1.135:88/Yrqnf20mdd/TvsDRJPue1/26284
+#EXTINF:-1,US: Disney Channel HD
+http://31.220.1.135:88/Yrqnf20mdd/TvsDRJPue1/26283
+#EXTINF:-1,US: Disney XD HD
+http://31.220.1.135:88/Yrqnf20mdd/TvsDRJPue1/26282
+#EXTINF:-1,US: DIY Network HD
+http://31.220.1.135:88/Yrqnf20mdd/TvsDRJPue1/26287
+#EXTINF:-1,US: E! Entertainment FHD
+http://31.220.1.135:88/Yrqnf20mdd/TvsDRJPue1/26281
+#EXTINF:-1,US: E! Entertainment HD
+http://31.220.1.135:88/Yrqnf20mdd/TvsDRJPue1/26280
+#EXTINF:-1,US: El Rey Network HD
+http://31.220.1.135:88/Yrqnf20mdd/TvsDRJPue1/26272
+#EXTINF:-1,US: ESPN 1
+http://31.220.1.135:88/Yrqnf20mdd/TvsDRJPue1/26277
+#EXTINF:-1,US: ESPN 1 FHD
+http://31.220.1.135:88/Yrqnf20mdd/TvsDRJPue1/26279
+#EXTINF:-1,US: ESPN 1 HD
+http://31.220.1.135:88/Yrqnf20mdd/TvsDRJPue1/26278
+#EXTINF:-1,US: ESPN 2
+http://31.220.1.135:88/Yrqnf20mdd/TvsDRJPue1/26274
+#EXTINF:-1,US: ESPN 2 FHD
+http://31.220.1.135:88/Yrqnf20mdd/TvsDRJPue1/26276
+#EXTINF:-1,US: ESPN 2 HD
+http://31.220.1.135:88/Yrqnf20mdd/TvsDRJPue1/26275
+#EXTINF:-1,US: ESPN U HD
+http://31.220.1.135:88/Yrqnf20mdd/TvsDRJPue1/26273
+#EXTINF:-1,US: Family HD
+http://31.220.1.135:88/Yrqnf20mdd/TvsDRJPue1/26266
+#EXTINF:-1,US: Food Network HD
+http://31.220.1.135:88/Yrqnf20mdd/TvsDRJPue1/26265
+#EXTINF:-1,US: FOX 4 FHD
+http://31.220.1.135:88/Yrqnf20mdd/TvsDRJPue1/26271
+#EXTINF:-1,US: FOX 43
+http://31.220.1.135:88/Yrqnf20mdd/TvsDRJPue1/26270
+#EXTINF:-1,US: Fox es HD
+http://31.220.1.135:88/Yrqnf20mdd/TvsDRJPue1/26264
+#EXTINF:-1,US: Fox HD
+http://31.220.1.135:88/Yrqnf20mdd/TvsDRJPue1/26263
+#EXTINF:-1,US: FOX San Diego HD
+http://31.220.1.135:88/Yrqnf20mdd/TvsDRJPue1/26269
+#EXTINF:-1,US: Fox Soccer Plus HD
+http://31.220.1.135:88/Yrqnf20mdd/TvsDRJPue1/26262
+#EXTINF:-1,US: Fox Sports 1 HD
+http://31.220.1.135:88/Yrqnf20mdd/TvsDRJPue1/26261
+#EXTINF:-1,US: Fox Sports 2 HD
+http://31.220.1.135:88/Yrqnf20mdd/TvsDRJPue1/26260
+#EXTINF:-1,US: Fox Sports Carolina HD
+http://31.220.1.135:88/Yrqnf20mdd/TvsDRJPue1/26259
+#EXTINF:-1,US: Fox Sports Cincinnati HD
+http://31.220.1.135:88/Yrqnf20mdd/TvsDRJPue1/26258
+#EXTINF:-1,US: Fox Sports Detroit HD
+http://31.220.1.135:88/Yrqnf20mdd/TvsDRJPue1/26257
+#EXTINF:-1,US: Fox Sports Florida HD
+http://31.220.1.135:88/Yrqnf20mdd/TvsDRJPue1/26256
+#EXTINF:-1,US: Fox Sports Plus FHD
+http://31.220.1.135:88/Yrqnf20mdd/TvsDRJPue1/26255
+#EXTINF:-1,US: Fox Sports Plus HD
+http://31.220.1.135:88/Yrqnf20mdd/TvsDRJPue1/26254
+#EXTINF:-1,US: Fox Sports South HD
+http://31.220.1.135:88/Yrqnf20mdd/TvsDRJPue1/26253
+#EXTINF:-1,US: Free Form HD
+http://31.220.1.135:88/Yrqnf20mdd/TvsDRJPue1/26252
+#EXTINF:-1,US: FX
+http://31.220.1.135:88/Yrqnf20mdd/TvsDRJPue1/26267
+#EXTINF:-1,US: FX HD
+http://31.220.1.135:88/Yrqnf20mdd/TvsDRJPue1/26268
+#EXTINF:-1,US: GRIT HD
+http://31.220.1.135:88/Yrqnf20mdd/TvsDRJPue1/26251
+#EXTINF:-1,US: GSN HD
+http://31.220.1.135:88/Yrqnf20mdd/TvsDRJPue1/26250
+#EXTINF:-1,US: Hallmark Channel HD
+http://31.220.1.135:88/Yrqnf20mdd/TvsDRJPue1/26242
+#EXTINF:-1,US: HBO 2 FHD
+http://31.220.1.135:88/Yrqnf20mdd/TvsDRJPue1/26249
+#EXTINF:-1,US: HBO 2 West FHD
+http://31.220.1.135:88/Yrqnf20mdd/TvsDRJPue1/26248
+#EXTINF:-1,US: HBO Family HD
+http://31.220.1.135:88/Yrqnf20mdd/TvsDRJPue1/26247
+#EXTINF:-1,US: HBO Plus West FHD
+http://31.220.1.135:88/Yrqnf20mdd/TvsDRJPue1/26246
+#EXTINF:-1,US: HBO Signature FHD
+http://31.220.1.135:88/Yrqnf20mdd/TvsDRJPue1/26245
+#EXTINF:-1,US: HBO Signature HD
+http://31.220.1.135:88/Yrqnf20mdd/TvsDRJPue1/26244
+#EXTINF:-1,US: HGTV HD
+http://31.220.1.135:88/Yrqnf20mdd/TvsDRJPue1/26243
+#EXTINF:-1,US: History HD
+http://31.220.1.135:88/Yrqnf20mdd/TvsDRJPue1/26241
+#EXTINF:-1,US: IndiePlex FHD
+http://31.220.1.135:88/Yrqnf20mdd/TvsDRJPue1/26240
+#EXTINF:-1,US: Investigation Discovery HD
+http://31.220.1.135:88/Yrqnf20mdd/TvsDRJPue1/26239
+#EXTINF:-1,US: Lifetime HD
+http://31.220.1.135:88/Yrqnf20mdd/TvsDRJPue1/26238
+#EXTINF:-1,US: MLB Network HD
+http://31.220.1.135:88/Yrqnf20mdd/TvsDRJPue1/26237
+#EXTINF:-1,US: MoreMax FHD
+http://31.220.1.135:88/Yrqnf20mdd/TvsDRJPue1/26236
+#EXTINF:-1,US: MovieMax FHD
+http://31.220.1.135:88/Yrqnf20mdd/TvsDRJPue1/26235
+#EXTINF:-1,US: MoviePlex FHD
+http://31.220.1.135:88/Yrqnf20mdd/TvsDRJPue1/26234
+#EXTINF:-1,US: Nat Geo Wild HD
+http://31.220.1.135:88/Yrqnf20mdd/TvsDRJPue1/26226
+#EXTINF:-1,US: Nat Geographic HD
+http://31.220.1.135:88/Yrqnf20mdd/TvsDRJPue1/26225
+#EXTINF:-1,US: NBC Golf HD
+http://31.220.1.135:88/Yrqnf20mdd/TvsDRJPue1/26233
+#EXTINF:-1,US: NBC News HD
+http://31.220.1.135:88/Yrqnf20mdd/TvsDRJPue1/26232
+#EXTINF:-1,US: NBC San Diego HD
+http://31.220.1.135:88/Yrqnf20mdd/TvsDRJPue1/26231
+#EXTINF:-1,US: NBCSN HD
+http://31.220.1.135:88/Yrqnf20mdd/TvsDRJPue1/26230
+#EXTINF:-1,US: NFL Network HD
+http://31.220.1.135:88/Yrqnf20mdd/TvsDRJPue1/26229
+#EXTINF:-1,US: NFL Now HD
+http://31.220.1.135:88/Yrqnf20mdd/TvsDRJPue1/26228
+#EXTINF:-1,US: NHL Network HD
+http://31.220.1.135:88/Yrqnf20mdd/TvsDRJPue1/26227
+#EXTINF:-1,US: Oprah Winfrey Network HD
+http://31.220.1.135:88/Yrqnf20mdd/TvsDRJPue1/26224
+#EXTINF:-1,US: OuterMax FHD
+http://31.220.1.135:88/Yrqnf20mdd/TvsDRJPue1/26223
+#EXTINF:-1,US: Reelz HD
+http://31.220.1.135:88/Yrqnf20mdd/TvsDRJPue1/26222
+#EXTINF:-1,US: RetroPlex FHD
+http://31.220.1.135:88/Yrqnf20mdd/TvsDRJPue1/26221
+#EXTINF:-1,US: Science HD
+http://31.220.1.135:88/Yrqnf20mdd/TvsDRJPue1/26219
+#EXTINF:-1,US: Showtime 2 HD
+http://31.220.1.135:88/Yrqnf20mdd/TvsDRJPue1/26218
+#EXTINF:-1,US: Showtime East HD
+http://31.220.1.135:88/Yrqnf20mdd/TvsDRJPue1/26217
+#EXTINF:-1,US: Showtime Showcase HD
+http://31.220.1.135:88/Yrqnf20mdd/TvsDRJPue1/26216
+#EXTINF:-1,US: Showtime West FHD
+http://31.220.1.135:88/Yrqnf20mdd/TvsDRJPue1/26215
+#EXTINF:-1,US: Spike TV HD
+http://31.220.1.135:88/Yrqnf20mdd/TvsDRJPue1/26214
+#EXTINF:-1,US: Sportsnet 360 HD
+http://31.220.1.135:88/Yrqnf20mdd/TvsDRJPue1/26213
+#EXTINF:-1,US: Sportsnet East HD
+http://31.220.1.135:88/Yrqnf20mdd/TvsDRJPue1/26212
+#EXTINF:-1,US: StarMax HD
+http://31.220.1.135:88/Yrqnf20mdd/TvsDRJPue1/26359
+#EXTINF:-1,US: Starz Black FHD
+http://31.220.1.135:88/Yrqnf20mdd/TvsDRJPue1/26209
+#EXTINF:-1,US: Starz Cinema East
+http://31.220.1.135:88/Yrqnf20mdd/TvsDRJPue1/26208
+#EXTINF:-1,US: Starz Cinema FHD
+http://31.220.1.135:88/Yrqnf20mdd/TvsDRJPue1/26207
+#EXTINF:-1,US: Starz Cinema West FHD
+http://31.220.1.135:88/Yrqnf20mdd/TvsDRJPue1/26206
+#EXTINF:-1,US: Starz Comedy FHD
+http://31.220.1.135:88/Yrqnf20mdd/TvsDRJPue1/26205
+#EXTINF:-1,US: Starz East FHD
+http://31.220.1.135:88/Yrqnf20mdd/TvsDRJPue1/26204
+#EXTINF:-1,US: Starz Edge FHD
+http://31.220.1.135:88/Yrqnf20mdd/TvsDRJPue1/26203
+#EXTINF:-1,US: Starz Edge HD
+http://31.220.1.135:88/Yrqnf20mdd/TvsDRJPue1/26202
+#EXTINF:-1,US: Starz Edge West FHD
+http://31.220.1.135:88/Yrqnf20mdd/TvsDRJPue1/26201
+#EXTINF:-1,US: Starz Encore 2 East FHD
+http://31.220.1.135:88/Yrqnf20mdd/TvsDRJPue1/26200
+#EXTINF:-1,US: Starz Encore Action FHD
+http://31.220.1.135:88/Yrqnf20mdd/TvsDRJPue1/26199
+#EXTINF:-1,US: Starz Encore Black FHD
+http://31.220.1.135:88/Yrqnf20mdd/TvsDRJPue1/26198
+#EXTINF:-1,US: Starz Encore Classic FHD
+http://31.220.1.135:88/Yrqnf20mdd/TvsDRJPue1/26197
+#EXTINF:-1,US: Starz Encore East FHD
+http://31.220.1.135:88/Yrqnf20mdd/TvsDRJPue1/26196
+#EXTINF:-1,US: Starz Encore Family FHD
+http://31.220.1.135:88/Yrqnf20mdd/TvsDRJPue1/26194
+#EXTINF:-1,US: Starz Encore FHD
+http://31.220.1.135:88/Yrqnf20mdd/TvsDRJPue1/26195
+#EXTINF:-1,US: Starz Encore HD
+http://31.220.1.135:88/Yrqnf20mdd/TvsDRJPue1/26193
+#EXTINF:-1,US: Starz Encore Suspense FHD
+http://31.220.1.135:88/Yrqnf20mdd/TvsDRJPue1/26192
+#EXTINF:-1,US: Starz Encore West FHD
+http://31.220.1.135:88/Yrqnf20mdd/TvsDRJPue1/26191
+#EXTINF:-1,US: Starz Encore Western FHD
+http://31.220.1.135:88/Yrqnf20mdd/TvsDRJPue1/26190
+#EXTINF:-1,US: Starz Family FHD
+http://31.220.1.135:88/Yrqnf20mdd/TvsDRJPue1/26188
+#EXTINF:-1,US: Starz FHD
+http://31.220.1.135:88/Yrqnf20mdd/TvsDRJPue1/26189
+#EXTINF:-1,US: Starz Kids & Family FHD
+http://31.220.1.135:88/Yrqnf20mdd/TvsDRJPue1/26187
+#EXTINF:-1,US: Starz West FHD
+http://31.220.1.135:88/Yrqnf20mdd/TvsDRJPue1/26186
+#EXTINF:-1,US: Staz West FHD
+http://31.220.1.135:88/Yrqnf20mdd/TvsDRJPue1/26185
+#EXTINF:-1,US: SUNDANCE FHD
+http://31.220.1.135:88/Yrqnf20mdd/TvsDRJPue1/26220
+#EXTINF:-1,US: SyFy HD
+http://31.220.1.135:88/Yrqnf20mdd/TvsDRJPue1/26184
+#EXTINF:-1,US: T.N.T FHD
+http://31.220.1.135:88/Yrqnf20mdd/TvsDRJPue1/26183
+#EXTINF:-1,US: UFC Fight Pass
+http://31.220.1.135:88/Yrqnf20mdd/TvsDRJPue1/26181
+#EXTINF:-1,US: USA HD
+http://31.220.1.135:88/Yrqnf20mdd/TvsDRJPue1/26180
+#EXTINF:-1,US: WWE HD
+http://31.220.1.135:88/Yrqnf20mdd/TvsDRJPue1/26179
+
