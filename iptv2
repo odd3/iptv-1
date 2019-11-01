@@ -18,19 +18,19 @@ http://peer3.savitar.tv/TruTV/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU
 http://live.savitar.tv/TVLand/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMS8yMDE5IDY6MTM6NDEgUE0maGFzaF92YWx1ZT10QWEzYk9EVHlKVzgyNlJIaXVvZzN3PT0mdmFsaWRtaW51dGVzPTM2MCZpZD0w
 
 #EXTINF:0,BOOMERANG
-http://peer2.savitar.tv/Boomerang/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjYvMjAxOSAzOjI1OjIxIFBNJmhhc2hfdmFsdWU9TDk4VVFNaTBEZ1B0ckUyWlkwdXFjdz09JnZhbGlkbWludXRlcz0zNjAmaWQ9MA==
+http://peer3.savitar.tv/Boomerang/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMS8yMDE5IDY6MjE6MTcgUE0maGFzaF92YWx1ZT1vdFV2VXBXSHVDLzZJRzN5alB3bmdnPT0mdmFsaWRtaW51dGVzPTM2MCZpZD0w
 #EXTINF:0,CARTOON NETWORK
-http://sv1.dailymotion.com.1cdn.host/live/ctnw/chunks.m3u8
+http://peer2.savitar.tv/CN/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMS8yMDE5IDY6MjE6MzggUE0maGFzaF92YWx1ZT1NZ3Fydi9vWVVBRmg3V2hTT2xPZWxnPT0mdmFsaWRtaW51dGVzPTM2MCZpZD0w
 #EXTINF:0,DISNEY
-http://hls.123tv.live/cache/disney.m3u8?token=DIm_-mPU31POfO0L2v8FFw&e=1572390501
+http://live.savitar.tv/Disney/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMS8yMDE5IDY6MjE6NTkgUE0maGFzaF92YWx1ZT1ZV0ZhdjJIWnorQXJZTTIwTzhUdERnPT0mdmFsaWRtaW51dGVzPTM2MCZpZD0w
 #EXTINF:0,DISNEY Junior
-http://hls.123tv.live/cache/disneyjr.m3u8?token=xuS29LWT8on1NDC68HHpOw&e=1572390541
+http://peer3.savitar.tv/DisneyJr/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMS8yMDE5IDY6MjI6MjUgUE0maGFzaF92YWx1ZT14U1BOMTdRMng4Y1lqcHVPK1dvM2NBPT0mdmFsaWRtaW51dGVzPTM2MCZpZD0w
 #EXTINF:0,DISNEY XD
-http://hls.123tv.live/cache/disneyxd.m3u8?token=gC8w2zPyZRiAXKejt6qWvQ&e=1572390575
+http://live.savitar.tv/DisneyXD/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMS8yMDE5IDY6MjA6MTkgUE0maGFzaF92YWx1ZT11L1BQKzU4SzJiUEJ6S01RK3hJS3lBPT0mdmFsaWRtaW51dGVzPTM2MCZpZD0w
 #EXTINF:0,NICKELODEON
-http://ms-azure-video.gslb.startimestv.com/live/NICKELODEON_836_250_320x240_191618/playlist.m3u8
+http://live.savitar.tv/Nickelodeon/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMS8yMDE5IDY6MjE6MTkgUE0maGFzaF92YWx1ZT0xSDFyVnJrcVFJalBGRWwvRGJMU253PT0mdmFsaWRtaW51dGVzPTM2MCZpZD0w
 #EXTINF:0,Nick Jr.
-https://stitcher.pluto.tv/stitch/hls/channel/5ca6748a37b88b269472dad9/master.m3u8?deviceType=&deviceMake=&deviceVersion=&deviceId=&appVersion=&deviceDNT=0&deviceModel=&embedPartner=pluto.tv&sid=ccuqage0urlhccbp8kbecjc830
+http://peer3.savitar.tv/Nicktoons/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMS8yMDE5IDY6MjM6NDIgUE0maGFzaF92YWx1ZT1WT2Y4bk1BN0NGRVpQc2ZEemNlWWV3PT0mdmFsaWRtaW51dGVzPTM2MCZpZD0w
 #EXTINF:0,NICK TOONS
 http://live.savitar.tv/Nicktoons/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjYvMjAxOSAzOjIyOjAwIFBNJmhhc2hfdmFsdWU9RHZVay9la2hSbkhnK01EdFluaGNJdz09JnZhbGlkbWludXRlcz0zNjAmaWQ9MA==
 #EXTINF:0,PBS
